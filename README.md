@@ -4,7 +4,8 @@ This is an experimental use of Github to document the policies and practices of 
 a workers' cooperative in Aotearoa New Zealand that is building the Loomio tool, an open-source platform
 for collaborative decision making.
 
-[Find out more about Loomio here](http://loomio.org)
+[Check out Loomio here](http://loomio.org)
+[Check out our growing wiki here](https://github.com/loomio/loomio-org/wiki)
 
 ## License
 
