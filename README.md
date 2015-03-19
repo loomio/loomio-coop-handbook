@@ -5,6 +5,7 @@ a workers' cooperative in Aotearoa New Zealand that is building the Loomio tool,
 for collaborative decision making.
 
 [Check out Loomio here](http://loomio.org)
+
 [Check out our growing wiki here](https://github.com/loomio/loomio-org/wiki)
 
 ## License
