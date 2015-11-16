@@ -1,12 +1,15 @@
 ## Welcome to Loomio-Org
 
-This is an experimental use of Github to document the policies and practices of the Loomio organisation,
-a workers' cooperative in Aotearoa New Zealand that is building the Loomio tool, an open-source platform
-for collaborative decision making.
+Policies and practices of the Loomio organisation: a workers' cooperative in Aotearoa New Zealand behind [loomio.org](http://loomio.org), an open-source platform for collaborative decision making.
 
-[Check out Loomio here](http://loomio.org)
+Articles:
 
-[Check out our growing wiki here](https://github.com/loomio/loomio-org/wiki)
+* [stewarding: accountability and support in an organisation without bosses](stewarding.md)
+* [swimming safely in the ocean of Loomio internal communications](communications.md)
+* [finding your way in an emergent organisation: structure, roles, rhythm](structure.md)
+
+For more related stories, check the [Loomio blog](http://blog.loomio.org/category/articles-and-interviews/) and the [Enspiral Tales](medium.com/enspiral-tales) publication on Medium :)
+
 
 ## License
 
