@@ -25,7 +25,7 @@ Stewarding is not about work, its about you as an individual, and your relations
 
 Everyone working on Loomio should have a steward (if you don’t, talk to Rich!). Usually, all the members of the co-op are stewarding someone, which means there are lots of connections across the co-op and lots of opportunities for exchanging insights.
 
-![](http://i.imgur.com/Ojo4ykU.png)
+![](img/stewarding-relationships.jpg)
 
 Most people meet with their stewards about once per month; you’ll probably find a rhythm that works for you. Your steward might ask you questions like:
 
