@@ -1,6 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
+* [Our Cooperative](our_cooperative.md)
+   * [Constitution](constitution.md)
+   * [Membership](membership.md)
+   * [Board](board.md)
+   * [Purpose & Vision](purpose_&_vision.md)
+   * [History](history.md)
 * [Collaborative Practice](collaborative_practice.md)
    * [Stewarding](stewarding.md)
    * [Communications](communications.md)
@@ -13,10 +19,4 @@
    * [Health & Safety](health_&_safety.md)
    * [Conflict Resolution](conflict_resolution.md)
    * [Employment](employment.md)
-* [Our Cooperative](our_cooperative.md)
-   * [Constitution](constitution.md)
-   * [Membership](membership.md)
-   * [Board](board.md)
-   * [Purpose & Vision](purpose_&_vision.md)
-   * [History](history.md)
 
