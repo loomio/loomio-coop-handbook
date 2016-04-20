@@ -13,5 +13,5 @@
    * [Health & Safety](health_&_safety.md)
    * [Conflict Resolution](conflict_resolution.md)
 * [Our Cooperative](our_cooperative.md)
-   * Constitution
+   * [Constitution](constitution.md)
 
