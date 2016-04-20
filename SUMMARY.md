@@ -6,6 +6,7 @@
    * [Communications](communications.md)
    * [Structure](structure.md)
    * [Working Groups](working_groups.md)
+   * Planning
 * [Policies](policies.md)
    * [Annual Leave](annual_leave.md)
    * [Health & Safety](health_&_safety.md)
