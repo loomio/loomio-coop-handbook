@@ -14,5 +14,5 @@
    * [Conflict Resolution](conflict_resolution.md)
 * [Our Cooperative](our_cooperative.md)
    * [Constitution](constitution.md)
-   * Membership
+   * [Membership](membership.md)
 
