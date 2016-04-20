@@ -15,5 +15,5 @@
 * [Our Cooperative](our_cooperative.md)
    * [Constitution](constitution.md)
    * [Membership](membership.md)
-   * Board
+   * [Board](board.md)
 
