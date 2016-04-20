@@ -4,7 +4,6 @@
 * [Our Cooperative](our_cooperative.md)
    * [Constitution](constitution.md)
    * [Membership](membership.md)
-   * [Board](board.md)
    * [Purpose & Vision](purpose_&_vision.md)
    * [History](history.md)
    * [Governance](governance.md)
