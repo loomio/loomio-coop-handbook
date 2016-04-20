@@ -12,6 +12,7 @@
    * [Annual Leave](annual_leave.md)
    * [Health & Safety](health_&_safety.md)
    * [Conflict Resolution](conflict_resolution.md)
+   * Employment
 * [Our Cooperative](our_cooperative.md)
    * [Constitution](constitution.md)
    * [Membership](membership.md)
