@@ -16,5 +16,5 @@
    * [Constitution](constitution.md)
    * [Membership](membership.md)
    * [Board](board.md)
-   * Purpose & Vision
+   * [Purpose & Vision](purpose_&_vision.md)
 
