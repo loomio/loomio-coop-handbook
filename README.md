@@ -11,7 +11,5 @@ Articles:
 For more related stories, check the [Loomio blog](http://blog.loomio.org/category/articles-and-interviews/) and the [Enspiral Blog](http://blog.enspiral.com).
 
 
-## License
-
 ![Creative Commons Licence](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/).
