@@ -1,4 +1,4 @@
 # Summary
 
-* Policies
+* [Policies](policies.md)
 
