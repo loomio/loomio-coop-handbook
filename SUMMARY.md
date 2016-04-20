@@ -7,7 +7,7 @@
    * [Board](board.md)
    * [Purpose & Vision](purpose_&_vision.md)
    * [History](history.md)
-   * Governance
+   * [Governance](governance.md)
 * [Collaborative Practice](collaborative_practice.md)
    * [Stewarding](stewarding.md)
    * [Communications](communications.md)
