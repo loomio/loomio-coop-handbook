@@ -1,4 +1,4 @@
-## Welcome to Loomio-Org
+## Loomio Co-op Handbook
 
 Policies and practices of the Loomio organisation: a workers' cooperative in Aotearoa New Zealand behind [loomio.org](http://loomio.org), an open-source platform for collaborative decision making.
 
@@ -8,7 +8,7 @@ Articles:
 * [swimming safely in the ocean of Loomio internal communications](communications.md)
 * [finding your way in an emergent organisation: structure, roles, rhythm](structure.md)
 
-For more related stories, check the [Loomio blog](http://blog.loomio.org/category/articles-and-interviews/) and the [Enspiral Tales](http://medium.com/enspiral-tales) publication on Medium :)
+For more related stories, check the [Loomio blog](http://blog.loomio.org/category/articles-and-interviews/) and the [Enspiral Blog](http://blog.enspiral.com).
 
 
 ## License
