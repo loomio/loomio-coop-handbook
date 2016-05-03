@@ -16,6 +16,7 @@
    * [Sprints](sprints.md)
    * [Retreats](retreats.md)
    * [Coordination](coordination.md)
+   * Professional Development
 * [Policies](policies.md)
    * [Annual Leave](annual_leave.md)
    * [Health & Safety](health_&_safety.md)
