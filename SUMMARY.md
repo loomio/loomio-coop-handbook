@@ -22,6 +22,7 @@
    * [Health & Safety](health_&_safety.md)
    * [Conflict Resolution](conflict_resolution.md)
    * [Employment](employment.md)
+   * Loomio Points
 * [Processes & Guides](processes_guides.md)
    * [Staff Onboarding](staff_onboarding.md)
 
