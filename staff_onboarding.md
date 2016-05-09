@@ -20,6 +20,7 @@ Once the decision has been made to hire someone through the hiring process, they
 * Pay (amount and payroll process)
 * Annual leave and sick leave
 * Loomio Points
+* Ensure employment contract has been signed
 
 
 **Loomio Cooperative Orientation**
