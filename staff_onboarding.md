@@ -40,6 +40,7 @@ Once the decision has been made to hire someone through the hiring process, they
 * Annual and Quarterly plan
 
 **Tools**
+
 *Introduction, access, and logins*
 
 General tools:
