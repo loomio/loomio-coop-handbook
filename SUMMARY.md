@@ -25,5 +25,5 @@
    * [Loomio Points](loomio_points.md)
 * [Processes & Guides](processes_guides.md)
    * [Staff Onboarding](staff_onboarding.md)
-   * The Loomio Way (Brand Guidelines)
+   * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
 
