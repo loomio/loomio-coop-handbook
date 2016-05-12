@@ -24,7 +24,7 @@
    * [Conflict Resolution](conflict_resolution.md)
    * [Employment](employment.md)
    * [Loomio Points](loomio_points.md)
-   * Community Group Moderation
+   * [Community Group Moderation](community_group.md)
 * [Processes & Guides](processes_guides.md)
    * [Staff Onboarding](staff_onboarding.md)
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
