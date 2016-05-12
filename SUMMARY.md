@@ -17,7 +17,7 @@
    * [Retreats](retreats.md)
    * [Coordination](coordination.md)
    * [Professional Development](professional_development.md)
-   * Loomio Using Loomio
+   * [Loomio Using Loomio](using_loomio.md)
 * [Policies](policies.md)
    * [Annual Leave](annual_leave.md)
    * [Health & Safety](health_&_safety.md)
