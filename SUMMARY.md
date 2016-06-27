@@ -6,6 +6,7 @@
    * [Purpose & Vision](purpose_&_vision.md)
    * [History](history.md)
    * [Governance](governance.md)
+   * Co-Ownership
 * [Collaborative Practice](collaborative_practice.md)
    * [Stewarding](stewarding.md)
    * [Membership](membership.md)
