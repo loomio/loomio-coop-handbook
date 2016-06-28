@@ -1,26 +1,18 @@
 # Stewarding
 
 ![](stewards2016.png)
-Working without a boss is pretty great, but there are some useful things that a boss would normally do, for instance:
+We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/coordination.html) or other processes. Stewarding is Loomio's approach to peer support.
 
-* make sure different teams are coordinated, and work connects up with the overall strategy
-* when you’re new to a role, they’ll answer any questions you have
-* they help you define and prioritise your ongoing work
-* they’re the ones you talk to if your coworker is being a jerk
-* they’ll support you to meet your personal development goals
-* they’ll make sure you do the things you said you were going to do
+Here are some of the things a boss might do in another organisation, that stewards hold at Loomio:
 
-A worker-owned co-op has the same need to fulfil these as any organisation. Over time, we’ve come up with ways to do that without resorting to the positional authority of a boss.
+* be the ones you talk to if your coworker is being a jerk
+* support you to meet your personal development goals
+* help make sure you do the things you said you were going to do
+* put a human face on talking to 'the organisation'
 
-In the first place, we have coordinators to look after the day-to-day operations. Coordinators are the first port of call if you have questions about your work. You can find out more about coordinators [here](structure.md).
+When you have an issue, you can’t approach a group; you need a specific person you know you can turn to. This is what your steward is for. They won’t solve every problem, but they are your point of contact to make sure the problem gets solved. If you don't know who to go to, you can always go to them.
 
-There’s a lot more to being in an organisation than just doing your daily tasks though, and for that stuff, we have invented the stewarding system.
-
-## we have stewards for peer support
-
-When you have an issue, you can’t approach a group; you need a specific person you know you can turn to. This is what your steward is for. They won’t solve every problem, but they are your point of contact to make sure the problem gets solved.
-
-Stewarding is not about work, its about you as an individual, and your relationship to the co-op. They can be your mentor, or your guide, or your sounding board. If you ever get into a conflict situation, they’ll be on your side making sure you are well supported to a resolution.
+Stewarding is not about managing your daily work. Its about you as an individual, and your relationship to the co-op. They can be your mentor, or your guide, or your sounding board. If you ever get into a conflict situation, they’ll be by your side making sure you are well supported to a resolution.
 
 Everyone working on Loomio should have a steward (if you don’t, talk to Rich!). Usually, all the members of the co-op are stewarding someone, which means there are lots of connections across the co-op and lots of opportunities for exchanging insights.
 
