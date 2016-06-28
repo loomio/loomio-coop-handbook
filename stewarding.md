@@ -30,12 +30,16 @@ Everyone working on Loomio has a Steward. These relationships facilitate connect
 
 Most people meet with their stewards about once per month. The Well Working Group will raise a proposal on Loomio once per month, as a reminder for stewards to check in with their stewardees.
 
+Every stewarding relationship is different, and there are many different approaches. Some are more conversational and friendly, with mutual sharing from both parties. Sometimes stewards offer advice or challenges. Other times they simply listen. Sometimes they follow a more structured pattern, checking in on action points or measuring progress over time. 
+
+The important thing is that the approach works *for the stewardee*. Stewarding is their time to get the support they need to bring their best self to the co-op.
+
 Your steward might ask you questions like:
 
 * how was last month? what did you like or dislike?
 * what do you want to do differently this month?
 * what longer term goals are you working on? how are you progressing on them since last time?
 * how can I best support you?
-* ...and sometimes we'll suggest a prompt or theme for stewards to bring up in a given month's sessions
+* ...and sometimes the co-op will suggest a prompt or theme for stewards to bring up
 
 
