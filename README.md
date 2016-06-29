@@ -1,6 +1,5 @@
 ## Loomio Co-op Handbook
 
-The Loomio Cooperative is based in Aotearoa New Zealand.
 
 We build software for collaborative decision making, used by thousands of organisations and communities around the world.
 
@@ -13,11 +12,14 @@ The software we build is [open source](http://github.com/loomio/loomio), which m
 
 Our organisation is open source too. If you want to learn how we run an efficient organisation without a hierarchy, this handbook is good place to start.
 
-Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html). 
 ![](co-op-principles.png)
+
+Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html). 
 
 Want to know more? For related stories, check the [Loomio blog](http://blog.loomio.org/category/articles-and-interviews/) and the [Enspiral Blog](http://blog.enspiral.com). 
 You can find out [about us](http://loomio.org/about), or [get in touch](https://www.loomio.org/contact)!
+
+The Loomio Cooperative is based in Aotearoa New Zealand.
 
 ![](teamloomio.jpg)
 
