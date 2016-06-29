@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Our Cooperative](our_cooperative.md)
+   * [History](history.md)
    * [Constitution](constitution.md)
    * [Purpose & Vision](purpose_&_vision.md)
-   * [History](history.md)
    * [Governance](governance.md)
    * [Co-Ownership](co-ownership.md)
 * [Collaborative Practice](collaborative_practice.md)
