@@ -27,4 +27,5 @@
    * [Staff Onboarding](staff_onboarding.md)
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Loomio Using Loomio](using_loomio.md)
+   * Well Working Group
 
