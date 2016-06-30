@@ -22,11 +22,11 @@
    * [Health & Safety](health_&_safety.md)
    * [Employment](employment.md)
    * [Conflict Resolution](conflict_resolution.md)
+   * [Conflict Resolution Resources](conflict_resolution_resources.md)
    * [Loomio Points](loomio_points.md)
    * [Loomio Community Group](community_group.md)
    * [Staff Onboarding](staff_onboarding.md)
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Loomio Using Loomio](using_loomio.md)
    * [Well Working Group](well_working_group.md)
-   * [Conflict Resolution Resources](conflict_resolution_resources.md)
 
