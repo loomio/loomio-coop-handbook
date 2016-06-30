@@ -49,9 +49,10 @@ Bring in your steward to host a conversation with the people involved. The other
 If the previous steps have not resolved the conflict, reach out to the Well Working Group, or ask your steward to do so. They will try to find a mutually agreeable next step, such as hosting a mediation themselves, or inviting an external mediator or other expert in.
 
 If the above steps are not successful in resolving the conflict, the situation will be escalated beyond the conflict resolution process and become an employment matter. At this stage, the coordinators will be engaged to gather all the information about the situation and figure out next steps. Irresolvable conflicts may lead to someone leaving the organisation, referral to external authorities if relevant, or systemic/structural changes to our organisation.
-Engaging the Conflict Resolution Process
-The board may ask people to engage in a conflict resolution process (see clause 11.4.3 of the Constitution).
-If there is tension between you and another worker, you can engage the Conflict Resolution Process, starting with the first stage: Personal reflection & individual support.
-If you notice conflict between other workers that doesn’t seem to be on the path to resolution, you should feel empowered to draw their attention to it, and suggest they engage the Conflict Resolution Process if necessary. Alternatively, you could let their steward or the Well Working Group know.
+
+###Engaging the Conflict Resolution Process
+* The board may ask people to engage in a conflict resolution process (see clause 11.4.3 of the Constitution).
+* If there is tension between you and another worker, you can engage the Conflict Resolution Process, starting with the first stage: Personal reflection & individual support.
+* If you notice conflict between other workers that doesn’t seem to be on the path to resolution, you should feel empowered to draw their attention to it, and suggest they engage the Conflict Resolution Process if necessary. Alternatively, you could let their steward or the Well Working Group know.
 
 
