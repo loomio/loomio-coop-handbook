@@ -55,4 +55,5 @@ If the above steps are not successful in resolving the conflict, the situation w
 * If there is tension between you and another worker, you can engage the Conflict Resolution Process, starting with the first stage: Personal reflection & individual support.
 * If you notice conflict between other workers that doesn’t seem to be on the path to resolution, you should feel empowered to draw their attention to it, and suggest they engage the Conflict Resolution Process if necessary. Alternatively, you could let their steward or the Well Working Group know.
 
+Additional Resources on conflict resolution and communication to promote shared understanding [can be found here](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/conflict_resolution_resources.html).
 
