@@ -21,7 +21,7 @@
    * [Annual Leave](annual_leave.md)
    * [Health & Safety](health_&_safety.md)
    * [Employment](employment.md)
-   * [Conflict Resolution](conflict_resolution.md)
+   * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
    * [Loomio Points](loomio_points.md)
    * [Loomio Community Group](community_group.md)
