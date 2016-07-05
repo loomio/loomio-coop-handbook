@@ -7,7 +7,7 @@
    * [Co-Ownership](co-ownership.md)
    * [Governance](governance.md)
    * [Constitution](constitution.md)
-* [Collaborative Practice](collaborative_practice.md)
+* [Updated](collaborative_practice.md)
    * [Stewarding](stewarding.md)
    * [Membership](membership.md)
    * [Communications](communications.md)
