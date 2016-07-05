@@ -20,6 +20,7 @@
    * [Sprints](sprints.md)
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
+* [Collaborative Structure & Processes](collaborative_structure_&_processes.md)
 * [To write](to_write.md)
    * [Employment](employment.md)
    * [Membership](membership.md)
@@ -32,5 +33,4 @@
 * [Out of Date](out_of_date.md)
    * [Alignment & Autonomy](alignment_autonomy.md)
    * [Emergent Organisation](structure.md)
-* [Collaborative Structure & Processes](collaborative_structure_&_processes.md)
 
