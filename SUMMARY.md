@@ -28,8 +28,8 @@
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Loomio Using Loomio](using_loomio.md)
    * [Well Working Group](well_working_group.md)
-* [Membership](membership.md)
 * [To write](to_write.md)
+   * [Membership](membership.md)
    * article
 * [Out of Date](out_of_date.md)
 
