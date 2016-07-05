@@ -21,6 +21,7 @@
    * [Planning](planning.md)
    * [Strategy](strategy.md)
    * ak
+   * Sprints
 * [To write](to_write.md)
    * [Employment](employment.md)
    * [Membership](membership.md)
