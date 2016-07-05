@@ -15,8 +15,8 @@
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
    * [Loomio Community Group](community_group.md)
-   * [Staff Onboarding](staff_onboarding.md)
    * [Loomio Using Loomio](using_loomio.md)
+* [Staff Onboarding](staff_onboarding.md)
 * [To write](to_write.md)
    * [Employment](employment.md)
    * [Loomio Points](loomio_points.md)
@@ -30,5 +30,4 @@
    * [Membership](membership.md)
 * [Out of Date](out_of_date.md)
    * [Structure](structure.md)
-
 
