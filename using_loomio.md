@@ -16,3 +16,28 @@ Facilitation guidelines for internal groups:
 * Encourage people to post on Loomio more, to include people who aren't in the room, on chat at that moment, etc
 * Make sure the right people are in the group (such as when a new staff member joins, etc)
 
+## Loomio Groups We Facilitate
+
+**External / Public Groups**
+
+| Group | Facilitator | Purpose | Decisions | Membership |
+| -- | -- | -- | -- | -- | -- |
+| Loomio Community (parent) | Alanna | public outreach, helpful content | Off | Anyone - request to join, introduced | 
+| Comunidad en Español | Nati | General forum for Spanish community | Recommendation | Anyone |
+| Help / Ayuda | Nati | Questions not answered by documentation | Off | Anyone |
+| Translation | Nati | Discussion for Translators of Loomio | Recommendation | Translators engaging on Transifex |
+| Installing Loomio | Rob | Help/info for those running their own instance | Recommendation | developers / technical people |
+| Product Development | James | Feature ideas, feedback, product updates | Recommendation | Anyone |
+
+**Internal**
+
+| Group | Facilitator | Purpose | Decisions | Membership |
+| -- | -- | -- | -- | -- |
+| Co-op Members | Mary | Shareholder/co-owner decisions | Binding | Member-shareholders |
+| Workers | Hannah | Collaboration space for all workers | Binding | Staff participating in sprint |
+| Trainers & Consultants | Michael | Help and discussion for facilitators using Loomio with clients | Case by case | by invitation |
+| Employment Panel | Coordinators | Decisions about long-term hires | Binding | Selected by coordinators for each hire |
+| Thread Archive | Nati | Old threads removed from other groups | off | internal staff, by request |
+| Accessibility | Hannah | User testing and advice for accessibility | Recommendation | Accessibility users and developers |
+| Board | Matthew | Governance of Loomio co-op | Binding | Directors |
+| Working groups | Various | Self-facilitated spaces for working groups as needed | Case by case | members of working group |
