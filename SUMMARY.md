@@ -25,11 +25,11 @@
    * [Loomio Community Group](community_group.md)
    * [Staff Onboarding](staff_onboarding.md)
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
-   * [Structure](structure.md)
    * [Loomio Using Loomio](using_loomio.md)
    * [Well Working Group](well_working_group.md)
 * [To write](to_write.md)
    * [Membership](membership.md)
 * [Out of Date](out_of_date.md)
+   * [Structure](structure.md)
    * art
 
