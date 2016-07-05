@@ -21,7 +21,7 @@
    * [Staff Onboarding](staff_onboarding.md)
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
-   * Product Prioritisation
+   * [Product Prioritisation](product_prioritisation.md)
 * [To write](to_write.md)
    * [Employment](employment.md)
    * [Membership](membership.md)
