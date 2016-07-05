@@ -31,6 +31,7 @@
    * [Annual Leave](annual_leave.md)
    * [Governance](governance.md)
    * [Retreats](retreats.md)
+   * Collaborative Funding
 * [Out of Date](out_of_date.md)
    * [Emergent Organisation](structure.md)
 
