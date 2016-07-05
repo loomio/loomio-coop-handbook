@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Out of Date
 * [Our Cooperative](our_cooperative.md)
    * [History](history.md)
    * [Purpose & Vision](purpose_&_vision.md)
