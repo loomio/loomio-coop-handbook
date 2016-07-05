@@ -5,7 +5,9 @@ The evolution of our organisation
 
 In the earliest days of Loomio, we were organised as a "swarm" - we had open door meetings once a week, and anyone could rock up and help out. We ran a [tiny crowdfunding campaign](https://www.pledgeme.co.nz/projects/166-loomio), and founded and LLC so we could have a bank account. 
 
-In 2012, the core team committed to the project, and we formed a worker-owned cooperative. There were still a lot of people contributing on a casual part time basis, but there was also a group of full time people who became co-owners. We raised a round of loans from friends and family, and convened a board. Internally, we were "self-organised" and it was somewhat chaotic, but it worked for extremely flexible adaptation and lots of learning quickly.
+In 2012, the core team committed to the project, and we formed a worker-owned cooperative. There were still a lot of people contributing on a casual part time basis, but there was also a group of full time people who became co-owners. We raised a round of loans from friends and family, and convened a board. 
+
+Internally, we were "self-organised" and it was somewhat chaotic, but it worked for extremely flexible adaptation and lots of learning quickly. We focused on peer-to-peer support systems like stewardship, and having regular retreats.
 
 In mid-2014, we completed a major [crowdfunding campaign](https://www.loomio.org/crowdfunding_celebration), which meant we suddenly had 1,600 new external stakeholders who were expecting us to deliver on our promises. This triggered us to develop a more explicit organisational structure.
 
