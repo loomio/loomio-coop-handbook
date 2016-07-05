@@ -21,8 +21,7 @@ At the top of the **Done** column is a **Sprint Summary** card. It includes our 
 
 Our backlog is divided between **this quarter** and **not this quarter** so we can save good cards but not work on them straight away.
 
-
-We move these Trello cards around at our regular sprint ceremonies:
+###Sprint Ceremonies
 
 Sprint planning happens on the first day of the sprint: Monday 10-11am. Everyone comes to this meeting where we agree sprint goals, check team capacity, agree stories we’re going to take on, and identify risks, and collectively commit to delivering all this work by next Friday.
 
