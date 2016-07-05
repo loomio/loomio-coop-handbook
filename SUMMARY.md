@@ -4,7 +4,6 @@
 * [Our Cooperative](our_cooperative.md)
    * [History](history.md)
    * [Purpose & Vision](purpose_&_vision.md)
-   * [Co-Ownership](co-ownership.md)
    * [Governance](governance.md)
    * [Constitution](constitution.md)
 * [Updated](collaborative_practice.md)
