@@ -9,11 +9,13 @@ In 2012, the core team committed to the project, and we formed a worker-owned co
 
 In mid-2014, we completed a major [crowdfunding campaign](https://www.loomio.org/crowdfunding_celebration), which meant we suddenly had 1,600 new external stakeholders who were expecting us to deliver on our promises. This triggered us to develop a more explicit organisational structure.
 
-We broke the team up into work programs. Every program had a mandate to deliver a specific outcome, a share of the budget as allocated by the coop members, and a coordinator to maintain alignment within and between programs. 
+We broke the team up into work programs, and nominated coordinators. Every program had a mandate to deliver a specific outcome, a share of the budget as allocated by the coop members, and a coordinator to maintain alignment within and between programs. 
 
 This system worked pretty well: we delivered on our crowdfunding promises and we learned a lot about how a democratic workplace can be super efficient. 
 
-Every 3 months we’d stop and reassess the programs, coordinators, and budget to check: are we still making the absolute best use of this money that’s been entrusted to us? This made us super adaptive and efficient, but of course it was really disruptive too.
+Then we evolved again, and became a fully agile team. We had always drawn on elements of agile organising in our software development practices, but it was when we started incorporating all work across the co-op into agile sprints that it really clicked together.
+
+Every 3 months we stop and reassess the programs, coordinators, and budget to check: are we still making the absolute best use of this money that’s been entrusted to us? This made us super adaptive and efficient, but of course it was really disruptive too.
 
 In late 2015 we raised some more money from impact investors, which finally brought us to a level of financial security where we could think more than 3 months ahead. 
 
