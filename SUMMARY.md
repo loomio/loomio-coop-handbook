@@ -20,7 +20,6 @@
    * [Working Groups](working_groups.md)
    * [Planning](planning.md)
    * [Strategy](strategy.md)
-   * [Sprints](sprints.md)
    * ak
 * [To write](to_write.md)
    * [Employment](employment.md)
