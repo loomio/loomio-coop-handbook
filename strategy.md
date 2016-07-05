@@ -7,8 +7,6 @@ We use lots of different approaches to do this long term thinking together, e.g.
 
 One approach we’ve seen work really well is collaborative storytelling. The narrative format is an excellent way to get people to talk together in plain language about what me might do in the future. It’s an accessible way for anyone on the team to contribute their piece to the collective intelligence, and for us to build shared language. 
 
-For example, see this story about the longterm future of the Loomio product.
-
-Notice it is not a plan exactly, it is a story: a way for us to think together about the future, rather than decide exactly on what we must do. No one knows what will happen in three years, so we don’t get too caught up on detail at this timescale. The 12-month horizon is a bit more predictable though. That’s where we do planning.
+Strategy is not a plan exactly, it is a story: a way for us to think together about the future, rather than decide exactly on what we must do. No one knows what will happen in three years, so we don’t get too caught up on detail at this timescale. The 12-month horizon is a bit more predictable though. That’s where we do [planning](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/planning.html).
 
 
