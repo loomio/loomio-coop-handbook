@@ -14,12 +14,12 @@
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Professional Development](professional_development.md)
    * [Staff Onboarding](staff_onboarding.md)
-   * [Strategy](strategy.md)
    * [Working Groups](working_groups.md)
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
 * [Collaborative Structure & Processes](collaborative_structure_&_processes.md)
    * [Planning](planning.md)
+   * [Strategy](strategy.md)
    * [Sprints](sprints.md)
    * ak
 * [To write](to_write.md)
