@@ -32,5 +32,5 @@
 * [Out of Date](out_of_date.md)
    * [Alignment & Autonomy](alignment_autonomy.md)
    * [Emergent Organisation](structure.md)
-* Collaborative Structure & Processes
+* [Collaborative Structure & Processes](collaborative_structure_&_processes.md)
 
