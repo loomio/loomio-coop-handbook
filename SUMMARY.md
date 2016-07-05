@@ -30,6 +30,5 @@
    * [Well Working Group](well_working_group.md)
 * [To write](to_write.md)
    * [Membership](membership.md)
-   * article
 * [Out of Date](out_of_date.md)
 
