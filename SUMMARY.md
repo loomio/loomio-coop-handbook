@@ -17,10 +17,10 @@
    * [Strategy](strategy.md)
    * [Planning](planning.md)
    * [Working Groups](working_groups.md)
-   * [Sprints](sprints.md)
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
 * [Collaborative Structure & Processes](collaborative_structure_&_processes.md)
+   * [Sprints](sprints.md)
    * ak
 * [To write](to_write.md)
    * [Employment](employment.md)
