@@ -29,5 +29,5 @@
    * [Retreats](retreats.md)
    * [Sprints](sprints.md)
 * [Out of Date](out_of_date.md)
-   * [Structure](structure.md)
+   * [Emergent Organisation](structure.md)
 
