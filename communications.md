@@ -1,12 +1,15 @@
-# swimming safely in the ocean of Loomio internal communications
+# Swimming in the Ocean of Internal Communications
 
 Working at Loomio is probably a bit different to other places. We’re a decentralised organisation with a very dynamic structure and no explicit chain-of-command. This only works by operating in a high-communication environment.
 
-Because all contributors have access to pretty much everything, anyone can share their insights and expertise. By swimming in information, we maximise our collective intelligence. Sometimes that high volume of information can be overwhelming and it starts to feel more like drowning than swimming.
+All staff have access to pretty much everything, and anyone can share their insights and expertise. By swimming in information, we maximise our collective intelligence. But sometimes that high volume of information can be overwhelming and it starts to feel more like drowning than swimming.
 
-We’re continuously improving our systems to strike the right balance and serve diverse needs. There’s a lot of DIY. We’re making it up as we go along. You’re at least as smart as anyone else here, so if you’ve got something you want to offer don’t wait for permission - just get started and pitch in, preferably with a friend to help :)
+We’re continuously improving our systems to strike the right balance and serve diverse needs. We’re making it up as we go along. You’re at least as smart as anyone else here, so if you’ve got something you want to offer don’t wait for permission - just get started and pitch in.
 
-## we use Google Drive for collaborative documents
+## Loomio is Our Main Communication Tool
+Of couse, we use Loomio extensively internally at Loomio. In fact, we have a whole section about just that, so [check it out](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/using_loomio.html).
+
+## Google Drive for collaborative documents
 
 We use collaborative documents all the time. Google Drive handles our word processing, spreadsheets, presentations, and file storage.
 
@@ -17,20 +20,6 @@ We love Drive a lot, but there are a few idiosyncrasies that can make it pretty 
 2. Using Google apps is frustrating when you have multiple accounts. We’ll share the Loomio folder with your @loomio.org email address. If you have another Google account that you want to use, you can share the folder with your other account too. Then you’ll always have access to all the Loomio docs regardless of what account you signed in with.
 
 3. The other thing you need to get used to is the idea of finding files by searching, rather than browsing as you might be used to. The file structure changes as our organisation matures, which can make it hard to find something that you’ve been working on. The solution is to give your documents descriptive names, and periodically tidy them up into logical folders. So rather than "Meeting notes", call it “Product development meeting notes 2/2/15”.
-
-## we use Loomio to build Loomio
-
-As soon as you start contributing to Loomio, you should be added to the [Contributors group](https://www.loomio.org/g/j70ADGah/loomio-community-contributors). If you ever need to have a discussion with everyone on the team, send out an update relevant to everyone, or make a decision, feel free to start a discussion in there. You’re welcome to participate in all discussions posted in this group.
-
-You’ll also see the coordinators’ reports delivered through this group regularly. This is the best way to keep up to date with what’s going on across the whole organisation. If you have limited time or information overload, just focus on reading these weekly reports. Feel free to ask any clarify questions, or share any other comments or feedback you have about reports.
-
-There are a bunch of other Loomio groups you might want to join too:
-
-* The [Loomio Community](https://www.loomio.org/g/WmPCB3IR/loomio-community) is a huge international community of Loomio users and supporters. We host discussions in that group when we need community input into our decision-making.
-
-* More technically-oriented conversations about product development happen in the [Feature Ideas](https://www.loomio.org/g/GN7EFQTK/loomio-community-feature-ideas) group. It’s a great place to pitch an idea and see how other people feel about it.
-
-* The [Coordinators group](https://www.loomio.org/g/7jWVDr04/loomio-community-group-coordinators) is a place for any user who is coordinating a Loomio group and wants to share best practices or ask questions of other coordinators.
 
 ## we use Trello as our shared todo list
 
