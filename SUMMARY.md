@@ -19,6 +19,7 @@
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
 * [To write](to_write.md)
    * [Employment](employment.md)
+   * [Membership](membership.md)
    * [Loomio Points](loomio_points.md)
    * [Health & Safety](health_&_safety.md)
    * [Annual Leave](annual_leave.md)
@@ -27,7 +28,6 @@
    * [Coordination](coordination.md)
    * [Retreats](retreats.md)
    * [Sprints](sprints.md)
-   * [Membership](membership.md)
 * [Out of Date](out_of_date.md)
    * [Structure](structure.md)
 
