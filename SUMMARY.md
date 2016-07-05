@@ -28,7 +28,7 @@
    * [Planning](planning.md)
    * [Retreats](retreats.md)
    * [Sprints](sprints.md)
-   * Alignment & Autonomy
+   * [Alignment & Autonomy](alignment_autonomy.md)
 * [Out of Date](out_of_date.md)
    * [Emergent Organisation](structure.md)
 
