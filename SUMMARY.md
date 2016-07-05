@@ -19,7 +19,6 @@
    * [Professional Development](professional_development.md)
    * [Annual Leave](annual_leave.md)
    * [Health & Safety](health_&_safety.md)
-   * [Membership](membership.md)
    * [Employment](employment.md)
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
@@ -29,6 +28,7 @@
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Loomio Using Loomio](using_loomio.md)
    * [Well Working Group](well_working_group.md)
+* [Membership](membership.md)
 * [To write](to_write.md)
 * [Out of Date](out_of_date.md)
 
