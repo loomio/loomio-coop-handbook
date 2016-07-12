@@ -22,7 +22,7 @@
    * [Staff Onboarding](staff_onboarding.md)
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
-* [Annual Leave](annual_leave.md)
+   * [Annual Leave](annual_leave.md)
 * [To write](to_write.md)
    * [Employment](employment.md)
    * [Membership](membership.md)
