@@ -4,13 +4,13 @@
 
 As a worker-owned cooperative committed to decentralising decision-making, Loomio does not have a traditional managerial hierarchy. However, a big picture perspective of how all the parts of the organisation and different work areas fit together, and how they intersect with the budget and longer term strategy, is essential to operational effectiveness and overall success of our mission. At Loomio, this role is called a Coordinator.
 
-Our guiding principle for coordination is "dynamic hierarchies by consent". 
+Our guiding principle for coordination is **"dynamic hierarchies by consent"**.
 
-"Hierarchies", because we mandate certain people and roles with certain power and responsibility, to perform functions the co-op decides are needed. It’s plural because there is no one hierarchy, but multiple ones we create to suit specific purposes.
+**"Hierarchies"**, because we mandate certain people and roles with certain power and responsibility, to perform functions the co-op decides are needed. It’s plural because there is no one hierarchy, but multiple ones we create to suit specific purposes.
 
-"Dynamic", because these roles and internal structures are constantly evolving. We adapt them to meet the co-op’s needs responsively. Individuals rotate in and out of roles regularly. Internal structures are always up for discussion. We review all roles at least quarterly (although they may change less frequently).
+**"Dynamic"**, because these roles and internal structures are constantly evolving. We adapt them to meet the co-op’s needs responsively. Individuals rotate in and out of roles regularly. Internal structures are always up for discussion. We review all roles at least quarterly (although they may change less frequently).
 
-"Consent", because ultimately all mandate and power traces back to the co-op membership - in others words, all of us together. 
+**"Consent"**, because ultimately all mandate and power traces back to the co-op membership - in others words, all of us together. 
 
 A coordinator is not a "boss" or “manager” in the familiar sense. The role carries no more inherent authority than any other in the co-op. It’s simply focused in a different way, on synthesis, the spaces between, the overall picture, and the intersections of governance, planning, and execution.
 
@@ -22,17 +22,17 @@ Mutually agreed structure for our work helps us to be more productive and happie
 
 ### Key concepts
 
-* Delegation - Many of the responsibilities of the coordinator are fulfilled by delegation to others. They cannot and should not fulfil them all directly.
+* **Delegation** - Many of the responsibilities of the coordinator are fulfilled by delegation to others. They cannot and should not fulfil them all directly.
 
-* Synthesis - Coordinators talk to different people, sense emerging themes, facilitate the team talking to itself effectively, and enhance our collective shared understanding.
+* **Synthesis** - Coordinators talk to different people, sense emerging themes, facilitate the team talking to itself effectively, and enhance our collective shared understanding.
 
-* Judgement - We mandate the coordinators with our trust to make calls about things like how good is good enough for a piece of work, timing for taking on different issues, and prioritisation.
+* **Judgement** - We mandate the coordinators with our trust to make calls about things like how good is good enough for a piece of work, timing for taking on different issues, and prioritisation.
 
-* Responsiveness - Coordinators keep a margin of capacity to deal with emergent and unexpected needs. If it’s no one job yet, it falls to the coordinators to figure out who should handle it.
+* **Responsiveness** - Coordinators keep a margin of capacity to deal with emergent and unexpected needs. If it’s no one job yet, it falls to the coordinators to figure out who should handle it.
 
-* Skill - Given the level of responsibility, this is a role for experienced people. We balance selecting people with leadership skills and management experience with investing in upskilling and training new people internally.
+* **Skill** - Given the level of responsibility, this is a role for experienced people. We balance selecting people with leadership skills and management experience with investing in upskilling and training new people internally.
 
-* Creating the Container - We ask the coordinators to pay attention to the conditions in which we are working, and help continuously improve them. It’s not just about the work, but the context of the work.
+* **Creating the Container** - We ask the coordinators to pay attention to the conditions in which we are working, and help continuously improve them. It’s not just about the work, but the context of the work.
 
 ### Role Policies
 
