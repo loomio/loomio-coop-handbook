@@ -32,5 +32,4 @@
    * [Governance](governance.md)
    * [Retreats](retreats.md)
    * [Collaborative Funding](collaborative_funding.md)
-* [Out of Date](out_of_date.md)
 
