@@ -1,4 +1,4 @@
-# Stewarding
+# Stewarding at Loomio
 
 ![](stewards2016.png)
 We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/coordination.html) or other processes. Stewarding is Loomio's approach to peer support.
