@@ -33,6 +33,8 @@ Some other things you can include to make it a stronger contender:
     Value: “If we had this feature we’d make X sales”
     Risk: “If we don’t do it, we will be in big trouble”
     Opportunity cost: “Working on this means we won’t be working on this”
+    
 
+![](groomersflow.png)
 ![](groomersflow.png)
 
