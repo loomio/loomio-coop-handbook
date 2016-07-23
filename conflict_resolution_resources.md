@@ -73,6 +73,12 @@ Yes: I often do this type of task, which I consider menial. Other members of the
 
 After the facts have been reported, then discussions about how people felt and interpreted what happened can commence.
 
+**Decoding Emotions**
+
+A useful flowchart for processing a tension.
+![](process-emotion.png)
+*From the [Like Humans: Tension Processing](http://likehumans.com/tension-processing/) guide*
+
 
 **External Resources**
 
