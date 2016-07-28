@@ -1,7 +1,1 @@
-{
-    "plugins": ["banner"],
-    "pluginsConfig": {
-        "banner": {
-        }
-    }
-}
+{}
