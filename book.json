@@ -1,7 +1,7 @@
 {
-    "plugins": ["gitbook-plugin-banner"],
+    "plugins": ["banner"],
     "pluginsConfig": {
-        "gitbook-plugin-banner": {
+        "banner": {
         }
     }
 }
