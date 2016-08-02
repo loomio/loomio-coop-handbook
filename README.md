@@ -6,7 +6,7 @@ We build software for collaborative decision making, used by thousands of organi
 If you’re looking for a way to make group decisions without meeting, 
 try it out at [loomio.org](http://www.loomio.org).
 
-![](loomio-phone.png)
+<img src='loomio-phone.png' class='img-left img-300'>
 
 The software we build is [open source](http://github.com/loomio/loomio), which means we freely share the code for anyone to read, learn from, and modify.
 
