@@ -1,11 +1,11 @@
 ## Loomio Co-op Handbook
 
 
+<img src='loomio-phone.png' class='img-left img-300px'>
+
 We build software for collaborative decision making, used by thousands of organisations and communities around the world.
 
 If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](http://www.loomio.org).
-
-<img src='loomio-phone.png' class='img-left img-300px'>
 
 The software we build is [open source](http://github.com/loomio/loomio), which means we freely share the code for anyone to read, learn from, and modify.
 
