@@ -1,7 +1,7 @@
 ## Loomio Co-op Handbook
 
 
-<img src='loomio-phone.png' class='img-right img-200px'>
+<img src='loomio-phone.png' class='img-right img-250px'>
 
 We build software for collaborative decision making, used by thousands of organisations and communities around the world.
 
@@ -11,7 +11,8 @@ The software we build is [open source](http://github.com/loomio/loomio), which m
 
 Our organisation is open source too. If you want to learn how we run an efficient organisation without a hierarchy, this handbook is good place to start.
 
-Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html). <img src='co-op-principles.png' class='img-left img-50pc'>
+Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html):
+<img src='co-op-principles.png' class='img-50pc'>
 
 Want to know more? For related stories, check the [Loomio blog](http://blog.loomio.org/category/articles-and-interviews/) and the [Enspiral Blog](http://blog.enspiral.com).
 
