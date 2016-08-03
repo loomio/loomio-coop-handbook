@@ -1,11 +1,13 @@
 .img-left{
   float: left;
   margin-right: 1em;
+  clear: both;
 }
 
 .img-right{
   float: right;
   margin-left: 1em;
+  clear: both;
 }
 
 .img-300px{
