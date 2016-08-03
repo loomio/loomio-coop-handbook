@@ -8,6 +8,10 @@
   margin-left: 1em;
 }
 
-.img-300{
+.img-300px{
   width: 300px;
+}
+
+.img-50pc{
+  width: 50%;
 }
