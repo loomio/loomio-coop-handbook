@@ -11,7 +11,7 @@ Probably the best way to understand it is to look at our [sprint board](https://
 
 **Inbox** is where you put stories that you think we should work on soon.
 
-The backlog groomers get together fortnightly to consider these stories and decide if it is a priority (moving the card to **Next Up**) or not (**Backlog**).
+The [backlog groomers](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/product_prioritisation.html) get together fortnightly to consider these stories and decide if it is a priority (moving the card to **Next Up**) or not (**Backlog**).
 
 The work for this Sprint is in the **Ready** column. The whole team decides which stories to bring into each sprint at Sprint Planning every second Tuesday.
 
@@ -23,13 +23,14 @@ Our backlog is divided between **this quarter** and **not this quarter** so we c
 
 ###Sprint Ceremonies
 
-Sprint planning happens on the first day of the sprint: Monday 10-11am. Everyone comes to this meeting where we agree sprint goals, check team capacity, agree stories we’re going to take on, and identify risks, and collectively commit to delivering all this work by next Friday.
+We have a day between sprints to use for planning and tying up loose ends. We find that investing time in good preparation makes the whole sprint process a lot smoother. On **prep day**, the team checks their outstanding Trello cards, reflects on what they want to prioritise in the upcoming sprint, and generally clears the decks to be ready for sprint planning.
 
-Stand up happens every day from 10.15-10.30am (other than that first Monday). It’s a rapid fire conversation so everyone comes prepared with four pieces of information: what I did yesterday; what I'm doing today; any blocks that might stop me achieving today; what I'm doing to look after my wellbeing today.
+**Sprint planning** happens on the first day of the sprint. Everyone comes to this meeting, where we agree sprint goals, check team capacity, agree which stories we’re going to take on, and identify risks. At the end of the meeting, we collectively commit to delivering all this work by the end of the sprint.
+
+**Stand-up** happens every morning. It’s rapid fire, so everyone comes prepared with four pieces of information: what I did yesterday; what I'm doing today; any blocks that might stop me; and what I'm doing to look after my wellbeing today.
  
-Backlog grooming happens on the second Monday of the sprint from 3-4pm. This session is flexible, depending on what the team feels like is the best use of the time together. It is commonly used to review readiness of stories for the upcoming sprint; to review and "groom" the overall backlog to re-prioritise or delete stories if they're no longer required. The session can also be used to write new stories as a team. 
+**Backlog grooming** happens in the middle of the sprint. It where we review all the cards on the board, process incoming feedback and  prioritise what to work on in the product. More details about this process [here](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/product_prioritisation.html).
 
-Sprint retrospective on the last day of the sprint: Friday 2-3pm. We stop and reflect on how the last two weeks have been, and collectively choose an improvement we want to focus on in the upcoming sprint.
+**Sprint retrospective** is on the last day of the sprint. We reflect on how the last two weeks have been, and discuss any process improvements we want to focus on in the upcoming sprint.
 
-Sprint demo is the last thing we do in any sprint: Friday 3-4pm. Drinks, snacks, and friends are welcome as we get together to celebrate everything we completed over the past two weeks: working software, new designs, amazing customer stories we’ve heard, new policies, or any other exciting news we want to share. At the end of the demo we close our computers knowing we are done for the weekend and there’s no outstanding work.
-
+**Sprint demo** is the last thing we do in the sprint. We get together to celebrate everything we completed over the past two weeks: working software, new designs, amazing customer stories we’ve heard, new policies, or any other finished work we want to share. Often, friends join us from outside the team who are interested to know what we're up to.
