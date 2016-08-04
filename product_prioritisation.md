@@ -11,51 +11,41 @@ The Groomers hear from various input sources, and try to maximise quality and di
 
 Throughout the sprint, if anyone on the team has an idea or is offered one from a user or anyone, they create a card on the "inbox" list on the sprint board. The Groomers process these cards in their meetings.
 
-The Groomers follow this decision-making flow, to prioritise cards according to our quarterly plan.
+The Groomers follow this decision-making flow, to prioritise cards according to our [quarterly plan](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/planning.html).
 
 ![](groomersflow.png)
+### Solutions Working Group
 
-Groomers
+The solutions working group is where problems go to become solutions. Often it's temping to identify an issue and jump straight to the first solution, but often it turns out that the problem is actually only one part of a larger issue, or is better solved with lateral thinking. Putting ideas through to be developed before they've been properly designed is a recipe for a bad user experience and frustrated coders. 
 
-Product Owner
-
-Solutions Working Group
-
+The team challenges itself to explain the evidence or experience of the problem clearly, without making too many assumptions before the design process can take place. After solutions have been designed, we consider them for development priority. While delivering a great new design is exciting, we try not to jump straight into building them without thinking about what other important things we might want to work on, too.
 
 
-Groomers and product owner
+### Product Owner
 
-[How the Loomio team decides what to work on next](https://docs.google.com/document/d/1ChXUsITlMEKwVEwdZV0rzti1ON0KxejT500ERHJPrTc/edit)
+The Loomio product owner is a role that occasionally rotates among team members. We generally select someone who has a particular skill or passion for how we have prioritised the product development focus.
 
-[What's the role of the Product Owner now we have Groomers?](https://www.loomio.org/d/uo9hKLfF/what-s-the-role-of-the-product-owner-now-we-have-groomers-)
+The product owner's focus is keeping our product backlog in good shape, meaning it:
 
-[Product owner role](https://www.loomio.org/d/ZLK7O3Ii/i-m-pondering-making-myself-available-to-be-product-owner)
+* is aligned with our agreed strategy expressed in annual & quarterly plans
+* is appropriately informed by input from different areas of the business
+* is full of well defined, designed & sized stories, that included our best guess about their hoped-for return on investment
+* has an appropriate amount of space for experimentation and responsiveness
 
-We get together fortnightly to consider what’s the most strategic use of our design and development capacity over the next couple of sprints.
-Team reps
+One key role of the product owner is to help everyone get their user stories well defined so we can do effective sprint planning. Another is making definitive calls if uncertainty about which way to go with a product decision is holding up the team. Of course, we always attempt to build consensus if people have different ideas, and the product owner facilitates this.
 
-We start by hearing from reps from across the business (Support, Marketing, Sales, Product): what are your upcoming priorities we should consider for the next couple of sprints?
-
-So for instance, Nati representing the Support team, comes every sprint with a summary of support requests (based on the feedback spreadsheet). The Groomers check that we are addressing the trending support requests.
-Inbox
-
-Next we look at the Inbox. Anyone from the team can put a card on the Inbox for the Groomers to evaluate, based on the flowchart (below).
-
-If it's a good idea that fits with our priorities, it will either go to the Solutions Working Group if it needs design, or it will go onto the This Quarter or Next Sprint column. Otherwise it gets put on the Not This Quarter backlog, or it gets merged into an existing card, or deleted.
-
-At the end of each session the Inbox is empty, and the Groomers report out to the rest of the team.
-Writing good stories
+### Writing Good Stories
 
 Anyone from the team can add a story to the Inbox (the first list on the Loomio Sprint Board).
 
 A story is either a description of a problem, or a statement of value. At the very least a story should have a name, and 3 lines: “As a... I want to... So that I can...”.
 
-Some other things you can include to make it a stronger contender:
+Some other things you can include to make it a stronger contender for prioritisation:
 
-    Evidence: “7 customers have asked about X this year”
-    Effort to deliver: “This is a huge job”
-    Value: “If we had this feature we’d make X sales”
-    Risk: “If we don’t do it, we will be in big trouble”
-    Opportunity cost: “Working on this means we won’t be working on this”
+* Evidence: “7 customers have asked about X this year”
+* Effort to deliver: “This is a huge job”
+* Value: “If we had this feature we’d make X sales”
+* Risk: “If we don’t do it, we will be in big trouble”
+* Opportunity cost: “Working on this means we won’t be working on this”
     
 
