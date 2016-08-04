@@ -10,6 +10,7 @@
    * [Planning](planning.md)
    * [Working Groups](working_groups.md)
    * [Sprints](sprints.md)
+* [Product Prioritisation](product_prioritisation.md)
 * [Updated](collaborative_practice.md)
    * [Coordination](coordination.md)
    * [Stewarding](stewarding.md)
