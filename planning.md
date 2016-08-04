@@ -25,3 +25,15 @@ Quarterly plans take a range of forms, depending on the circumstances and needs 
 ![](q22016plan.png)
 
 ![](q32016targets.png)
+
+**Quarterly planning generally follows this overall format.**
+
+Last week of previous quarter
+
+* working groups each convene and discuss what they accomplished in the quarter about to end, and what they've learned to inform what we could work on next
+* evidence and metrics are produced
+* the coordinators write a quarterly report giving an assessment of how we did achieving our previous quarterly goals
+
+Away Day
+
+* Team goes offsite
