@@ -1,4 +1,22 @@
 # Product Prioritisation
+
+How does Loomio decide what to build in the software?
+
+We use an Agile developement process
+
+
+Prioritisation of what gets built in the software is held by the "Groomers" working group, which gets its name from the "product backlog grooming" function in agile software development. 
+
+Traditionally, prioritisation is done by the client, who defines the business needs and determines what the developers spend time on. At Loomio, we take a more distributed, collaborative approach, representing a broad range of stakeholders and voices. 
+
+Groomers
+
+Product Owner
+
+Solutions Working Group
+
+
+
 Groomers and product owner
 
 [How the Loomio team decides what to work on next](https://docs.google.com/document/d/1ChXUsITlMEKwVEwdZV0rzti1ON0KxejT500ERHJPrTc/edit)
@@ -34,7 +52,4 @@ Some other things you can include to make it a stronger contender:
     Risk: “If we don’t do it, we will be in big trouble”
     Opportunity cost: “Working on this means we won’t be working on this”
     
-
-![](groomersflow.png)
-![](groomersflow.png)
 
