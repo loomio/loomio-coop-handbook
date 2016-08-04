@@ -1,6 +1,6 @@
 # Employment
 
-Principles to guide employment
+Principles to guide employment.
 
 Employment panel decisions should:
 
