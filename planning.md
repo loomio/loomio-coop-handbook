@@ -34,6 +34,6 @@ Last week of previous quarter
 * evidence and metrics are produced
 * the coordinators write a quarterly report giving an assessment of how we did achieving our previous quarterly goals
 
-Away Day
+Away Day (Offsite)
 
-* Team goes offsite
+* 
