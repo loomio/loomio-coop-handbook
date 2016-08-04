@@ -1,5 +1,6 @@
 # Planning
 
+### Annual 
 we do annual planning so everyone is focussed on the same thing
 
 For 2016, our annual planning process started with a day out of the office. Together we agreed what our focus would be for the year: the one thing that everyone is contributing to, regardless of their job.
@@ -15,4 +16,12 @@ We discussed how we can break this work up into streams, based on the groups of 
 
 We also set some specific targets to measure our progress, and named some of the big chunks of work we knew we’d have to do to get there. After the planning day, the coordinators facilitated a process to bring all this together into a budget and visual plan-on-a-page:
 
-![](Q2_plan.jpg)
+### Quarterly
+
+Every quarter, we have an away day, (preceded and followed by various preparation and workshops), where we take stock of where we are relative to our overall vision, annual plan, and emerging reality, and decide what to focus on for the coming 3 months.
+
+Quarterly plans take a range of forms, depending on the circumstances and needs of the team. The goal is to providing a guiding focus for all our work. Because we give individuals a lot of autonomy in their daily work and don't micro-manage, we need to agree some themes and shared goals to have collective impact. If we try to do everything we're likely to be distracted and stretched too thin. And we like to name ambitious goals to motivate ourselves.
+
+![](q22016plan.png)
+
+![](q32016targets.png)
