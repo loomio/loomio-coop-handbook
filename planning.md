@@ -24,14 +24,28 @@ The goal is to provide a guiding focus for all our work across the team. Because
 
 ![](q32016targets.png)
 
-**Quarterly planning generally follows this overall format.**
+### Quarterly planning format
 
-Last week of previous quarter
+**Pre-Away Day**
 
 * working groups each convene and discuss what they accomplished in the quarter about to end, and what they've learned to inform what we could work on next
-* evidence and metrics are produced
+* evidence and metrics are produced, reports are pulled together
 * the coordinators write a quarterly report giving an assessment of how we did achieving our previous quarterly goals
+* everyone individually reflects on what happened over the quarter and what they think about upcoming priorities
 
-Away Day (Offsite)
+**Away Day (Offsite)**
+While we leave room for flexibility in the agenda and facilitation, this is a format we've generall found works for us.
 
-* 
+* Arrive and have an extended check-in circle, with space for both personal and professional reflections from each person
+* Context from the Coordinators, reviewing what happened in the last quarter and reminding us of the quarterly planning process and goals
+* Dialogue circle on a relavent theme, to enable some deeper collective thinking
+* Gathering questions and discussion topics, clarifying what we all need to feel resourced to set the upcoming quarterly priorities
+* Co-created afternoon sessions, which can take a range of formats: open space, pair walks, whole group discussion, breakout amll groups on specific topics
+* Summarise, clarify next steps, and check out
+
+**Post-Away Day**
+
+* Followup workshops to go deeper on topics that arose out of the away day, which are usually more detailed and elucidate a strategy or work plan for a specific area
+* Coordinators synthesise the outcomes of the away day and reflect them back to the team
+* We discuss and work toward agreeing the quarterly goals on officially on Loomio
+* The team gets to work delivering our targets for the quarter
