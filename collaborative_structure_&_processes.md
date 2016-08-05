@@ -1,7 +1,7 @@
 # Collaborative Structure & Processes
-alignment and autonomy: structure and processes in a collaborative organisation
+*Alignment and autonomy: structure and processes in a collaborative organisation*
 
-The evolution of our organisational structure
+**The evolution of our organisational structure**
 
 In the earliest days of Loomio, we were organised as a "swarm" - we had open door meetings once a week, and anyone could rock up and help out. We ran a [tiny crowdfunding campaign](https://www.pledgeme.co.nz/projects/166-loomio), and founded and LLC so we could have a bank account. 
 
@@ -19,12 +19,12 @@ Then we evolved again, and became a fully agile team. We had always drawn on ele
 
 Every 3 months we stop and reassess the programs, coordinators, and budget to check: are we still making the absolute best use of this money that’s been entrusted to us? This made us super adaptive and efficient, but of course it was really disruptive too.
 
-In late 2015 we raised some more money from impact investors, which finally brought us to a level of financial security where we could think more than 3 months ahead. 
+In late 2015 we raised some more money from impact investors, which finally brought us to a level of financial security where we could think more than 3 months ahead. This has enabled us to thinking long-term, resource a solid core team, and settle into a set of functional processes that address different perspectives and time-scales of our work.
 
-We’ve recently developed new structures and processes for thinking together about the future:
-
-* our purpose is our forever reason for being
-* we do strategy to tell stories from 3 years in the future
-* we do annual planning so everyone is focussed on the same thing, and
-* we run two-week sprints to maintain agility.
+* our [purpose](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/purpose_&_vision.html) is our forever reason for being
+* we do [strategy](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/strategy.html) to tell stories from 3 years in the future
+* we do [annual/quarterly planning](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/planning.html) so everyone is focussed on the same thing
+* we self-organise into dynamic [working groups](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/working_groups.html) to address areas of work
+* we run [two-week sprints](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/sprints.html) to maintain agility, clarity, and accountability
+* we have a collaborative process to [prioritise product development](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/product_prioritisation.html)
 
