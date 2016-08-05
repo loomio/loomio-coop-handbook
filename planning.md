@@ -1,9 +1,12 @@
 # Planning
 
 ### Annual 
-We do annual planning so everyone is focussed on the same thing, all the different areas of our work add up to a coherent and coordinated whole.
+We do annual planning so everyone is focused on the same thing, and all the different areas of our work add up to a coherent and coordinated whole.
 
-Our annual planning process starts with a day out of the office. Together we agreed what our focus would be for the year. We’ve always said that the best way we can deliver our social mission is to develop the financial freedom to chart our own course. So we agreed that our focus for 2016 is **proving the business model**.
+Our annual planning process starts with a day out of the office. Together we agreed what our focus would be for the year. 
+
+**2016 Plan**
+We’ve always said that the best way we can deliver our social mission is to develop the financial freedom to chart our own course. So we agreed that our focus for 2016 is **proving the business model**.
 
 We discussed how we can break this work up into streams, based on the groups of people we serve:
 
