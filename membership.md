@@ -63,7 +63,7 @@ We determine what proportion of the surplus is reinvested into the co-op, what p
 
 We track unpaid work in the co-op with a system called [Loomio Points](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/loomio_points.html). This applies to members and non-members alike, and is separate to distribution of surplus. Membership status does not affect Loomio Points.
 
-#### Joining as a Member
+#### Entering Membership
 
 The first step toward membership is getting employed by the co-op, according to the [Employment Process](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/employment.html). Working on Loomio on an ongoing basis, in a long-term agreement with the co-op, puts you on the *membership pathway*. (We also work with short-term contractors who are not on the membership pathway).
 
