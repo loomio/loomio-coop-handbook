@@ -35,7 +35,7 @@ Co-op members set the strategic direction and are expected to keep sufficiently 
 
 The [Loomio Cooperative Constitution](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/constitution.html) is the legally-binding document that precisely defines the rights and responsibilities of membership. The constitution can only be changed by a special resolution of members (90% agreement).
 
-Cooperative members have all the responsibilities of owners and shareholders, as well as being the core working staff, including:
+Cooperative members have all the responsibilities of owners and shareholders, as well as being the core working staff.
 
 * Creating and maintaining the culture of the Loomio co-op
 * Set and maintain the strategic direction, organisational purpose, vision, and values
@@ -51,7 +51,7 @@ Cooperative members have all the responsibilities of owners and shareholders, as
 * Approving major transactions (as defined in the Constitution)
 * Approving an amalgamation of the coop or appointing a liquidator
 * Approving Board recommendations on making a distribution to shareholding members
-* Give notice to the Board of a matter they want raised 
+* Give notice to the directors of a matter they want raised in the Board
 
 **Distribution of surplus**
 
