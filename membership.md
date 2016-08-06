@@ -1,6 +1,22 @@
 # Membership
 As a worker co-op, Loomio is collectively owned by its members, who are all equal shareholders in the Cooperative and hold the responsibilities of business co-owners. 
 
+**Decision-making**
+
+Members are the ultimate decision-makers for Loomio. While we often delegate decision-making, such as to diretors, coordinators, and leaders of work areas, all mandate traces back to the members. 
+
+Two important principles inform our decision-making processes: anyone affected by a decision should be able to participate in making it, and a person’s influence over a decision should be in proportion to the degree to which it affects them. 
+
+When decisions are made by a smaller group, they will take active steps to maintain their mandate from the wider group, and to operate transparently. 
+
+**Kaitiakitanga**
+
+The members commit to creating and maintaining the culture of Loomio, doing their best to ensure it stays in line with the *kaupapa* (principles and ideas which act as a base or foundation for action). 
+
+This sometimes means making hard choices. In the worst-case scenario, this might involve asking someone to leave if their behaviour is undermining the principles that the co-op exists to promote. As members, we take responsibility for ourselves, each other, and Loomio as stewards.
+
+*[More about Kaitiakitanga](https://en.wikipedia.org/wiki/Kaitiaki#Kaitiakitanga)*
+
 #### Characteristics of a Member
 
 **Approach:** You’ve woven yourself in with an inquiring attitude. You are flexible and responsive to the needs of the co-op.
@@ -12,34 +28,6 @@ As a worker co-op, Loomio is collectively owned by its members, who are all equa
 **Values:** Your values match the values of Loomio. We’re proud to imagine you representing Loomio to the world.
 
 **Communication:** You have actively engaged in the stewardship of Loomio, bringing your knowledge and experience to the collaboration and decision-making that guide Loomio as a whole. Your communication inside and outside the group is open, respectful, and honest. 
-
-#### Aspects of Membership
-
-**Distribution of surplus**
-
-“Surplus” is what’s left of annual revenue after operating expenses and certain other financial commitments have been met. Membership may entitle you to a share of future distribution of surplus revenue, if and when the Board and Members decide together that surplus will be distributed. 
-
-We determine what proportion of the surplus is reinvested into the co-op, what proportion is directed to socially beneficial projects outside of Loomio, and what proportion is distributed to co-op members. Being a member makes you eligible to receive the distribution, but does not mean any distribution will necessarily be made.
-
-**Loomio Points**
-
-We track unpaid work in the co-op with a system called [Loomio Points](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/loomio_points.html). This applies to members and non-members alike, and is separate to distribution of surplus. Membership status does not affect Loomio Points.
-
-**Decision-making**
-
-Members are the ultimate decision-makers for Loomio. While we often delegate decision-making, such as to diretors, coordinators, and leaders of work areas, all mandate traces back to the members. 
-
-Two important principles inform our decision-making processes: anyone affected by a decision should be able to participate in making it, and a person’s influence over a decision should be in proportion to the degree to which it affects them. 
-
-When decisions are made by a smaller group, they will take active steps to maintain their mandate from the wider group, and to operate transparently. 
-
-**Kaitiakitanga**
-
-The members have made a commitment to creating and maintaining the culture of Loomio, doing their best to ensure it stays in line with the *kaupapa* (principles and ideas which act as a base or foundation for action). 
-
-This sometimes means making hard choices. In the worst-case scenario, this might involve asking someone to leave if their behaviour is undermining the principles that the co-op exists to promote. As members, we take responsibility for ourselves, each other, and Loomio as stewards.
-
-*[More about Kaitiakitanga](https://en.wikipedia.org/wiki/Kaitiaki#Kaitiakitanga)*
 
 #### Roles & Responsibilities
 
@@ -64,6 +52,16 @@ Cooperative members have all the responsibilities of owners and shareholders, as
 * Approving an amalgamation of the coop or appointing a liquidator
 * Approving Board recommendations on making a distribution to shareholding members
 * Give notice to the Board of a matter they want raised 
+
+**Distribution of surplus**
+
+“Surplus” is what’s left of annual revenue after operating expenses and certain other financial commitments have been met. Membership may entitle you to a share of future distribution of surplus revenue, if and when the Board and Members decide together that surplus will be distributed. 
+
+We determine what proportion of the surplus is reinvested into the co-op, what proportion is directed to socially beneficial projects outside of Loomio, and what proportion is distributed to co-op members. Being a member makes you eligible to receive the distribution, but does not mean any distribution will necessarily be made.
+
+**Loomio Points**
+
+We track unpaid work in the co-op with a system called [Loomio Points](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/loomio_points.html). This applies to members and non-members alike, and is separate to distribution of surplus. Membership status does not affect Loomio Points.
 
 #### Joining as a Member
 
