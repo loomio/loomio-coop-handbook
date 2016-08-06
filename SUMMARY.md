@@ -24,6 +24,7 @@
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
    * [Annual Leave](annual_leave.md)
+* [Membership](membership.md)
 * [To write](to_write.md)
    * [Employment](employment.md)
    * [Membership](membership.md)
