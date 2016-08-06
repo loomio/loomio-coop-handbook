@@ -103,7 +103,7 @@ Someone may cease being a member for the following reasons:
 * The Member decides to resign (and become a non-member worker or leave the co-op entirely)
 * The Member is no longer eligible (due to no longer being employed or not meeting their member responsibilities)
 
-The Board regularly reviews membership eligibility, about every 6 months) to make sure membership remains aligned with the policies we have agreed and criteria set out in our constitution.
+The Board regularly reviews membership eligibility, about every 6 months, to make sure membership remains aligned with the policies we have agreed and criteria set out in our constitution.
 
 If a member goes on extended leave (for health or other reasons), a discussion happens with them, their steward, and the coordinators about their ability to fulfil member responsibilities while away. If the leave is temporary, they may opt to abstain on decision-making or nominate a proxy, and still fulfil basic responsibilities such as signing required shareholder paperwork. If this is not possible, they will step down as a member and give up their share.
 
