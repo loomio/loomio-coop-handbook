@@ -36,7 +36,7 @@ One key role of the product owner is to help everyone get their user stories wel
 
 ### Writing Good Stories
 
-Anyone from the team can add a story to the Inbox (the first list on the Loomio Sprint Board).
+Anyone from the team can add a story to the Inbox (the first list on the [Loomio Sprint Board](https://trello.com/b/skuMQvLJ/loomio-sprint-board)).
 
 A story is either a description of a problem, or a statement of value. At the very least a story should have a name, and 3 lines: “As a... I want to... So that I can...”.
 
@@ -47,5 +47,3 @@ Some other things you can include to make it a stronger contender for prioritisa
 * Value: “If we had this feature we’d make X sales”
 * Risk: “If we don’t do it, we will be in big trouble”
 * Opportunity cost: “Working on this means we won’t be working on this”
-    
-

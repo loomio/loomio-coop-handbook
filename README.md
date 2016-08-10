@@ -14,14 +14,16 @@ Our organisation is open source too. If you want to learn how we run an efficien
 Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html):
 <img src='co-op-principles.png' class='img-50pc'>
 
-Want to know more? For related stories, check the [Loomio blog](http://blog.loomio.org/category/articles-and-interviews/) and the [Enspiral Blog](http://blog.enspiral.com).
-
-You can find out [about us](http://loomio.org/about), or [get in touch](https://www.loomio.org/contact)!
-
 The Loomio Cooperative is based in Aotearoa New Zealand.
 
 ![](teamloomio.jpg)
 
-![Creative Commons Licence](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+## About this handbook
+
+<img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-left" alt="Creative Commons License" />
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+If you find it helpful, please [let us know](https://loomio.org/contact). We'd love to hear from you. 🐌
+
+You can find the code [on Github](github.com/loomio/loomio-coop-handbook), and download the handbook in different formats [from Gitbooks](https://www.gitbook.com/book/loomio/loomio-cooperative-handbook/details).
