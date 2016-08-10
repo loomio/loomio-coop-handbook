@@ -25,6 +25,7 @@
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
    * [Annual Leave](annual_leave.md)
+* [Collaborative Funding](collaborative_funding.md)
 * [To write](to_write.md)
    * [Employment](employment.md)
    * [Loomio Points](loomio_points.md)
