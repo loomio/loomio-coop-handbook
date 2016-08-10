@@ -1,6 +1,8 @@
 # Collaborative Funding
 We set a side a small discretionary budget and decide how to spend it using a process called collaborative funding, on a tool called [Cobudget](http://cobudget.co).
 
+Our current policy: The discretionary budget is determined as part of the overall budgeting process (approved by the board). Half of that amount goes to collaborative funding and half is managed by the coordinators.
+
 The funds are shared out equally among all co-op Members, to decide how to allocate to projects of their choice. All workers (not just Members) are invited to put up ideas for projects to be funded, called "buckets".
 
 The purpose is to increase efficiency and clarity of discretionary budget, and reduce the need to have Loomio's or get everyone's buy-in on so many budget decisions. We know we have a certain amount of funds, and we each make our individual choices about what to prioritise with them. To get something funded, you don't need everyone's approval, just enough to fill your bucket.
