@@ -1,9 +1,10 @@
-# Collaborative Structure & Processes
-*Alignment and autonomy: structure and processes in a collaborative organisation*
+# Getting aligned
 
-**The evolution of our organisational structure**
+## Alignment and autonomy: structure and processes in a collaborative organisation
 
-In the earliest days of Loomio, we were organised as a "swarm" - we had open door meetings once a week, and anyone could rock up and help out. We ran a [tiny crowdfunding campaign](https://www.pledgeme.co.nz/projects/166-loomio), and founded and LLC so we could have a bank account. 
+### The evolution of our organisational structure
+
+In the earliest days of Loomio, we were organised as a "swarm" - we had open door meetings once a week, and anyone could rock up and help out. We ran a [tiny crowdfunding campaign](https://www.pledgeme.co.nz/projects/166-loomio), and founded an LLC so we could have a bank account. 
 
 In 2012, the core team committed to the project, and we formed a worker-owned cooperative. There were still a lot of people contributing on a casual part time basis, but there was also a group of full time people who became co-owners. We raised a round of loans from friends and family, and convened a board. 
 

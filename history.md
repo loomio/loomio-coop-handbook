@@ -7,3 +7,5 @@ In 2013, we ran a successful international crowdfunding campaign, enabling us to
 You can see a detailed timeline of our history between 2011 and 2015 here: http://www.loomio.org/timeline 
 
 (we hope to update it with the more recent stuff soon)
+
+{% video %} https://www.youtube.com/watch?v=AJnjTd9u4zg {% endvideo %}
