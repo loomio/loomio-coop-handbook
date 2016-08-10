@@ -30,6 +30,6 @@
    * [Loomio Points](loomio_points.md)
    * [Health & Safety](health_&_safety.md)
    * [Governance](governance.md)
-   * [Retreats](retreats.md)
    * [Collaborative Funding](collaborative_funding.md)
+   * [Retreats](retreats.md)
 
