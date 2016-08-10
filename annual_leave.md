@@ -4,7 +4,7 @@ This policy is built from [NZ legal requirements](http://www.business.govt.nz/st
 
 ## Process
 
-For annual, sick or any other type of leave, please follow these steps:
+For annual, sick or any other type of leave, please follow these steps.
 
 **Step 1)** Apply for Leave using the [Annual Leave Application Form](http://goo.gl/forms/3T83RgOA2O). An email will be sent to one of the Coordinators.
 
