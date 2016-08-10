@@ -1,35 +1,42 @@
 # Summary
 
 * [Introduction](README.md)
+
 * [Our Cooperative](our_cooperative.md)
    * [History](history.md)
    * [Purpose & Vision](purpose_&_vision.md)
    * [Constitution](constitution.md)
-* [Collaborative Structure & Processes](collaborative_structure_&_processes.md)
+   * [Governance](governance.md)
+
+* [Deciding what to work on](collaborative_structure_&_processes.md)
    * [Strategy](strategy.md)
    * [Planning](planning.md)
    * [Working Groups](working_groups.md)
    * [Sprints](sprints.md)
    * [Product Prioritisation](product_prioritisation.md)
-* [Updated](collaborative_practice.md)
+
+* Working together
    * [Coordination](coordination.md)
-   * [Stewarding](stewarding.md)
-   * [Communications](communications.md)
-   * [Collaborative Funding](collaborative_funding.md)
    * [Loomio Using Loomio](using_loomio.md)
-   * [Loomio Community Group](community_group.md)
-   * [Membership](membership.md)
+   * [Communications](communications.md)
+   * [Retreats](retreats.md)
+   * [Collaborative Funding](collaborative_funding.md)
+
+* Looking after people
+   * [Stewarding](stewarding.md)
    * [Well Working Group](well_working_group.md)
-   * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Professional Development](professional_development.md)
-   * [Staff Onboarding](staff_onboarding.md)
    * [Conflict Resolution Process](conflict_resolution.md)
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
-   * [Annual Leave](annual_leave.md)
-* [To write](to_write.md)
-   * [Employment](employment.md)
-   * [Loomio Points](loomio_points.md)
    * [Health & Safety](health_&_safety.md)
-   * [Governance](governance.md)
-   * [Retreats](retreats.md)
 
+* Employment and coop membership
+   * [Staff Onboarding](staff_onboarding.md)
+   * [Membership](membership.md)
+   * [Employment](employment.md)
+   * [Annual Leave](annual_leave.md)
+   * [Loomio Points](loomio_points.md)
+
+* Other useful guides
+   * [Loomio Community Group](community_group.md)
+   * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
