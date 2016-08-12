@@ -1,6 +1,6 @@
 # Cooperative Principles
 
-Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html):
+Our coop shares the seven cooperative principles:
 
 <img src='co-op-principles.png' class='img-50pc'>
 
