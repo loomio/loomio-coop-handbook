@@ -1,6 +1,7 @@
 # Cooperative Principles
 
 Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html):
+
 <img src='co-op-principles.png' class='img-50pc'>
 
 *The general content on this page has been gratefully borrowed from the [Worker Cooperative Code](https://github.com/cooperativesuk/workercode/blob/master/SUMMARY.md#summary). We are re-sharing it here for our co-op member and others, to support the 5th Principle: Education, training and information.* 
