@@ -3,13 +3,9 @@
 
 <img src='loomio-phone.png' class='img-right img-250px'>
 
-We build software for collaborative decision making, used by thousands of organisations and communities around the world.
+We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](http://www.loomio.org).
 
-If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](http://www.loomio.org).
-
-The software we build is [open source](http://github.com/loomio/loomio), which means we freely share the code for anyone to read, learn from, and modify.
-
-Our organisation is open source too. If you want to learn how we run an efficient organisation without a hierarchy, this handbook is good place to start.
+The software we build is [open source](http://github.com/loomio/loomio), which means we freely share the code for anyone to read, learn from, and modify. Our organisation is open source too. If you want to learn how we run an efficient organisation without a hierarchy, this handbook is good place to start.
 
 The Loomio Cooperative is based in Aotearoa New Zealand.
 
