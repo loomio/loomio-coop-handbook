@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * [Our Cooperative*](our_cooperative.md)
+   * [Cooperative Principles](cooperative_principles.md)
    * [History](history.md)
    * [Purpose & Vision](purpose_&_vision.md)
    * [Constitution](constitution.md)
    * [Governance*](governance.md)
-   * [Cooperative Principles](cooperative_principles.md)
 * [Getting aligned](getting_aligned.md)
    * [Strategy](strategy.md)
    * [Planning](planning.md)
