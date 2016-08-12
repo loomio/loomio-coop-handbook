@@ -3,7 +3,7 @@
 Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html):
 <img src='co-op-principles.png' class='img-50pc'>
 
-*Much of the general content on this page has been directly borrowed from the [Cooperatives UK Worker Code repo](https://github.com/cooperativesuk/workercode/blob/master/SUMMARY.md#summary).* 
+*The general content on this page has been gratefully borrowed from the [Worker Cooperative Code](https://github.com/cooperativesuk/workercode/blob/master/SUMMARY.md#summary). We are re-sharing it here for our co-op member and others, to support the 5th Principle: Education, training and information.* 
 
 ## What is a worker cooperative?
 
@@ -15,7 +15,6 @@ Cooperatives apply the values of cooperation – autonomy, democracy, equality, 
 
 Co‑operative membership is open to all workers able and willing to accept the responsibilities of membership. Worker co-operatives function best as an inclusive team of members with long-term collective interests in the success of the business.
 
-Co-operatives should: 
 1. Provide all workers with meaningful information about membership and how to join. 
 2. Provide members with an agreed set of rights and responsibilities, usually as a member job description or membership agreement. 
 3. Include a probationary period and membership training for workers who want to become members.
@@ -25,8 +24,7 @@ Co-operatives should:
 ### 2nd Principle: Democratic member control
 
 Co-operatives are democratic organisations controlled by their members, setting policies and making decisions. Members serving as elected representatives are accountable to the wider membership. Worker co-operatives succeed when all members participate in transparent, fair decision making; but also where members are given delegated authority to act on behalf of the collective.
-
-Co-operatives should: 
+ 
 1. Ensure all members actively participate in the management of the business and long-term planning.
 2. Effectively communicate, both between the co‑operative and its members and between members themselves.
 3. Collectively agree and delegate authority to individual members to act on behalf of the co-operative as and where necessary.
@@ -37,7 +35,6 @@ Co-operatives should:
 
 Members contribute equitably to, and democratically control, the capital and finances of their co-operative. Members decide how to use surpluses (profits). Worker co-operatives should provide the pay and other benefits that members need and want, managing the business to provide them and protect its future.
 
-Co-operatives should: 
 1. Allocate a percentage of surpluses to collectively owned financial reserves and capital.
 2. Ensure that members are enabled to invest in the co-operative if they want to. If members have individual investments, they do not attract additional voting rights.
 3. Have a planned and agreed pay and benefits structure, including non-financial benefits. 
@@ -48,7 +45,6 @@ Co-operatives should:
 
 Co-operatives are independent, self-help organisations controlled by their members. If they raise capital from external sources, they must maintain their co-operative autonomy. Worker co-operatives should actively plan and manage their co-operative to be a successful business and avoid becoming over dependent on any funder, supplier or customer.
 
-Co-operatives should: 
 1. Have good financial controls and management, including cash flow forecasts and internal audits of all parts of the business. 
 2. Actively manage and assign responsibilities for your operations, personnel, marketing and other business functions. 
 3. Understand and control risks, both internal and external, facing your co-operative. 
@@ -59,7 +55,6 @@ Co-operatives should:
 
 Co-operatives provide education and training for their members and employees so they can contribute effectively to the development of their co‑operative. They inform the general public about the nature and benefits of co-operation. Worker co-operative members should become multi-skilled, so they can participate fully in the management and development of the co-operative. 
 
-Co-operatives should: 
 1. Assess the technical, management and co‑operative skills needed to achieve your long term plans and replace key members who leave. 
 2. Ensure all prospective members, members and elected representatives receive training in membership and co-operative skills. 
 3. Encourage members in specialist roles to obtain technical skills and professional development for current and future needs. 
