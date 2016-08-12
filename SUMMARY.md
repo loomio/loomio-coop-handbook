@@ -6,7 +6,7 @@
    * [Purpose & Vision](purpose_&_vision.md)
    * [Constitution](constitution.md)
    * [Governance*](governance.md)
-   * Cooperative Principles
+   * [Cooperative Principles](cooperative_principles.md)
 * [Getting aligned](getting_aligned.md)
    * [Strategy](strategy.md)
    * [Planning](planning.md)
