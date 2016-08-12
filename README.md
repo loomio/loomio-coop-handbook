@@ -11,9 +11,6 @@ The software we build is [open source](http://github.com/loomio/loomio), which m
 
 Our organisation is open source too. If you want to learn how we run an efficient organisation without a hierarchy, this handbook is good place to start.
 
-Our coop shares the [seven cooperative principles](http://faresharecoop.org/why-be-a-co-op.html):
-<img src='co-op-principles.png' class='img-50pc'>
-
 The Loomio Cooperative is based in Aotearoa New Zealand.
 
 ![](teamloomio.jpg)
