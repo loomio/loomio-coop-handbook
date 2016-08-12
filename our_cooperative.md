@@ -15,4 +15,5 @@ Aligns incentives, mission, and stakeholding.
 
 Link to Yes! magazine article about funding.
 
+Link to http://loomio.coop/cooperative_principles.html
 
