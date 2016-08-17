@@ -28,7 +28,7 @@
    * [Conflict Resolution Resources](conflict_resolution_resources.md)
    * [Health & Safety*](health_&_safety.md)
    * [Staff Wellbeing Budget](staff_wellbeing_budget.md)
-* [Employment and membership*](employment_and_membership.md)
+* [Employment & Membership*](employment_and_membership.md)
    * [Staff Onboarding](staff_onboarding.md)
    * [Membership](membership.md)
    * [Employment*](employment.md)
