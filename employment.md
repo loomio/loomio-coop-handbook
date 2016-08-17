@@ -1,6 +1,6 @@
 # Employment
 
-As a cooperative, employment decisions are very important, because becoming a worker at Loomio puts you on a pathway to potential co-ownership. Additionally, our team composition is critical to our collaborative culture and how we work. In short, our people are the most important thing to us as a company, so we really try to get this right.
+As a cooperative, employment decisions are very important, because becoming a worker at Loomio puts you on a pathway to potential co-ownership as a [member](http://loomio.coop/membership.html). Additionally, our team composition is critical to our collaborative culture and how we work. In short, our people are the most important thing to us as a company, so we really try to get this right.
 
 ## Types of Employment
 
@@ -8,11 +8,11 @@ There are two kinds of employment with Loomio:
 
 ### Ongoing roles
 
-Long term employment that potentially puts the person on the membership pathway. People in these roles participate in the sprint process and have a member-steward. This category includes all current members, and newer staff who may become members in the future. Long-term workers may engage as employees or contractors, depending on their situation.
+Long-term employment that potentially puts the person on the [membership pathway](http://loomio.coop/membership.html). People in these roles participate in the [sprint process](http://loomio.coop/sprints.html) and have a [steward](http://loomio.coop/stewarding.html). This category includes all current members and newer staff who may become members in the future. Long-term workers may engage as employees or contractors, depending on their situation.
 
 ### Project-based roles
 
-Short term, limited in scope. The person is not on the membership pathway and doesn't necessarily join the sprint process (although they will be invited if appropriate). Reports to the coordinators as their steward.
+Short term, with limited and specific scope. The person is not on the membership pathway and doesn't necessarily join the sprint process (although they will be invited if appropriate). Reports to the [coordinators](http://loomio.coop/coordination.html) and do not have a steward. People in project-based roles are employed as contractors.
 
 ## Hiring for Ongoing Roles
 Putting someone on the pathway to membership is a consequential thing for a co-op, and it's worth taking a little more time and getting diverse views on the decision. While the actual membership decision is made by all members on the other end of this pathway, the moment of employment is the beginning of that process. 
