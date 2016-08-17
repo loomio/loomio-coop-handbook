@@ -1,1 +1,1 @@
-employment_and_membership.md
+Summary of the membership pathway, from employment to co-ownership
