@@ -34,7 +34,7 @@
    * [Employment*](employment.md)
    * [Annual Leave](annual_leave.md)
    * [Loomio Points*](loomio_points.md)
-* [Other useful guides*](guides.md)
+* [Other Guides*](guides.md)
    * [Loomio Community Group](community_group.md)
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Collaborative Funding](collaborative_funding.md)
