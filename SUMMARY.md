@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Our Cooperative*](our_cooperative.md)
-   * [Cooperative Principles](cooperative_principles.md)
    * [History](history.md)
    * [Purpose & Vision](purpose_&_vision.md)
+   * [Cooperative Principles](cooperative_principles.md)
    * [Constitution](constitution.md)
    * [Governance*](governance.md)
 * [Getting aligned](getting_aligned.md)
