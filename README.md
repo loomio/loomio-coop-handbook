@@ -28,6 +28,6 @@ If you find this handbook helpful in your work, please [let us know](https://loo
 
 You can find the code [on Github](github.com/loomio/loomio-coop-handbook), and download the handbook in different formats [from Gitbooks](https://www.gitbook.com/book/loomio/loomio-cooperative-handbook/details).
 
-<img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-left" alt="Creative Commons License" />
+<img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-right" alt="Creative Commons License" />
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/).
