@@ -1,37 +1,27 @@
 # Governance
 
-Loomio has a board of directors in charge of long-term strategy, compliance, and risk management, approve major transactions or partnerships etc...
+Loomio has a board of directors, which serves a similar governance function to boards of other New Zealand companies.
 
-- bringing business and other subject-area expertise to critiquing and providing accountability on the member-created strategy
-- ensuring good governance by making sure we've got the right people & processes to deliver our strategy
-- making sure the company complies with the law
+> A board is:
 
-They meet monthly, and collaborate together on Loomio.
+> * a group who meet regularly to look at the performance and strategic progress of the company
+* at least one independent director and other owner-operator directors (executive directors)
+* a group who can separate themselves from the day-to-day operations and take a birds-eye view of the business
+* a group who can debate the difficult issues and come out with a clear decision for the future of the company
+* ultimately, a group who guides, and is committed to, the company.
 
-The constitution requires at least 40% of directors to be co-op members. Currently this figure is 80% - we're likely to bring in another external director soon.
+> -- [The New Zealand Institute of Directors](https://www.iod.org.nz/FirstBoards/What-is-a-board)
 
-https://www.loomio.org/d/GCLcgpzD/clarification-members-appoint-directors
+At Loomio, directors are appointed by cooperative [members](http://loomio.coop/membership.html), i.e. the shareholders. According to our [constitution](http://loomio.coop/constitution.html), at least 40% of the directors must also be co-op members.
 
-My first stab: I see the board as responsible for
+We mandate the board in the areas of long-term strategy, legal and regulatory compliance, risk management, and approving our overall budget.
 
-- bringing business and other subject-area expertise to critiquing and providing accountability on the member-created strategy
-- ensuring good governance by making sure we've got the right people & processes to deliver our strategy 
-- making sure the company complies with the law
+The Loomio board meets monthly, and collaborates together on Loomio between meetings.
 
-Michael I wonder if you might add something about our particular role vis-a-vis investors
+Some responsibilites of our board:
 
-The board balances opportunity and risk, working on behalf of member shareholders and investors to guide
+* bringing business and other subject-area expertise to critiquing and providing accountability on the member-created strategy
+* ensuring good governance by making sure we've got the right people & processes to deliver our strategy 
+* making sure the company complies with the law
 
-Here is a simple definition from the IOD - What is a board?
-
-A board is:
-
-- a group who meet regularly to look at the performance and strategic progress of the company
-- at least one independent director and other owner-operator directors (executive directors)
-- a group who can separate themselves from the day-to-day operations and take a birds-eye view of the business
-- a group who can debate the difficult issues and come out with a clear decision for the future of the company
-ultimately, a group who guides, and is committed to, the company.
-
-Most of this applies to Loomio.
-
-I'd add that the board balances opportunity and risk, working on behalf of member shareholders and investors to guide and support the management of the company (via coordinators).
+The board balances opportunity and risk, working on behalf of member shareholders, investors, and all Loomio stakeholders to guide and support the management of the company. Operationally, this is carried out through delegation to the [coordinators](http://loomio.coop/coordination.html).
