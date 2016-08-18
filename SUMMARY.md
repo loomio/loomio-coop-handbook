@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Our Cooperative*](our_cooperative.md)
+* [Our Cooperative](our_cooperative.md)
    * [History](history.md)
    * [Purpose & Vision](purpose_and_vision.md)
    * [Cooperative Principles](cooperative_principles.md)
