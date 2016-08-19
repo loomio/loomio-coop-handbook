@@ -28,4 +28,4 @@ The Loomio Co-operative will be surrounded by a valued community of users and co
 
 ---
 
-This purpose and vision is enshrined in our company [constitution](constitution.md).
+Our purpose, vision and values are enshrined in our company [constitution](constitution.md).

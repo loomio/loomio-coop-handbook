@@ -4,7 +4,7 @@
 
 We do annual planning so everyone is focused on the same thing, and all the different areas of our work add up to a coherent and coordinated whole.
 
-Our annual planning process starts with a day out of the office. Together we agreed what our focus would be for the year.
+Our annual planning process starts with a day out of the office. Together we agree what our focus will be for the year.
 
 ### 2016 Plan
 
@@ -12,10 +12,11 @@ We’ve always said that the best way we can deliver our social mission is to de
 
 We discussed how we can break this work up into streams, based on the groups of people we serve:
 
-* we want to earn the confidence of values-aligned investors who will support our growth
-* we want to reach out into the world to tell people about how we can help them organise inclusively and effectively
-* we want to support our customers to use Loomio to make a positive impact in their workplaces and communities
-* and we want to nurture our team of amazing humans to feel awesome in their work
+* we want to earn the confidence of values-aligned **investors** who will support our growth
+* we want to reach out into the **world** to tell people about how we can help them organise inclusively and effectively
+* we want to support our **customers** to use Loomio to make a positive impact in their workplaces and communities
+* and we want to nurture our **team** of amazing humans to feel awesome in their work
+
 
 ## Quarterly
 

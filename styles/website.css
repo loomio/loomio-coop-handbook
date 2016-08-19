@@ -1,3 +1,13 @@
+/* OVERRIDES */
+.markdown-section{
+  font-size: 1.7rem;
+  line-height: 1.5;
+}
+
+.markdown-section blockquote{
+  color: auto;
+}
+
 /* IMAGES */
 
 .img-left{
