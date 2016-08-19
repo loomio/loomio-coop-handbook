@@ -10,7 +10,7 @@ We break up the year into two-week chunks. Each chunk is called a sprint, though
 
 Probably the best way to understand it is to look at our sprint board on Trello:
 
-[![Loomio's Sprint Board on Trello](img/loomio-sprint-trello-board.png)](img/loomio-sprint-trello-board.png)
+[![Loomio's Sprint Board on Trello](img/loomio-sprint-trello-board.png)](http://loomio.coop/img/loomio-sprint-trello-board.png)
 
 **Inbox** is where you put stories that you think we should work on soon.
 
