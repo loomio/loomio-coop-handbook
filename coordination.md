@@ -1,6 +1,6 @@
 # Coordination at Loomio
 
-### Context
+## Context
 
 As a worker-owned cooperative committed to decentralising decision-making, Loomio does not have a traditional managerial hierarchy. However, a big picture perspective of how all the parts of the organisation and different work areas fit together, and how they intersect with the budget and longer term strategy, is essential to operational effectiveness and overall success of our mission. At Loomio, this role is called a Coordinator.
 
@@ -10,13 +10,13 @@ Our guiding principle for coordination is **"dynamic hierarchies by consent"**.
 
 **"Dynamic"**, because these roles and internal structures are constantly evolving. We adapt them to meet the co-op’s needs responsively. Individuals rotate in and out of roles regularly. Internal structures are always up for discussion. We review all roles at least quarterly (although they may change less frequently).
 
-**"Consent"**, because ultimately all mandate and power traces back to the co-op membership - in others words, all of us together. 
+**"Consent"**, because ultimately all mandate and power traces back to the co-op membership - in others words, all of us together.
 
 A coordinator is not a "boss" or “manager” in the familiar sense. The role carries no more inherent authority than any other in the co-op. It’s simply focused in a different way, on synthesis, the spaces between, the overall picture, and the intersections of governance, planning, and execution.
 
 The role of coordinator carries some aspects of a senior management role, in that the board and the members delegate ensuring operational execution in the co-op. However, it’s distributed among multiple people, and ultimately accountable to the workers themselves. It also carries aspects of facilitation, support, and servant leadership.
 
-Mutually agreed structure for our work helps us to be more productive and happier. Loomio is committed to self-determination for workers. At the same time, we are keenly aware of the [Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm). What we aim for instead is "Tyranny-less structures". 
+Mutually agreed structure for our work helps us to be more productive and happier. Loomio is committed to self-determination for workers. At the same time, we are keenly aware of the [Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm). What we aim for instead is "Tyranny-less structures".
 
 ## The Role of the Coordinator
 
