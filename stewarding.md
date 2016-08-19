@@ -1,6 +1,7 @@
 # Stewarding at Loomio
 
-![](stewards2016.png)
+<img src='img/stewards2016.png' class='img-right img-250px'>
+
 We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/coordination.html) or other processes. Stewarding is Loomio's approach to peer support.
 
 Here are some of the things a boss might do in another organisation, that stewards hold at Loomio:
@@ -16,7 +17,7 @@ Stewarding is not about managing your daily work. Its about you as an individual
 
 Everyone working on Loomio has a Steward. These relationships facilitate connections across the co-op, opportunities for exchanging insights, and deeper understanding of individuals and areas of work. They also help us ensure that we're looking after people.
 
-###Principles/Policies of our Stewardship System
+## Principles/Policies of our Stewardship System
 
 * All active worker members have stewards and stewardees
 * Two people can't both be each other's stewards
@@ -30,7 +31,7 @@ Everyone working on Loomio has a Steward. These relationships facilitate connect
 
 Most people meet with their stewards about once per month. The Well Working Group will raise a proposal on Loomio once per month, as a reminder for stewards to check in with their stewardees.
 
-Every stewarding relationship is different, and there are many different approaches. Some are more conversational and friendly, with mutual sharing from both parties. Sometimes stewards offer advice or challenges. Other times they simply listen. Sometimes they follow a more structured pattern, checking in on action points or measuring progress over time. 
+Every stewarding relationship is different, and there are many different approaches. Some are more conversational and friendly, with mutual sharing from both parties. Sometimes stewards offer advice or challenges. Other times they simply listen. Sometimes they follow a more structured pattern, checking in on action points or measuring progress over time.
 
 The important thing is that the approach works *for the stewardee*. Stewarding is their time to get the support they need to bring their best self to the co-op.
 
@@ -42,4 +43,6 @@ Your steward might ask you questions like:
 * how can I best support you?
 * ...and sometimes the co-op will suggest a prompt or theme for stewards to bring up
 
+---
 
+**Update August 2016** - this stewarding system has been extended out of Loomio [into the wider Enspiral network](http://handbook.enspiral.com/stewardship_agreement.html). Cool eh! 🐝
