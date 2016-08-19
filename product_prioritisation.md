@@ -11,7 +11,7 @@ The Groomers hear from various input sources, and try to maximise quality and di
 
 Throughout the sprint, if anyone on the team has an idea or is offered one from a user or anyone, they create a card on the "inbox" list on the sprint board. The Groomers process these cards in their meetings.
 
-The Groomers follow this decision-making flow, to prioritise cards according to our [quarterly plan](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/planning.html).
+The Groomers follow this decision-making flow, to prioritise cards according to our [quarterly plan](planning.html).
 
 ![](groomersflow.png)
 ### Solutions Working Group

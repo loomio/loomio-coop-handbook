@@ -2,7 +2,7 @@
 
 <img src='img/stewards2016.png' class='img-right img-250px'>
 
-We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/coordination.html) or other processes. Stewarding is Loomio's approach to peer support.
+We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](coordination.html) or other processes. Stewarding is Loomio's approach to peer support.
 
 Here are some of the things a boss might do in another organisation, that stewards hold at Loomio:
 
@@ -13,7 +13,7 @@ Here are some of the things a boss might do in another organisation, that stewar
 
 When you have an issue, you can’t approach a group; you need a specific person you know you can turn to. This is what your steward is for. They won’t solve every problem, but they are your point of contact to make sure the problem gets solved. If you don't know who to go to, you can always go to them.
 
-Stewarding is not about managing your daily work. Its about you as an individual, and your relationship to the co-op. They can be your mentor, or your guide, or your sounding board. If you ever get into a [conflict](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/conflict_resolution.html) situation, they’ll be by your side making sure you are well supported to a resolution.
+Stewarding is not about managing your daily work. Its about you as an individual, and your relationship to the co-op. They can be your mentor, or your guide, or your sounding board. If you ever get into a [conflict](conflict_resolution.html) situation, they’ll be by your side making sure you are well supported to a resolution.
 
 Everyone working on Loomio has a Steward. These relationships facilitate connections across the co-op, opportunities for exchanging insights, and deeper understanding of individuals and areas of work. They also help us ensure that we're looking after people.
 

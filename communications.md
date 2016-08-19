@@ -7,7 +7,7 @@ All staff have access to pretty much everything, and anyone can share their insi
 We’re continuously improving our systems to strike the right balance and serve diverse needs. We’re making it up as we go along. You’re at least as smart as anyone else here, so if you’ve got something you want to offer don’t wait for permission - just get started and pitch in.
 
 ## Loomio is our main communication tool
-Of couse, we use Loomio extensively internally at Loomio. In fact, we have a whole section about just that, so [check it out](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/using_loomio.html).
+Of couse, we use Loomio extensively internally at Loomio. In fact, we have a whole section about just that, so [check it out](using_loomio.html).
 
 ##Google Apps
 We use the Google Apps Suite. Your Loomio email is actually a gmail account, and it gives you access to all the other tools, like Drive, Docs, Calendar, etc.
@@ -39,7 +39,7 @@ The persistent space for video chats is appear.in/loomio - that's where you'll f
 
 ## Trello as our shared todo list
 
-We use a bunch of different Trello boards to coordinate our work. The one everyone needs to know about is the [Loomio Sprint Board](https://trello.com/b/skuMQvLJ/loomio-sprint-board) - find out all about [how we do sprints here](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/sprints.html). Many working groups and individuals also have their own Trello boards.
+We use a bunch of different Trello boards to coordinate our work. The one everyone needs to know about is the [Loomio Sprint Board](https://trello.com/b/skuMQvLJ/loomio-sprint-board) - find out all about [how we do sprints here](sprints.html). Many working groups and individuals also have their own Trello boards.
 
 ## Slack for instant messaging
 

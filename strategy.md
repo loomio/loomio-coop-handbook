@@ -14,6 +14,6 @@ For an example, see [this story we wrote in 2015](https://docs.google.com/docume
 
 Strategy is not a plan exactly, it is a story: a way for us to think together about the future, rather than decide exactly on what we must do. No one knows what will happen in three years, so we don’t get too caught up on detail at this timescale.
 
-The 12-month horizon is a bit more predictable though. That’s where we do [planning](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/planning.html).
+The 12-month horizon is a bit more predictable though. That’s where we do [planning](planning.html).
 
 

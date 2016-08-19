@@ -4,9 +4,9 @@ The Loomio team tends to organise itself into working groups. These are emergent
 
 While people do take on individual projects at Loomio, we generally find that "no teams of one" is a good mantra. As a collaborative organisation, we find people tend to work better if they have a crew taking collective responsibility with them.
 
-Some working groups form to do a specific job, and then disband. An example of this was the "Loomio Community Working Group", which came together to develop good practice and guidelines for [how Loomio uses Loomio](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/using_loomio.html), reorganise our internal group structure, and improve how we engage with our wider community in public groups hosted by the Co-op. Once the new systems were in place, the group ceased to exist and its members moved on. 
+Some working groups form to do a specific job, and then disband. An example of this was the "Loomio Community Working Group", which came together to develop good practice and guidelines for [how Loomio uses Loomio](using_loomio.html), reorganise our internal group structure, and improve how we engage with our wider community in public groups hosted by the Co-op. Once the new systems were in place, the group ceased to exist and its members moved on. 
 
-Other times, working groups merge, split, or reorganise. For example, at one point the Capital and Strategy working groups merged, as did the Sales and Marketing groups. We generally review working groups as part of [quarterly planning](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/planning.html), or whenever the need for a change arises.
+Other times, working groups merge, split, or reorganise. For example, at one point the Capital and Strategy working groups merged, as did the Sales and Marketing groups. We generally review working groups as part of [quarterly planning](planning.html), or whenever the need for a change arises.
 ![](workinggroupsQ2-2016.png)
 *Q2 2016 Working groups*
 ![](FX1YfEo.png)

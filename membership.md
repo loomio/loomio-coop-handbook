@@ -33,7 +33,7 @@ This sometimes means making hard choices. In the worst-case scenario, this might
 
 Co-op members set the strategic direction and are expected to keep sufficiently up to date to participate in a meaningful way. It’s important that we’ve all got the context for well-informed decision-making. 
 
-The [Loomio Cooperative Constitution](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/constitution.html) is the legally-binding document that precisely defines the rights and responsibilities of membership. The constitution can only be changed by a special resolution of members (90% agreement).
+The [Loomio Cooperative Constitution](constitution.html) is the legally-binding document that precisely defines the rights and responsibilities of membership. The constitution can only be changed by a special resolution of members (90% agreement).
 
 Cooperative members have all the responsibilities of owners and shareholders, as well as being the core working staff.
 
@@ -61,17 +61,17 @@ We determine what proportion of the surplus is reinvested into the co-op, what p
 
 **Loomio Points**
 
-We track unpaid work in the co-op with a system called [Loomio Points](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/loomio_points.html). This applies to members and non-members alike, and is separate to distribution of surplus. Membership status does not affect Loomio Points.
+We track unpaid work in the co-op with a system called [Loomio Points](loomio_points.html). This applies to members and non-members alike, and is separate to distribution of surplus. Membership status does not affect Loomio Points.
 
 #### Entering Membership
 
-The first step toward membership is getting employed by the co-op, according to the [Employment Process](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/employment.html). Working on Loomio on an ongoing basis, in a long-term agreement with the co-op, puts you on the *membership pathway*. (We also work with short-term contractors who are not on the membership pathway).
+The first step toward membership is getting employed by the co-op, according to the [Employment Process](employment.html). Working on Loomio on an ongoing basis, in a long-term agreement with the co-op, puts you on the *membership pathway*. (We also work with short-term contractors who are not on the membership pathway).
 
 Working for the cooperative is called *"transacting"*, according to our constitution. This technical term is important to ensure Loomio is owned by its worker-members. The decision point about membership comes after someone has worked with the co-op approximately 1 year.
 
 **1: Confirm eligability **
 
-Worked (*"transacted"*) in the last 12 months, and is likely to work in the next 12 (as determined by the individual and the [employment panel](https://loomio.gitbooks.io/loomio-cooperative-handbook/content/employment.html))
+Worked (*"transacted"*) in the last 12 months, and is likely to work in the next 12 (as determined by the individual and the [employment panel](employment.html))
 
 Worker is committed to fulfilling member responsibilities
 
