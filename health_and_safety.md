@@ -35,12 +35,12 @@ Yearly, the Board of Directors will review the health and safety policy and see 
 
 New Zealand’s Health and Safety at Work Act 2015 ensures that everyone has a role to play and makes everyone's responsibilities clear. The following list identifies those responsibilities in the Loomio context:
 
-The Board must do due diligence to make sure the business understands and is meeting its health and safety responsibilities. The Board has overall responsibility to ensure that the Health and Safety Policy is in place, maintained and is continuously improved.
+* The Board must do due diligence to make sure the business understands and is meeting its health and safety responsibilities. The Board has overall responsibility to ensure that the Health and Safety Policy is in place, maintained and is continuously improved.
 
-The Board delegates to Coordinators and the Company Secretary the responsibility of ensuring policy is practiced.
+* The Board delegates to Coordinators and the Company Secretary the responsibility of ensuring policy is practiced.
+* The Well Working group has a support role to practice the policy. 
 
-The Well Working group has a support role to practice the policy.
-Workers have responsibility of awareness and practice, including caring for customers, users, stakeholders and visitors. 
+* Workers have responsibility of awareness and practice, including caring for customers, users, stakeholders and visitors. 
 
 # Context: NZ’s Health and Safety Law
 
