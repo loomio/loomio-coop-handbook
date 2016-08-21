@@ -42,7 +42,7 @@ The Board delegates to Coordinators and the Company Secretary the responsibility
 The Well Working group has a support role to practice the policy.
 Workers have responsibility of awareness and practice, including caring for customers, users, stakeholders and visitors. 
 
-**Context: NZ’s Health and Safety Law**
+##Context: NZ’s Health and Safety Law
 
 *Loomio’s Health and Safety policy is designed to meet the requirements of New Zealand's workplace health and safety law, the Health and Safety at Work Act 2015 (HSWA). Content for the next several sections is copied verbatim from various parts of the New Zealand Government’s Worksafe website.*
 
