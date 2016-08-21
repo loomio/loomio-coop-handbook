@@ -120,6 +120,7 @@ Examples of good practice:
 * Make sure the business has effective worker engagement and work participation practices.
 
 5) Ensure the business has processes for receiving, considering and responding to information about incidents, hazards, and risks 
+
 Examples of good practice:
 * Make sure a process is in place for workers and others at the workplace to report incidents, hazards and risks.
 * Make sure there is a process for responding to information in a timely way and taking action.
