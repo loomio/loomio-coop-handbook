@@ -128,6 +128,7 @@ Examples of good practice:
 * Make sure the business has emergency response plans, and that they are regularly tested.
 
 6) Ensure there are systems in place to monitor and ensure that the resources and processes referred to above are being implemented and used
+
 Examples of good practice:
 * Include processes to plan, deliver and review leadership of health and safety in the board charter.
 * Arrange for a periodic independent review of health and safety systems, processes and resources.
