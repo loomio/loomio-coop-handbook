@@ -112,14 +112,14 @@ Examples of good practice:
 * Make sure staff have a mix of operational and health and safety expertise to operate the business safely and effectively.
 * Make sure that the business has processes to control health and safety risks, and uses them (eg documented ‘buy safe’ and ‘buy quiet’ processes for buying plant and equipment).
 
-4) Ensure that the business is complying with its duties and obligations under HSWA
+4) Ensure that the business is complying with its duties and obligations under HSWA.
 
 Examples of good practice:
 * Decide which people in the business will have health and safety management responsibilities.
 * Make sure the business has a health and safety management system (reporting notifiable incidents, consultation. acting on improvement notices, training, personal protective equipment, etc) and that everyone complies with it.
 * Make sure the business has effective worker engagement and work participation practices.
 
-5) Ensure the business has processes for receiving, considering and responding to information about incidents, hazards, and risks 
+5) Ensure the business has processes for receiving, considering and responding to information about incidents, hazards, and risks. 
 
 Examples of good practice:
 * Make sure a process is in place for workers and others at the workplace to report incidents, hazards and risks.
@@ -127,7 +127,7 @@ Examples of good practice:
 * Make sure the risk assessment process is thorough, covers all work tasks and workplaces, and that everyone uses it.
 * Make sure the business has emergency response plans, and that they are regularly tested.
 
-6) Ensure there are systems in place to monitor and ensure that the resources and processes referred to above are being implemented and used
+6) Ensure there are systems in place to monitor and ensure that the resources and processes referred to above are being implemented and used.
 
 Examples of good practice:
 * Include processes to plan, deliver and review leadership of health and safety in the board charter.
