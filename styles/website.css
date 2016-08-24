@@ -36,10 +36,10 @@
 }
 
 /*
-  These rules only apply to screens less than 500px wide.
+  These rules only apply to screens less than 600px wide.
   They override rules placed earlier in this file.
 */
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   .img-50pc, .img-250px, .img-300px, .img-500px{
     width: 100%;
   }
