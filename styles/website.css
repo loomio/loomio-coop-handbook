@@ -27,3 +27,11 @@
 .img-250px{ width: 250px; }
 .img-300px{ width: 300px; }
 .img-50pc{ width: 50%; }
+
+@media only screen and (max-width: 500px) {
+  .img-50pc, .img-250px, .img-300px, .img-500px, .img-left, .img-right{
+    clear: both;
+    float: none;
+    width: 100%;
+  }
+}
