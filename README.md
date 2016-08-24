@@ -8,7 +8,7 @@ We build software for collaborative decision making, used by thousands of organi
 The software we build is [open source](http://github.com/loomio/loomio), which means we freely share the code for anyone to read, learn from, and modify. Our organisation is open source too. If you want to learn how we run an efficient organisation without a hierarchy, this handbook is a good place to start.
 
 <div class="mobile-visible">
-  <p><i class="fa fa-align-justify"></i> If you're viewing this on a small screen, you'll find a table of contents at the top left.</p>
+  <p>If you're viewing this on a small screen, you'll find a table of contents by clicking the menu icon at the top left: <i class="fa fa-align-justify"></i></p>
 </div>
 
 The Loomio Cooperative is based in Aotearoa New Zealand. We're part of the Enspiral network - check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness. 🍍
