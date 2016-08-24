@@ -28,10 +28,29 @@
 .img-300px{ width: 300px; }
 .img-50pc{ width: 50%; }
 
+.mobile-visible{
+  display: none;
+}
+.mobile-hidden{
+  display: inherit;
+}
+
+/*
+  These rules only apply to screens less than 500px wide.
+  They override rules placed earlier in this file.
+*/
 @media only screen and (max-width: 500px) {
-  .img-50pc, .img-250px, .img-300px, .img-500px, .img-left, .img-right{
+  .img-50pc, .img-250px, .img-300px, .img-500px{
+    width: 100%;
+  }
+  .img-left, .img-right{
     clear: both;
     float: none;
-    width: 100%;
+  }
+  .mobile-visible{
+    display: inherit;
+  }
+  .mobile-hidden{
+    display: none;
   }
 }
