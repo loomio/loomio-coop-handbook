@@ -10,10 +10,13 @@
 * [Enspiral Handbook](http://handbook.enspiral.com)
 * [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 * [Valve Company Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+* [Enspiral Labs Handbook](https://enspiral.gitbooks.io/enspiral-labs-handbook/content/)
 
 ## Articles
 
 * [First, Fire All The Managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers) - HBR article by [Gary Hamel](https://twitter.com/profhamel) about Morning Star Company
+* [A Democracy of Groups](http://firstmonday.org/article/view/1289/1209) - Beth Novak
+* [Emergent Democracy](https://joi.ito.com/joiwiki/EmergentDemocracyPaper) - Joi Ito
 
 ## Add to this list
 
