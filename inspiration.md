@@ -2,8 +2,8 @@
 
 ## Books
 
-* [Companies We Keep](www.chelseagreen.com/companies-we-keep) by John Abrams about his experience handing his building company over to worker control
-* [Reinventing Organisations](www.reinventingorganizations.com) by Frederic Laloux documenting the new wave of horizontal organisations
+* [Companies We Keep](https://www.chelseagreen.com/companies-we-keep) by John Abrams about his experience handing his building company over to worker control
+* [Reinventing Organisations](http://www.reinventingorganizations.com) by Frederic Laloux documenting the new wave of horizontal organisations
 
 ## Other company handbooks
 
