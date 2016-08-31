@@ -30,6 +30,8 @@ Feel free to contact [@richdecibels](https://twitter.com/richdecibels) on Twitte
 
 If you find this handbook helpful in your work, please [let us know](https://loomio.org/contact). We'd love to hear from you. 🐌
 
+The handbook was [discussed on Hacker News](https://news.ycombinator.com/item?id=12348909). The comment thread is a good source of further FAQ style information.
+
 You can find the code [on Github](https://github.com/loomio/loomio-coop-handbook), and download the handbook in different formats [from Gitbooks](https://www.gitbook.com/book/loomio/loomio-cooperative-handbook/details).
 
 <img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-right" alt="Creative Commons License" />
