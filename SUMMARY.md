@@ -37,4 +37,5 @@
    * [Loomio Community Group](community_group.md)
    * [The Loomio Way (Brand Guidelines)](brand_guidelines.md)
    * [Collaborative Funding](collaborative_funding.md)
+   * [Inspiration](inspiration.md)
 

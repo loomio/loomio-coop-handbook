@@ -3,7 +3,7 @@ As a worker co-op, Loomio is collectively owned by its members, who are all equa
 
 **Decision-making**
 
-Members are the ultimate decision-makers for Loomio. While we often delegate decision-making, such as to diretors, coordinators, and leaders of work areas, all mandate traces back to the members. 
+Members are the ultimate decision-makers for Loomio. While we often delegate decision-making, such as to directors, coordinators, and leaders of work areas, all mandate traces back to the members. 
 
 Two important principles inform our decision-making processes: anyone affected by a decision should be able to participate in making it, and a person’s influence over a decision should be in proportion to the degree to which it affects them. 
 
