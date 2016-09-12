@@ -30,7 +30,7 @@
    * [Employment](employment.md)
    * [Staff Onboarding](staff_onboarding.md)
    * [Membership](membership.md)
-   * [Loomio Points*](loomio_points.md)
+   * [Loomio Points](loomio_points.md)
    * [Health & Safety*](health_and_safety.md)
    * [Annual Leave](annual_leave.md)
 * [Other Guides*](guides.md)
