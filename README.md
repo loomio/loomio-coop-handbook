@@ -3,9 +3,9 @@
 
 <img src='loomio-phone.png' class='img-right img-250px'>
 
-We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.org?utm_campaign=handbook&utm_source=handbook).
+The software we build is [open source](http://github.com/loomio/loomio), and our organisation is open source too. This handbook is where we document how we run an efficient organisation without a hierarchy.
 
-The software we build is [open source](http://github.com/loomio/loomio), which means we freely share the code for anyone to read, learn from, and modify. Our organisation is open source too. If you want to learn how we run an efficient organisation without a hierarchy, this handbook is a good place to start.
+We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.org?utm_campaign=handbook&utm_source=handbook).
 
 <div class="mobile-visible">
   <p>If you're viewing this on a small screen, you'll find a table of contents by clicking the menu icon at the top left: <i class="fa fa-align-justify"></i></p>
@@ -32,7 +32,7 @@ If you find this handbook helpful in your work, please [let us know](https://loo
 
 The handbook was [discussed on Hacker News](https://news.ycombinator.com/item?id=12348909). The comment thread is a good source of further FAQ style information.
 
-You can find the code [on Github](https://github.com/loomio/loomio-coop-handbook), and download the handbook in different formats [from Gitbooks](https://www.gitbook.com/book/loomio/loomio-cooperative-handbook/details).
+You can find the code [on Github](https://github.com/loomio/loomio-coop-handbook), and download the handbook in different formats [from Gitbook](https://www.gitbook.com/book/loomio/loomio-cooperative-handbook/details).
 
 <img src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-right" alt="Creative Commons License" />
 
