@@ -9,6 +9,7 @@ We build software for collaborative decision making, used by thousands of organi
 
 <iframe width="392" height="220" src="https://www.youtube.com/embed/EXkQN9aL0R0" frameborder="0" allowfullscreen></iframe>
 
+*VIDEO: Loomio co-founder Alanna introducing the co-op handbook, and talking about why we open source our organisational development.
 
 <div class="mobile-visible">
   <p>If you're viewing this on a small screen, you'll find a table of contents by clicking the menu icon at the top left. <i class="fa fa-align-justify"></i></p>
