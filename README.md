@@ -7,13 +7,13 @@ The software we build is [open source](http://github.com/loomio/loomio), and our
 
 We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.org?utm_campaign=handbook&utm_source=handbook).
 
+*VIDEO: Co-founder Alanna launches the co-op handbook and talks about "Open Source Organisational Development"*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EXkQN9aL0R0" frameborder="0" allowfullscreen></iframe>
 
-*VIDEO: Co-founder Alanna launches the co-op handbook and talks about "Open Source Organisational Development"*
 
 <div class="mobile-visible">
-  <p>If you're viewing this on a small screen, you'll find a table of contents by clicking the menu icon at the top left: <i class="fa fa-align-justify"></i></p>
+  <p>If you're viewing this on a small screen, you'll find a table of contents by clicking the menu icon at the top left. <i class="fa fa-align-justify"></i></p>
 </div>
 
 The Loomio Cooperative is based in Aotearoa New Zealand. We're part of the Enspiral network - check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness.
