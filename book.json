@@ -1,14 +1,19 @@
 {
-  "styles": {
-    "website": "styles/website.css"
-  },
-  "plugins": [ "collapsible-menu", "video", "ga" ],
-  "pluginsConfig": {
-      "ga": {
-          "token": "UA-31046122-1",
-          "configuration": {
-              "alwaysSendReferrer": true
-          }
-      }
-  }
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "collapsible-menu",
+        "video",
+        "ga",
+        "youtube"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-31046122-1",
+            "configuration": {
+                "alwaysSendReferrer": true
+            }
+        }
+    }
 }
