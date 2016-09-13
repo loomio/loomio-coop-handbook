@@ -36,8 +36,9 @@ CTAs link to "[https://www.loomio.org/start_group](https://www.loomio.org/start_
 
 Our landing pages feature screenshots of the app in use. To convey the meaning more succinctly, we remove extra UI elements, like the navbar and options menus. Like this:
 
-<img src="screenshot_before.png" class="img-left" alt="screenshot before" />
-<img src="screenshot_after.png" class="img-right" alt= "screenshot after" />
+![](img/screenshots_before_and_after.png)
+
+*Screenshots before and after removing extra UI*
 
 If you install the Stylish extension on [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/), you can then [run this custom stylesheet](https://userstyles.org/styles/130773/loomio-marketing-screenshots-active) to remove this extra UI.
 
