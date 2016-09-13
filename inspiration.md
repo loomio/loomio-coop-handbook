@@ -7,7 +7,8 @@
 
 ## Other company handbooks
 
-* [Enspiral Handbook](http://handbook.enspiral.com)
+Loomio is part of the Enspiral network - check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness. Other handbooks:
+
 * [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 * [Valve Company Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
