@@ -14,7 +14,7 @@ We build software for collaborative decision making, used by thousands of organi
   <p>If you're viewing this on a small screen, you'll find a table of contents by clicking the menu icon at the top left: <i class="fa fa-align-justify"></i></p>
 </div>
 
-The Loomio Cooperative is based in Aotearoa New Zealand. We're part of the Enspiral network - check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness. 🍍
+The Loomio Cooperative is based in Aotearoa New Zealand. We're part of the Enspiral network - check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness.
 
 ![](teamloomio.jpg)
 
