@@ -1,4 +1,4 @@
-## Loomio Co-op Handbook
+## The Loomio Co-op Handbook
 
 
 <img src='loomio-phone.png' class='img-right img-250px'>
