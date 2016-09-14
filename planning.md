@@ -20,7 +20,7 @@ We discussed how we can break this work up into streams, based on the groups of 
 
 ## Quarterly
 
-Every quarter, we have an away day, (preceded and followed by various preparation and workshops), where we take stock of where we are relative to our overall vision, annual plan, and emerging reality, and decide what to focus on for the coming 3 months. This allows us to update our understanding of our annual plan as we learn more, and the world changes, and adjust course accordingly.
+Every quarter, we have an away day (preceded and followed by various preparation and workshops), where we take stock of where we are relative to our overall vision, annual plan, and emerging reality, and decide what to focus on for the coming 3 months. This allows us to update our understanding of our annual plan as we learn more, and the world changes, and adjust course accordingly.
 
 Quarterly plans take a range of forms, depending on the circumstances and needs of the team. Usually we end up with a more in-depth document, accompanied by an easily accessible summary.
 
@@ -30,29 +30,29 @@ The goal is to provide a guiding focus for all our work across the team. Because
 
 ![](q32016targets.png)
 
-## Quarterly planning format
+## Away Days
 
 ### Pre-Away Day
 
-* working groups each convene and discuss what they accomplished in the quarter about to end, and what they've learned to inform what we could work on next
-* evidence and metrics are produced, reports are pulled together
-* the coordinators write a quarterly report giving an assessment of how we did achieving our previous quarterly goals
-* everyone individually reflects on what happened over the quarter and what they think about upcoming priorities
+* working groups convene and discuss what they accomplished that quarter, and what they've learned
+* evidence, data, and metrics are gathered
+* the coordinators write a quarterly report giving an assessment of how we did achieving our previous quarterly goals and where we're at with the overall plan
+* everyone individually reflects on what happened over the quarter and what they think about upcoming priorities (sometimes informally, sometimes we send out a survey)
 
 ### Away Day (Offsite)
 
-While we leave room for flexibility in the agenda and facilitation, this is a format we've generall found works for us.
+While we leave room for flexibility in the agenda and facilitation, this is a format we've generally found works for us.
 
 * Arrive and have an extended check-in circle, with space for both personal and professional reflections from each person
 * Context from the Coordinators, reviewing what happened in the last quarter and reminding us of the quarterly planning process and goals
-* Dialogue circle on a relavent theme, to enable some deeper collective thinking
-* Gathering questions and discussion topics, clarifying what we all need to feel resourced to set the upcoming quarterly priorities
-* Co-created afternoon sessions, which can take a range of formats: open space, pair walks, whole group discussion, breakout amll groups on specific topics
+* Dialogue circle on a relevant theme, to enable some deeper collective thinking
+* Gather questions and discussion topics; clarify what we all need to feel resourced to set the upcoming quarterly priorities
+* Co-create afternoon sessions, which can take a range of formats: open space, pair walks, whole group discussion, breakout small groups on specific topics
 * Summarise, clarify next steps, and check out
 
 ### Post-Away Day
 
 * Followup workshops to go deeper on topics that arose out of the away day, which are usually more detailed and elucidate a strategy or work plan for a specific area
 * Coordinators synthesise the outcomes of the away day and reflect them back to the team
-* We discuss and work toward agreeing the quarterly goals on officially on Loomio
+* Discuss and work toward agreeing the quarterly goals on officially on Loomio
 * The team gets to work delivering our targets for the quarter
