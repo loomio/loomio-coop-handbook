@@ -12,6 +12,7 @@ Loomio is part of the Enspiral network - check out the [Enspiral handbook](http:
 * [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 * [Valve Company Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
+* [Crisp DNA](http://dna.crisp.se/docs/index.html)
 * [Enspiral Labs Handbook](https://enspiral.gitbooks.io/enspiral-labs-handbook/content/)
 
 ## Articles
