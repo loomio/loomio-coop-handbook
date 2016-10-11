@@ -7,11 +7,13 @@ While people do take on individual projects at Loomio, we generally find that "n
 Some working groups form to do a specific job, and then disband. An example of this was the "Loomio Community Working Group", which came together to develop good practice and guidelines for [how Loomio uses Loomio](using_loomio.html), reorganise our internal group structure, and improve how we engage with our wider community in public groups hosted by the Co-op. Once the new systems were in place, the group ceased to exist and its members moved on. 
 
 Other times, working groups merge, split, or reorganise. For example, at one point the Capital and Strategy working groups merged, as did the Sales and Marketing groups. We generally review working groups as part of [quarterly planning](planning.html), or whenever the need for a change arises.
-![](workinggroupsQ2-2016.png)
-*Q2 2016 Working groups*
-![](FX1YfEo.png)
-*Q3 2016 Working Groups*
 
+*Q4 2016 Working groups*
+![](Q4wg.png)
+*Q3 2016 Working Groups*
+![](FX1YfEo.png)
+*Q2 2016 Working groups*
+![](workinggroupsQ2-2016.png)
 
 Working groups are useful for several reasons:
 
