@@ -6,10 +6,11 @@ Currently we have a tension in the team around the reporting of bugs, and a gap 
 So… Oh no! You found a bug! How do you get it fixed? The answer is, get it through the following 4-step process:
 
 The Four Stages of Bugfixing:
+
 1. Needs Confirmation (IE, this is a problem in production)
 2. Needs Reproduction (IE, this is a problem in a local dev environment)
 3. Needs Prioritization (IE, this is an important thing to be working on right now)
-4. Fixed! ![](http://pix.iemoji.com/images/emoji/apple/ios-9/33/0329.png)
+4. Fixed! 🎉
 
 As a bug reporter, we’re relying on you to provide us enough information to get to step 3, at which point someone on the dev team knows why the bug is happening, how many users it affects, and (roughly) how to fix it. To get there, we need to
 
@@ -65,7 +66,7 @@ You’re going to be quizzed on this part, so come prepared with as much informa
 
 There are many tags on the loomio repo to classify the type of issue you’re reporting. At a minimum, you should provide a severity level, and whether you think this is a bug or a feature request.
 
-![Imgur](http://i.imgur.com/voeIYwO.png)
+![Table showing different severity levels](https://i.imgur.com/S36ftXX.png)
 
 **Core workflows** are actions that every user will use on a daily basis, or functionality which is at the core of the Loomio value proposition. Examples would be starting a thread, inviting people to a group, or signing in to the app.
 
@@ -77,11 +78,13 @@ There are many tags on the loomio repo to classify the type of issue you’re re
 The classificaions in the above table should be treated as guidelines; there are many reasons a bug may be more or less severe, so don’t be offended if your bug is reclassified during its lifetime. Some examples may include:
 
 **More severe:**
+
 - It’s affecting a team member’s sprint work
 - It’s been reported as annoying by paying or high-leverage customer(s)
 - It’s blocking existing feature development
 
 **Less severe:**
+
 - It only affects certain browsers, or occurs very rarely
 - The functionality will be removed in a later iteration
 - Fixing the bug is likely to introduce significant complexity into the system
