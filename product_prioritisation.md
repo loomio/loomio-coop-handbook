@@ -21,18 +21,22 @@ The solutions working group is where problems go to become solutions. Often it's
 The team challenges itself to explain the evidence or experience of the problem clearly, without making too many assumptions before the design process can take place. After solutions have been designed, we consider them for development priority. While delivering a great new design is exciting, we try not to jump straight into building them without thinking about what other important things we might want to work on, too.
 
 
-### Product Owner
+### Product Facilitator
 
-The Loomio product owner is a role that occasionally rotates among team members. We generally select someone who has a particular skill or passion for how we have prioritised the product development focus.
+The Loomio product facilitator is a role that occasionally rotates among team members. We generally select someone who has a particular skill or passion for how we have prioritised the product development focus.
 
-The product owner's focus is keeping our product backlog in good shape, meaning it:
+The product facilitator keeps the product team humming by ensuring that the key product processes are happening:
 
-* is aligned with our agreed strategy expressed in annual & quarterly plans
-* is appropriately informed by input from different areas of the business
-* is full of well defined, designed & sized stories, that included our best guess about their hoped-for return on investment
-* has an appropriate amount of space for experimentation and responsiveness
+* grooming
+* sprint planning
+* QA
+* regular product team meetings
 
-One key role of the product owner is to help everyone get their user stories well defined so we can do effective sprint planning. Another is making definitive calls if uncertainty about which way to go with a product decision is holding up the team. Of course, we always attempt to build consensus if people have different ideas, and the product owner facilitates this.
+The product facilitator keeps product development aligned to our agreed business priorities, by
+
+* being the main point of contact between the groomers and the product team
+* making sure the product backlog is full of justified, designed and scoped stories that align with with our quarterly & annual plans
+* where needed, 'making the call' about product decisions that are holding up the team
 
 ### Writing Good Stories
 
