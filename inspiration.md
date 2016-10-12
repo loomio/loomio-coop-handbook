@@ -15,6 +15,10 @@ Loomio is part of the Enspiral network - check out the [Enspiral handbook](http:
 * [Crisp DNA](http://dna.crisp.se/docs/index.html)
 * [Enspiral Labs Handbook](https://enspiral.gitbooks.io/enspiral-labs-handbook/content/)
 
+## Organising Patterns
+
+* [Sociocracy 3.0 of Patterns for Collaboration in Agile Organizations](http://sociocracy30.org/the-details/patterns/)
+
 ## Articles
 
 * [First, Fire All The Managers](https://hbr.org/2011/12/first-lets-fire-all-the-managers) - HBR article by [Gary Hamel](https://twitter.com/profhamel) about Morning Star Company
