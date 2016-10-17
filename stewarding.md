@@ -1,6 +1,6 @@
 # Stewarding at Loomio
 
-<img src='img/stewards2016.png' class='img-right img-250px'>
+![](Stewarding relationships.png)
 
 We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](coordination.html) or other processes. Stewarding is Loomio's approach to peer support.
 
