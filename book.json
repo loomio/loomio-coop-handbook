@@ -6,7 +6,8 @@
         "collapsible-menu",
         "video",
         "ga",
-        "youtube"
+        "youtube",
+        "anchors"
     ],
     "pluginsConfig": {
         "ga": {

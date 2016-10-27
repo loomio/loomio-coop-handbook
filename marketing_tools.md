@@ -8,7 +8,9 @@ Image files are named descriptively, including the width in pixels, like loomio-
 
 ## Link tracking
 
-To start with at least, we're going to be very granular with our link tracking. [This article](https://github.com/simontegg/marketing/wiki/Marketing-Analytics) is a good introduction to UTM link tracking. [This is the spreadsheet](https://docs.google.com/spreadsheets/d/1zP3jNePhTSzmDoTK2yHoQwdHxD5jyXN311IQli2JtPs/edit#gid=0) for building our UTM links.
+To start with at least, we're going to be very granular with our link tracking. [This article](https://github.com/simontegg/marketing/wiki/Marketing-Analytics) is a good introduction to UTM link tracking. [This is the spreadsheet](https://docs.google.com/spreadsheets/d/1zP3jNePhTSzmDoTK2yHoQwdHxD5jyXN311IQli2JtPs/edit#gid=0) for building our UTM links:
+
+![](https://i.imgur.com/v2Z46yx.png)
 
 The first page is the **content distribution link** generator. So when we have a new blog post, we'll use a unique link to share it on Facebook, and another one on Twitter.
 
