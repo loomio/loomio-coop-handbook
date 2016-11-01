@@ -33,7 +33,7 @@ This sometimes means making hard choices. In the worst-case scenario, this might
 
 Co-op members set the strategic direction and are expected to keep sufficiently up to date to participate in a meaningful way. It’s important that we’ve all got the context for well-informed decision-making. 
 
-The [Loomio Cooperative Constitution](constitution.html) is the legally-binding document that precisely defines the rights and responsibilities of membership. The constitution can only be changed by a special resolution of members (90% agreement).
+The [Loomio Cooperative Constitution](constitution.md) is the legally-binding document that precisely defines the rights and responsibilities of membership. The constitution can only be changed by a special resolution of members (90% agreement).
 
 Cooperative members have all the responsibilities of owners and shareholders, as well as being the core working staff.
 
