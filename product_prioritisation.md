@@ -11,9 +11,10 @@ The Groomers hear from various input sources, and try to maximise quality and di
 
 Throughout the sprint, if anyone on the team has an idea or is offered one from a user or anyone, they create a card on the "inbox" list on the sprint board. The Groomers process these cards in their meetings.
 
-The Groomers follow this decision-making flow, to prioritise cards according to our [quarterly plan](planning.html).
+The Groomers follow a decision-making flow, to prioritise cards according to our [quarterly plan](planning.html).
 
-![](groomersflow.png)
+![](groomers_Q42016.jpg)
+
 ### Solutions Working Group
 
 The solutions working group is where problems go to become solutions. Often it's temping to identify an issue and jump straight to the first solution, but often it turns out that the problem is actually only one part of a larger issue, or is better solved with lateral thinking. Putting ideas through to be developed before they've been properly designed is a recipe for a bad user experience and frustrated coders. 
