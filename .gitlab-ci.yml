@@ -1,0 +1,59 @@
+# define stages
+stages:
+  - build
+  - upload
+  - deploy
+
+# gitbook docker image for html & pdf
+image: billryan/gitbook
+pdf:
+  stage: build
+  tags: 
+    - handbook-docker
+  script:
+    - gitbook install
+    - gitbook pdf . ./handbook.pdf
+  artifacts:
+    name:
+      handbook
+    paths:
+      - handbook.pdf 
+
+html:
+  stage: build
+  tags: 
+    - handbook-docker
+  script:
+    - gitbook install 
+    - gitbook build
+  artifacts:
+    name:
+      html
+    paths:
+      - _book
+
+# create docker nginx image
+upload-image:
+  stage: upload
+  image: docker:latest
+  tags:
+    - handbook-docker-priv
+  services:
+    - docker:dind
+  script:
+    - echo $CI_BUILD_REF_NAME
+    - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN docker.ii.org.nz
+    - docker build -t docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME .
+    - docker push docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME
+    
+# run nginx container
+publish-to-web:
+  stage: deploy
+  tags:
+    - handbook-shell
+  script:
+    - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN docker.ii.org.nz
+    - docker pull docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME
+    - docker rm -f $CI_BUILD_REF_NAME.$CI_PROJECT_NAME.$CI_PROJECT_NAMESPACE || /bin/true
+    - docker run --name $CI_BUILD_REF_NAME.$CI_PROJECT_NAME.$CI_PROJECT_NAMESPACE --env "VIRTUAL_HOST=$CI_BUILD_REF_NAME.$CI_PROJECT_NAMESPACE.$CI_PROJECT_NAME.ii.org.nz" --network nginx-proxy -d docker.ii.org.nz/$CI_PROJECT_NAMESPACE/$CI_PROJECT_NAME:$CI_BUILD_REF_NAME
+    - echo Website available at http\://$CI_BUILD_REF_NAME.$CI_PROJECT_NAMESPACE.$CI_PROJECT_NAME.ii.org.nz
