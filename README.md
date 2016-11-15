@@ -8,6 +8,7 @@ The software we build is [open source](http://github.com/loomio/loomio), and our
 We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.org?utm_campaign=handbook&utm_source=handbook).
 
 ---
+
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/EXkQN9aL0R0" frameborder="0" allowfullscreen></iframe>
 </div>
