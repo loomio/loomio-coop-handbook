@@ -57,7 +57,7 @@ We also integrate our Loomio with Slack, so when new Loomio discussions are star
 
 ## Putting it all together
 
-![Loomio comms chart](http://i.imgur.com/tt80uLD.png)
+![Loomio comms chart](https://i.imgur.com/tt80uLD.png)
 
 Here’s a common pattern you’ll see people use when they’re taking on a piece of work:
 
