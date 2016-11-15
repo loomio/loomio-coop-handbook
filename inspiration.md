@@ -1,4 +1,4 @@
-# Resources that have inspired us
+# Inspiration & Resources
 
 ## Books
 
@@ -7,13 +7,16 @@
 
 ## Other company handbooks
 
-Loomio is part of the Enspiral network - check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness. Other handbooks:
+Loomio is part of the Enspiral network. Check out the [Enspiral handbook](http://handbook.enspiral.com) for more open source organisational goodness. 
+
+Other handbooks:
 
 * [Thoughtbot Playbook](https://thoughtbot.com/playbook)
 * [Valve Company Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [Gitlab Company Handbook](https://about.gitlab.com/handbook/)
 * [Crisp DNA](http://dna.crisp.se/docs/index.html)
 * [Enspiral Labs Handbook](https://enspiral.gitbooks.io/enspiral-labs-handbook/content/)
+* [Co-operative Assistance Network Policy Framework](http://www.can.coop/index.php/about-us/policies)
 
 ## Organising Patterns
 
