@@ -4,6 +4,8 @@
 
 * [Companies We Keep](https://www.chelseagreen.com/companies-we-keep) by John Abrams about his experience handing his building company over to worker control
 * [Reinventing Organisations](http://www.reinventingorganizations.com) by Frederic Laloux documenting the new wave of horizontal organisations
+* Starting a Coop, One Step at a Time, *available [for download at Huia.coop](http://huia.coop/)*
+
 
 ## Other company handbooks
 
