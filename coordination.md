@@ -64,7 +64,9 @@ Exit
 
 ### Coordinator Responsibilities
 
-Please note that ‘responsibility’ means the coordinator is expected to make sure it gets done, not that they will do the work directly. Most of this work is delegated to other people or processes.
+Please note that "responsibility" means the coordinator is expected to make sure it gets done, not that they will do the work directly. Much of this work is delegated to other people or processes.
+
+* Report against the annual plan to Board & Members
 
 * Staffing decisions and hiring
 
@@ -80,11 +82,13 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Contract changes
 
-    * Visa applications
+    * Visa applications and coordination
 
     * Act as stewards for short term contractors
 
-* Connection to Board
+    * Manage leave
+
+* Board & Governance
 
     * Liability - board is responsible for certain things that the coordinators execute, so there needs to be a good link between them. One coordinator is named as having a special focus on the relationship with the Board.
 
@@ -96,13 +100,17 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Coordinators attend board meeting to the extent necessary
 
-* Set up conditions to enable operational delivery
+    * Maintain companies office responsibilities, such as share register, director changes, and annual report
 
-    * Can delegate to a process (such as agile sprints), structure (like working groups) or person, or simply support self-management emerging from the team if it’s working well
+    *  Manage company secretary
+
+* Create conditions to enable operational delivery
+
+    * Can delegate to a process (such as agile sprints), structure (like working groups) or person, or simply support self-management emerging from the team (if it’s working well). Coordinators make sure the system we're using is working.
 
     * Support operational delivery process development and quality improvements
 
-    * Raise flags to the membership, board, teams, or individuals / stewards if there are problems with operational accountability
+    * Raise flags to the membership, board, teams, or individuals / stewards if there are problems with operational accountability or delivery
 
 * Coordinate annual/quarterly strategic planning process
 
@@ -110,7 +118,13 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Synthesise, facilitate, report back, support decision-making 
 
-* Track membership
+    * Have one on one conversations as needed, to hear solutions and concerns
+
+    * Coordinate logistics and planning of retreats and away days
+
+    * Phsyical office management (lease, supplies, access, safety, mail)
+
+* Membership
 
     * Facilitate recommending new members when they reach that point in the pathway process
 
@@ -120,15 +134,11 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Flag any eligibility concerns to the board (member in situation where they can’t meet shareholder duties)
 
-    * Maintain accurate shareholding of Membership
+    * Maintain accurate and up to date shareholding
 
-* Report against the annual plan to Board and Members
+* Oversee budgeting, finances, and assets
 
-    * Coordinators reports currently go out monthly (but the frequency is not specifically defined here) - reporting on an as-needed basis
-
-* Oversee budgeting and finances
-
-    * Coordination and continuous financial operations
+    * Coordination of continuous financial operations
 
     * Ensure accuracy of record keeping
 
@@ -138,11 +148,34 @@ Please note that ‘responsibility’ means the coordinator is expected to make 
 
     * Banking oversight
 
-    * Manage company secretary
+    * Currency management for international accounts
 
     * Approve payments
 
     * Shareholding and investment paperwork
+
+    * Manage expense claims
+
+    * Invoicing for Services contracts and special client arrangements
+
+    * Manage bookkeeper
+
+    * Track Loomio points
+
+    * Manage financial tools and systems
+
+    * Payroll management
+
+    * Managing Loomio's assets, including IP and physical
+
+* Other
+
+    * Facilitate policy development and implementation
+
+    * Catch the things planning doesn't account for or that fall between working groups
+
+    * Making sure operational "must-do"s are actioned
+ 
 
 
 
