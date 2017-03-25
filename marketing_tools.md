@@ -32,7 +32,7 @@ If you skip 15 minutes [into this podcast](https://soundcloud.com/nextview/22-la
 4. **Social proof** (testimonials w/ very specific quotes)
 5. **Call to action** (CTA)
 
-CTAs link to "[https://www.loomio.org/start_group](https://www.loomio.org/start_group)" with the “[Pass through URL paramters](http://documentation.unbounce.com/hc/en-us/articles/203805714?_ga=1.147783351.1616129681.1468286578#content5)” option selected. This means we can put UTM's on our Facebook ad like `get.loomio.org/governance?utm_campaign=governance&utm_source=facebook`, and then the button on the landing page will link to `https://www.loomio.org/start_group?utm_campaign=governance&utm_source=facebook`
+CTAs link to "[https://www.loomio.org/start_group](https://www.loomio.org/start_group)" with the “[Pass through URL parameters](http://documentation.unbounce.com/hc/en-us/articles/203805714?_ga=1.147783351.1616129681.1468286578#content5)” option selected. This means we can put UTM's on our Facebook ad like `get.loomio.org/governance?utm_campaign=governance&utm_source=facebook`, and then the button on the landing page will link to `https://www.loomio.org/start_group?utm_campaign=governance&utm_source=facebook`
 
 ## Screenshots
 

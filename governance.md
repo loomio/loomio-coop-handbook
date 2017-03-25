@@ -18,7 +18,7 @@ We mandate the board in the areas of long-term strategy, legal and regulatory co
 
 The Loomio board meets monthly, and collaborates together on Loomio between meetings.
 
-Some responsibilites of our board:
+Some responsibilities of our board:
 
 * bringing business and other subject-area expertise to critiquing and providing accountability on the member-created strategy
 * ensuring good governance by making sure we've got the right people & processes to deliver our strategy 

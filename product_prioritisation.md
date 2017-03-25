@@ -36,7 +36,7 @@ The product facilitator keeps the product team humming by ensuring that the key 
 The product facilitator keeps product development aligned to our agreed business priorities, by
 
 * being the main point of contact between the groomers and the product team
-* making sure the product backlog is full of justified, designed and scoped stories that align with with our quarterly & annual plans
+* making sure the product backlog is full of justified, designed and scoped stories that align with our quarterly & annual plans
 * where needed, 'making the call' about product decisions that are holding up the team
 
 ### Writing Good Stories
