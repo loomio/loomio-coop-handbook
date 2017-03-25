@@ -83,7 +83,7 @@ The members decide to extend and invitation to membership to the worker.
 
 **3: Board confirms eligibility**
 
-The Loomio Board of Directors is responsible for making sure that the shareholding of Loomio is held by eligable worker-members who meet the criteria set out in our constitution. The Board confirms this for specific individuals at the recommendation of the members.
+The Loomio Board of Directors is responsible for making sure that the shareholding of Loomio is held by eligible worker-members who meet the criteria set out in our constitution. The Board confirms this for specific individuals at the recommendation of the members.
 
 **4: The worker accepts the invitation**
 

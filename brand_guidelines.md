@@ -6,7 +6,7 @@ Key Questions:
 *What type of language does the Loomio brand use?*
 *How should I write when I’m writing for Loomio?*
 
-## Writing as as Loomio
+## Writing as Loomio
 
 **Hype vs Grounded**
 It’s simple, effective technology built by good humans for good humans. We hype the stories of users and champions who use the tool to do amazing things. 

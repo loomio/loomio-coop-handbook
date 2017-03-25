@@ -122,7 +122,7 @@ Please note that "responsibility" means the coordinator is expected to make sure
 
     * Coordinate logistics and planning of retreats and away days
 
-    * Phsyical office management (lease, supplies, access, safety, mail)
+    * Physical office management (lease, supplies, access, safety, mail)
 
 * Membership
 
