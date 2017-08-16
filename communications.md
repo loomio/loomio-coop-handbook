@@ -39,7 +39,7 @@ The persistent space for video chats is appear.in/loomio - that's where you'll f
 
 ## Trello as our shared todo list
 
-We use a bunch of different Trello boards to coordinate our work. The one everyone needs to know about is the [Loomio Sprint Board](https://trello.com/b/skuMQvLJ/loomio-sprint-board) - find out all about [how we do sprints here](sprints.html). Many working groups and individuals also have their own Trello boards.
+We use a bunch of different Trello boards to coordinate our work. The one everyone needs to know about is the Loomio Sprint Board - find out all about [how we do sprints here](sprints.html). Many working groups and individuals also have their own Trello boards.
 
 ## Slack for instant messaging
 
