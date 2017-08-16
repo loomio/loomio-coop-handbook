@@ -41,7 +41,7 @@ The product facilitator keeps product development aligned to our agreed business
 
 ### Writing Good Stories
 
-Anyone from the team can add a story to the Inbox (the first list on the [Loomio Sprint Board](https://trello.com/b/skuMQvLJ/loomio-sprint-board)).
+Anyone from the team can add a story to the Inbox (the first list on the Loomio Sprint Board).
 
 A story is either a description of a problem, or a statement of value. At the very least a story should have a name, and 3 lines: “As a... I want to... So that I can...”.
 
