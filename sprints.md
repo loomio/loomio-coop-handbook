@@ -8,6 +8,8 @@ We break up the year into two-week chunks. Each chunk is called a sprint, though
 
 ### The Sprint Board
 
+(Due to resource constraints, Loomio sprint boards are no longer public.)
+
 Probably the best way to understand it is to look at our sprint board on Trello:
 
 [![Loomio's Sprint Board on Trello](img/loomio-sprint-trello-board.png)](http://loomio.coop/img/loomio-sprint-trello-board.png)
