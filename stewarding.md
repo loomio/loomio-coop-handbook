@@ -45,4 +45,4 @@ Your steward might ask you questions like:
 
 ---
 
-**Update August 2016** - this stewarding system has been extended out of Loomio [into the wider Enspiral network](http://handbook.enspiral.com/stewardship_agreement.html). Cool eh! 🐝
+**Update August 2016** - this stewarding system has been extended out of Loomio [into the wider Enspiral network](https://handbook.enspiral.com/agreements/stewardship.html). Cool eh! 🐝
