@@ -6,4 +6,4 @@ We have a [fierce commitment to our values](purpose_and_vision.html), which is r
 
 For more on that topic, check this beautiful article from Nathan Schneider: [How a Worker-Owned Tech Startup Found Investors—and Kept Its Values](http://yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426).
 
-![The Loomio Cooperative Certificate of Registration](img/loomio-coop-certificate.png)
+![The Loomio Cooperative Certificate of Registration](/img/loomio-coop-certificate.png)

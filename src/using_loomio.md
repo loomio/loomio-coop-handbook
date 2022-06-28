@@ -1,6 +1,6 @@
 # Loomio Using Loomio
 
-###How We Loomio
+### How We Loomio
 
 Every group and subgroup Loomio operates needs to:
 
@@ -18,7 +18,7 @@ Facilitation guidelines for internal groups:
 * Encourage people to post on Loomio more, to include people who aren't in the room, on chat at that moment, etc
 * Make sure the right people are in the group (such as when a new staff member joins, etc)
 
-###Information Flows
+### Information Flows
 Many [working groups](working_groups.html) have their own Loomio subgroup, as well as other communication channels and regular meetings, which they use to discuss topics and make decisions relevant to their work. 
 
 There is also a need to communicate between groups, or from a subgroup to the whole team. Many working groups maintain [update] threads in the general team Loomio group, where they put regular updates about progress within their working group, links to their notes, and news. This also serves as an explicit place where anyone on the team can reach out to that working group and ask a question.

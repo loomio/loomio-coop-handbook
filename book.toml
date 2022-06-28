@@ -1,0 +1,6 @@
+[book]
+authors = ["Robert Guthrie"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Loomio Cooperative Handbook"

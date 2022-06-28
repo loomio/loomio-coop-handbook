@@ -10,6 +10,4 @@ You can see a detailed timeline of our history between 2011 and 2015 here: http:
 
 If you prefer video, here's [a beautiful story from Ben Knight (33min)](https://www.youtube.com/watch?v=AJnjTd9u4zg), one of our cofounders. Or check [this 3-minute version from Rich](https://vimeo.com/169658755).
 
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/AJnjTd9u4zg" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="100%" height="380px" src="https://www.youtube.com/embed/AJnjTd9u4zg" frameborder="0" allowfullscreen></iframe>

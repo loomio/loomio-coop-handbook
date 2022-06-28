@@ -38,7 +38,7 @@ CTAs link to "[https://www.loomio.org/start_group](https://www.loomio.org/start_
 
 Our landing pages feature screenshots of the app in use. To convey the meaning more succinctly, we remove extra UI elements, like the navbar and options menus. Like this:
 
-![](img/screenshots_before_and_after.png)
+![](/img/screenshots_before_and_after.png)
 
 *Screenshots before and after removing extra UI*
 

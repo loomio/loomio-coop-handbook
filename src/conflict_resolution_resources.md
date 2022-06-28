@@ -1,7 +1,7 @@
 # Conflict Resolution Resources
 These resources and guidelines may help prevent, process, or resolve conflict, and can support harmonious interaction.
 
-###Communication Methods to Promote Shared Understanding
+### Communication Methods to Promote Shared Understanding
 
 **Use “I Messages”**
  

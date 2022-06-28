@@ -2,7 +2,7 @@
 
 At Loomio we want to do conflict well. We want tensions between team members to be generative, healthy and productive. We want a culture of robust debate, honesty, and care - all in service of our mission.
 
-###Principles
+### Principles
 * Resolve conflicts as close as possible to the people involved. Begin with the people directly involved, and escalate from there as needed.
 * We have mutual responsibility and care for each other. We act in good faith and work to be constructive, empathetic, and honest. We resolve conflicts with both our individual needs and the needs of the cooperative in mind.
 * When disagreement becomes conflicted and is blocking progress, is hurtful or harmful, a resolution needs to be found. We engage to the best of our ability to resolve conflict, and seek help when needed.
@@ -11,7 +11,7 @@ At Loomio we want to do conflict well. We want tensions between team members to 
 * Loomio employer–employee relationships are covered by the [minimum employment rights](http://employment.govt.nz/er/minimumrights/index.asp) guaranteed by New Zealand law. This includes the requirement that employers and employees deal with each other in [‘good faith’](http://employment.govt.nz/er/solvingproblems/keyprinciples/goodfaith.asp).
 
 ![](escalation_pyramid.png)
-###Organisational Resources
+### Organisational Resources
 *how we equip ourselves to approach a breakdown in communication productively*
 
 Resources are for everyone to access and use to take responsibility for our own behaviour and also to support others with theirs.
@@ -25,7 +25,7 @@ Resources are for everyone to access and use to take responsibility for our own 
 * Retreats and team building opportunities
 * Expert mediators or advisors
 
-###Practice 
+### Practice 
 *how we encourage effective communication within our organisation*
 
 * An introduction to our communication systems, culture and conflict resolution process are part of our staff onboarding.
@@ -33,7 +33,7 @@ Resources are for everyone to access and use to take responsibility for our own 
 * Prompts in stewardship sessions to work through any conflicts or problems between individuals, or between an individual and the cooperative as a whole.
 * Continuous focus on smooth, effective, empathetic communication online and offline within the team. A culture of giving direct constructive feedback, listening to one another, and asking for help when needed.
 
-###Conflict Resolution Process
+### Conflict Resolution Process
 We endeavour to resolve conflicts at the lowest possible escalation step, but agree to escalate conflicts if they are not resolved.
 
 1. Personal reflection & individual support
@@ -50,7 +50,7 @@ If the previous steps have not resolved the conflict, reach out to the Well Work
 
 If the above steps are not successful in resolving the conflict, the situation will be escalated beyond the conflict resolution process and become an employment matter. At this stage, the coordinators will be engaged to gather all the information about the situation and figure out next steps. Irresolvable conflicts may lead to someone leaving the organisation, referral to external authorities if relevant, or systemic/structural changes to our organisation.
 
-###Engaging the Conflict Resolution Process
+### Engaging the Conflict Resolution Process
 * The board may ask people to engage in a conflict resolution process (see clause 11.4.3 of the [Constitution](constitution.html)).
 * If there is tension between you and another worker, you can engage the Conflict Resolution Process, starting with the first stage: Personal reflection & individual support.
 * If you notice conflict between other workers that doesn’t seem to be on the path to resolution, you should feel empowered to draw their attention to it, and suggest they engage the Conflict Resolution Process if necessary. Alternatively, you could let their steward or the Well Working Group know.

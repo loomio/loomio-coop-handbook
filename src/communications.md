@@ -9,7 +9,7 @@ We’re continuously improving our systems to strike the right balance and serve
 ## Loomio is our main communication tool
 Of couse, we use Loomio extensively internally at Loomio. In fact, we have a whole section about just that, so [check it out](using_loomio.html).
 
-##Google Apps
+## Google Apps
 We use the Google Apps Suite. Your Loomio email is actually a gmail account, and it gives you access to all the other tools, like Drive, Docs, Calendar, etc.
 
 ### Drive for collaborative documents
@@ -26,7 +26,7 @@ We love Drive a lot, but there are a few idiosyncrasies that can make it pretty 
 
 4. Make sure the document permissions are set up the way you intend. If it’s in the shared folder, you’ll know everyone has access. Please make sure the doc has been shared with all the people you want to contribute, or is set to "anyone with the link". Receiving a request to collaborate on a document and then not being able to get in due to permissions is frustrating and slows the process down. If you're not able to access a document, make sure you're logged in with your Loomio email address.
 
-###Calendar for scheduling
+### Calendar for scheduling
 
 We ask that all staff use Google Calendar so we can easily schedule meetings and know when people are available. You can add other people's calendars to your own calendar view, and turn visibility on and off as needed.
 

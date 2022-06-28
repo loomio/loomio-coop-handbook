@@ -800,7 +800,7 @@ The Company may, with the prior approval of the board, effect insurance for a di
 
 **24.5** The board must ensure that particulars of any indemnity given to, or insurance effected for, any director or employee of the Company or a related company, are entered into the interests register.
 
-##PART 6 – OTHER PROVISIONS
+## PART 6 – OTHER PROVISIONS
 ### 25 AMENDMENT OF CONSTITUTION
 The shareholders of the Company may, by special resolution, alter or revoke this constitution.
 
