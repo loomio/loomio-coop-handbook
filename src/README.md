@@ -1,11 +1,17 @@
 ## The Loomio Co-op Handbook
 
+### An update for 2022
+This handbook was written circa 2016. We preseve it here because it's a useful history of the organization at the time. In 2022, 10 years since Loomio launched, the team is smaller, but also more experienced. We're currently just 4 people in operational roles and 4 in advisory roles. We're still a worker-owned cooperative, and we're just as passionate about our work today as we were when the book was written, however we don't need so much process to operate. We're proud of this handbook as it is, and hope you find something useful within.
+
+You might like to catch up with the current activities of the authors: [Alanna Irving](https://www.alanna.space) and [Richard Bartlett](http://richdecibels.com/).
+
+---
 
 <img src='loomio-phone.png' class='img-right img-250px'>
 
 The software we build is [open source](http://github.com/loomio/loomio), and our organisation is open source too. This handbook is where we document how we run an efficient organisation without a hierarchy.
 
-We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.org?utm_campaign=handbook&utm_source=handbook).
+We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.com?utm_campaign=handbook&utm_source=handbook).
 
 ---
 
@@ -34,7 +40,7 @@ If you find this handbook helpful in your work, please [let us know](https://loo
 
 The handbook was [discussed on Hacker News](https://news.ycombinator.com/item?id=12348909). The comment thread is a good source of further FAQ style information.
 
-You can find the code [on Github](https://github.com/loomio/loomio-coop-handbook), and download the handbook in different formats [from Gitbook](https://www.gitbook.com/book/loomio/loomio-cooperative-handbook/details).
+You can find the code [on Github](https://github.com/loomio/loomio-coop-handbook).
 
 <img src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-right" alt="Creative Commons License" />
 
