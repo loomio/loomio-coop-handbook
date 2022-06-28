@@ -1,0 +1,253 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Planning - Loomio Cooperative Handbook</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="loomio.coop" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+
+
+                <a style="display: flex; align-items: center; text-decoration: none; color: #DCA034" href="/">
+                  <i class="fa fa-chevron-left" style="margin-right: 8px; " ></i>
+                  Loomio Help
+                  <!-- <img style="width: 50%; margin: 8px 0 " src="https://www.loomio.org/brand/logo_gold.svg"> -->
+                </a>
+                <hr style="border: 0.5px solid #ccc; margin: 1em 0;">
+                <!-- <strong>Loomio Cooperative Handbook</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="our_cooperative.html"><strong aria-hidden="true">2.</strong> Our Cooperative</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="history.html"><strong aria-hidden="true">2.1.</strong> History</a></li><li class="chapter-item expanded "><a href="purpose_and_vision.html"><strong aria-hidden="true">2.2.</strong> Purpose &amp; Vision</a></li><li class="chapter-item expanded "><a href="cooperative_principles.html"><strong aria-hidden="true">2.3.</strong> Cooperative Principles</a></li><li class="chapter-item expanded "><a href="constitution.html"><strong aria-hidden="true">2.4.</strong> Constitution</a></li><li class="chapter-item expanded "><a href="governance.html"><strong aria-hidden="true">2.5.</strong> Governance</a></li></ol></li><li class="chapter-item expanded "><a href="working_together.html"><strong aria-hidden="true">3.</strong> Working together</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="strategy.html"><strong aria-hidden="true">3.1.</strong> Strategy</a></li><li class="chapter-item expanded "><a href="planning.html" class="active"><strong aria-hidden="true">3.2.</strong> Planning</a></li><li class="chapter-item expanded "><a href="sprints.html"><strong aria-hidden="true">3.3.</strong> Sprints</a></li><li class="chapter-item expanded "><a href="coordination.html"><strong aria-hidden="true">3.4.</strong> Coordination</a></li><li class="chapter-item expanded "><a href="working_groups.html"><strong aria-hidden="true">3.5.</strong> Working Groups</a></li><li class="chapter-item expanded "><a href="product_prioritisation.html"><strong aria-hidden="true">3.6.</strong> Product Prioritisation</a></li><li class="chapter-item expanded "><a href="using_loomio.html"><strong aria-hidden="true">3.7.</strong> Loomio Using Loomio</a></li><li class="chapter-item expanded "><a href="communications.html"><strong aria-hidden="true">3.8.</strong> Communications tools</a></li><li class="chapter-item expanded "><a href="marketing_tools.html"><strong aria-hidden="true">3.9.</strong> Marketing tools</a></li><li class="chapter-item expanded "><a href="dev_tools.html"><strong aria-hidden="true">3.10.</strong> Dev tools</a></li></ol></li><li class="chapter-item expanded "><a href="looking_after_people.html"><strong aria-hidden="true">4.</strong> Looking after people</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="stewarding.html"><strong aria-hidden="true">4.1.</strong> Stewarding</a></li><li class="chapter-item expanded "><a href="well_working_group.html"><strong aria-hidden="true">4.2.</strong> Well Working Group</a></li><li class="chapter-item expanded "><a href="professional_development.html"><strong aria-hidden="true">4.3.</strong> Professional Development</a></li><li class="chapter-item expanded "><a href="conflict_resolution.html"><strong aria-hidden="true">4.4.</strong> Conflict Resolution Process</a></li><li class="chapter-item expanded "><a href="conflict_resolution_resources.html"><strong aria-hidden="true">4.5.</strong> Conflict Resolution Resources</a></li><li class="chapter-item expanded "><a href="retreats.html"><strong aria-hidden="true">4.6.</strong> Retreats</a></li><li class="chapter-item expanded "><a href="staff_wellbeing_budget.html"><strong aria-hidden="true">4.7.</strong> Staff Wellbeing Budget</a></li></ol></li><li class="chapter-item expanded "><a href="employment_and_membership.html"><strong aria-hidden="true">5.</strong> Employment &amp; Membership</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="employment.html"><strong aria-hidden="true">5.1.</strong> Employment</a></li><li class="chapter-item expanded "><a href="staff_onboarding.html"><strong aria-hidden="true">5.2.</strong> Staff Onboarding</a></li><li class="chapter-item expanded "><a href="membership.html"><strong aria-hidden="true">5.3.</strong> Membership</a></li><li class="chapter-item expanded "><a href="loomio_points.html"><strong aria-hidden="true">5.4.</strong> Loomio Points</a></li><li class="chapter-item expanded "><a href="health_and_safety.html"><strong aria-hidden="true">5.5.</strong> Health &amp; Safety</a></li><li class="chapter-item expanded "><a href="annual_leave.html"><strong aria-hidden="true">5.6.</strong> Annual Leave</a></li></ol></li><li class="chapter-item expanded "><a href="guides.html"><strong aria-hidden="true">6.</strong> Other Guides</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bug_reporting_guidelines.html"><strong aria-hidden="true">6.1.</strong> Bug Reporting Guidelines</a></li><li class="chapter-item expanded "><a href="community_group.html"><strong aria-hidden="true">6.2.</strong> Loomio Community Group</a></li><li class="chapter-item expanded "><a href="brand_guidelines.html"><strong aria-hidden="true">6.3.</strong> The Loomio Way (Brand Guidelines)</a></li><li class="chapter-item expanded "><a href="collaborative_funding.html"><strong aria-hidden="true">6.4.</strong> Collaborative Funding</a></li><li class="chapter-item expanded "><a href="inspiration.html"><strong aria-hidden="true">6.5.</strong> Inspiration</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio Cooperative Handbook</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="planning"><a class="header" href="#planning">Planning</a></h1>
+<h2 id="annual"><a class="header" href="#annual">Annual</a></h2>
+<p>We do annual planning so everyone is focused on the same thing, and all the different areas of our work add up to a coherent and coordinated whole.</p>
+<p>Our annual planning process starts with a day out of the office. Together we agree what our focus will be for the year.</p>
+<h3 id="2016-plan"><a class="header" href="#2016-plan">2016 Plan</a></h3>
+<p>We’ve always said that the best way we can deliver our social mission is to develop the financial freedom to chart our own course. So we agreed that our focus for 2016 is <strong>proving the business model</strong>.</p>
+<p>We discussed how we can break this work up into streams, based on the groups of people we serve:</p>
+<ul>
+<li>we want to earn the confidence of values-aligned <strong>investors</strong> who will support our growth</li>
+<li>we want to reach out into the <strong>world</strong> to tell people about how we can help them organise inclusively and effectively</li>
+<li>we want to support our <strong>customers</strong> to use Loomio to make a positive impact in their workplaces and communities</li>
+<li>and we want to nurture our <strong>team</strong> of amazing humans to feel awesome in their work</li>
+</ul>
+<h2 id="quarterly"><a class="header" href="#quarterly">Quarterly</a></h2>
+<p>Every quarter, we have an away day (preceded and followed by various preparation and workshops), where we take stock of where we are relative to our overall vision, annual plan, and emerging reality, and decide what to focus on for the coming 3 months. This allows us to update our understanding of our annual plan as we learn more, and the world changes, and adjust course accordingly.</p>
+<p>Quarterly plans take a range of forms, depending on the circumstances and needs of the team. Usually we end up with a more in-depth document, accompanied by an easily accessible summary.</p>
+<p>The goal is to provide a guiding focus for all our work across the team. Because we give individuals a lot of autonomy and don't micro-manage, we need to agree some themes and shared goals to have collective impact. If we try to do everything, we're likely to be distracted and stretched too thin. But we like to name ambitious goals to motivate ourselves.</p>
+<p><img src="q22016plan.png" alt="" /></p>
+<p><img src="q32016targets.png" alt="" /></p>
+<h2 id="away-days"><a class="header" href="#away-days">Away Days</a></h2>
+<h3 id="pre-away-day"><a class="header" href="#pre-away-day">Pre-Away Day</a></h3>
+<ul>
+<li>working groups convene and discuss what they accomplished that quarter, and what they've learned</li>
+<li>evidence, data, and metrics are gathered</li>
+<li>the coordinators write a quarterly report giving an assessment of how we did achieving our previous quarterly goals and where we're at with the overall plan</li>
+<li>everyone individually reflects on what happened over the quarter and what they think about upcoming priorities (sometimes informally, sometimes we send out a survey)</li>
+</ul>
+<h3 id="away-day-offsite"><a class="header" href="#away-day-offsite">Away Day (Offsite)</a></h3>
+<p>While we leave room for flexibility in the agenda and facilitation, this is a format we've generally found works for us.</p>
+<ul>
+<li>Arrive and have an extended check-in circle, with space for both personal and professional reflections from each person</li>
+<li>Context from the Coordinators, reviewing what happened in the last quarter and reminding us of the quarterly planning process and goals</li>
+<li>Dialogue circle on a relevant theme, to enable some deeper collective thinking</li>
+<li>Gather questions and discussion topics; clarify what we all need to feel resourced to set the upcoming quarterly priorities</li>
+<li>Co-create afternoon sessions, which can take a range of formats: open space, pair walks, whole group discussion, breakout small groups on specific topics</li>
+<li>Summarise, clarify next steps, and check out</li>
+</ul>
+<h3 id="post-away-day"><a class="header" href="#post-away-day">Post-Away Day</a></h3>
+<ul>
+<li>Followup workshops to go deeper on topics that arose out of the away day, which are usually more detailed and elucidate a strategy or work plan for a specific area</li>
+<li>Coordinators synthesise the outcomes of the away day and reflect them back to the team</li>
+<li>Discuss and work toward agreeing the quarterly goals on officially on Loomio</li>
+<li>The team gets to work delivering our targets for the quarter</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="strategy.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="sprints.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="strategy.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="sprints.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>

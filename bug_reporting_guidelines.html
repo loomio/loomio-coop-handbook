@@ -1,0 +1,291 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bug Reporting Guidelines - Loomio Cooperative Handbook</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="loomio.coop" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+
+
+                <a style="display: flex; align-items: center; text-decoration: none; color: #DCA034" href="/">
+                  <i class="fa fa-chevron-left" style="margin-right: 8px; " ></i>
+                  Loomio Help
+                  <!-- <img style="width: 50%; margin: 8px 0 " src="https://www.loomio.org/brand/logo_gold.svg"> -->
+                </a>
+                <hr style="border: 0.5px solid #ccc; margin: 1em 0;">
+                <!-- <strong>Loomio Cooperative Handbook</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="our_cooperative.html"><strong aria-hidden="true">2.</strong> Our Cooperative</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="history.html"><strong aria-hidden="true">2.1.</strong> History</a></li><li class="chapter-item expanded "><a href="purpose_and_vision.html"><strong aria-hidden="true">2.2.</strong> Purpose &amp; Vision</a></li><li class="chapter-item expanded "><a href="cooperative_principles.html"><strong aria-hidden="true">2.3.</strong> Cooperative Principles</a></li><li class="chapter-item expanded "><a href="constitution.html"><strong aria-hidden="true">2.4.</strong> Constitution</a></li><li class="chapter-item expanded "><a href="governance.html"><strong aria-hidden="true">2.5.</strong> Governance</a></li></ol></li><li class="chapter-item expanded "><a href="working_together.html"><strong aria-hidden="true">3.</strong> Working together</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="strategy.html"><strong aria-hidden="true">3.1.</strong> Strategy</a></li><li class="chapter-item expanded "><a href="planning.html"><strong aria-hidden="true">3.2.</strong> Planning</a></li><li class="chapter-item expanded "><a href="sprints.html"><strong aria-hidden="true">3.3.</strong> Sprints</a></li><li class="chapter-item expanded "><a href="coordination.html"><strong aria-hidden="true">3.4.</strong> Coordination</a></li><li class="chapter-item expanded "><a href="working_groups.html"><strong aria-hidden="true">3.5.</strong> Working Groups</a></li><li class="chapter-item expanded "><a href="product_prioritisation.html"><strong aria-hidden="true">3.6.</strong> Product Prioritisation</a></li><li class="chapter-item expanded "><a href="using_loomio.html"><strong aria-hidden="true">3.7.</strong> Loomio Using Loomio</a></li><li class="chapter-item expanded "><a href="communications.html"><strong aria-hidden="true">3.8.</strong> Communications tools</a></li><li class="chapter-item expanded "><a href="marketing_tools.html"><strong aria-hidden="true">3.9.</strong> Marketing tools</a></li><li class="chapter-item expanded "><a href="dev_tools.html"><strong aria-hidden="true">3.10.</strong> Dev tools</a></li></ol></li><li class="chapter-item expanded "><a href="looking_after_people.html"><strong aria-hidden="true">4.</strong> Looking after people</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="stewarding.html"><strong aria-hidden="true">4.1.</strong> Stewarding</a></li><li class="chapter-item expanded "><a href="well_working_group.html"><strong aria-hidden="true">4.2.</strong> Well Working Group</a></li><li class="chapter-item expanded "><a href="professional_development.html"><strong aria-hidden="true">4.3.</strong> Professional Development</a></li><li class="chapter-item expanded "><a href="conflict_resolution.html"><strong aria-hidden="true">4.4.</strong> Conflict Resolution Process</a></li><li class="chapter-item expanded "><a href="conflict_resolution_resources.html"><strong aria-hidden="true">4.5.</strong> Conflict Resolution Resources</a></li><li class="chapter-item expanded "><a href="retreats.html"><strong aria-hidden="true">4.6.</strong> Retreats</a></li><li class="chapter-item expanded "><a href="staff_wellbeing_budget.html"><strong aria-hidden="true">4.7.</strong> Staff Wellbeing Budget</a></li></ol></li><li class="chapter-item expanded "><a href="employment_and_membership.html"><strong aria-hidden="true">5.</strong> Employment &amp; Membership</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="employment.html"><strong aria-hidden="true">5.1.</strong> Employment</a></li><li class="chapter-item expanded "><a href="staff_onboarding.html"><strong aria-hidden="true">5.2.</strong> Staff Onboarding</a></li><li class="chapter-item expanded "><a href="membership.html"><strong aria-hidden="true">5.3.</strong> Membership</a></li><li class="chapter-item expanded "><a href="loomio_points.html"><strong aria-hidden="true">5.4.</strong> Loomio Points</a></li><li class="chapter-item expanded "><a href="health_and_safety.html"><strong aria-hidden="true">5.5.</strong> Health &amp; Safety</a></li><li class="chapter-item expanded "><a href="annual_leave.html"><strong aria-hidden="true">5.6.</strong> Annual Leave</a></li></ol></li><li class="chapter-item expanded "><a href="guides.html"><strong aria-hidden="true">6.</strong> Other Guides</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bug_reporting_guidelines.html" class="active"><strong aria-hidden="true">6.1.</strong> Bug Reporting Guidelines</a></li><li class="chapter-item expanded "><a href="community_group.html"><strong aria-hidden="true">6.2.</strong> Loomio Community Group</a></li><li class="chapter-item expanded "><a href="brand_guidelines.html"><strong aria-hidden="true">6.3.</strong> The Loomio Way (Brand Guidelines)</a></li><li class="chapter-item expanded "><a href="collaborative_funding.html"><strong aria-hidden="true">6.4.</strong> Collaborative Funding</a></li><li class="chapter-item expanded "><a href="inspiration.html"><strong aria-hidden="true">6.5.</strong> Inspiration</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio Cooperative Handbook</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="loomio-bug-reporting-guidelines"><a class="header" href="#loomio-bug-reporting-guidelines">Loomio Bug Reporting Guidelines</a></h1>
+<p><strong>The problem:</strong>
+Currently we have a tension in the team around the reporting of bugs, and a gap in understanding between the team reporting bugs in the software, and those of us tasked with fixing them. This is an attempt at outlining what makes a great bug report;</p>
+<p>So… Oh no! You found a bug! How do you get it fixed? The answer is, get it through the following 4-step process:</p>
+<p>The Four Stages of Bugfixing:</p>
+<ol>
+<li>Needs Confirmation (IE, this is a problem in production)</li>
+<li>Needs Reproduction (IE, this is a problem in a local dev environment)</li>
+<li>Needs Prioritization (IE, this is an important thing to be working on right now)</li>
+<li>Fixed! 🎉</li>
+</ol>
+<p>As a bug reporter, we’re relying on you to provide us enough information to get to step 3, at which point someone on the dev team knows why the bug is happening, how many users it affects, and (roughly) how to fix it. To get there, we need to</p>
+<h3 id="how-we-fix-bugs"><a class="header" href="#how-we-fix-bugs">How we fix bugs</a></h3>
+<h5 id="1-confirm-that-the-behaviour-is-indeed-happening"><a class="header" href="#1-confirm-that-the-behaviour-is-indeed-happening">1) Confirm that the behaviour is indeed happening</a></h5>
+<p>The internet is freaking weird. Connectivity issues, third party services, web gremlins, and a whole other myriad of oddities can cause weird things to happen all the time, often in unexpected ways. In order for us to spend time on fixing something, we should be sure that it’s a replicable problem, for a specific chunk of the userbase. Often this means providing a set of steps to demonstrate the problem on Loomio.org.</p>
+<h5 id="2-isolate-the-behaviour-in-an-environment-where-it-can-be-fixed"><a class="header" href="#2-isolate-the-behaviour-in-an-environment-where-it-can-be-fixed">2) Isolate the behaviour in an environment where it can be fixed</a></h5>
+<p>Just because something is happening on Loomio.org doesn’t necessarily mean it appears in a local dev environment. This is the ‘science’ part of computer science; if we can’t imitate the behaviour in the lab, we have no idea what the heck our fixes will do once they make it to the wild. (This is why the trickiest bugs are ones which either happen rather intermittently, or not in the development environment at all.) Do you really want our wild guesses going into your product? This part is a little further out of your grasp as a bug reporter (unless you have a dev environment :D), but is still a necessary step towards getting bugs fixed.</p>
+<p><em>NB: If we can’t get to this level of information, that’s ok. It’s good for us to know about issues even if we don’t quite know how to fix them yet, so report away. We’ll mark issues which we don’t have enough information to solve yet with a ‘Needs Confirmation’ tag on github.</em></p>
+<h5 id="3-file-and-classify-the-issue"><a class="header" href="#3-file-and-classify-the-issue">3) File and classify the issue</a></h5>
+<p>Issues, large or small, should be filed in the issues list, with as much information as you’ve deemed appropriate / available. If an issue does not appear in the issues list, you’re welcome to assume we don’t know about it.</p>
+<p>If the reporter is unable to provide enough information for the devs to reproduce the bug (either through inability or unresponsiveness), it can be marked ‘Stale’ after a period of inactivity (1 week), and closed after a longer period of inactivity (3 weeks) The issue can be reopened (or another issue can be filed) with further information if it becomes available.</p>
+<h5 id="4-the-dev-team-fixes-it"><a class="header" href="#4-the-dev-team-fixes-it">4) The dev team fixes it!</a></h5>
+<p>Go dev team, you folks are super great.</p>
+<hr />
+<p><strong>Okay great.</strong> So how do you, as a bug reporter, facilitate this process?</p>
+<p><strong>The short answer:</strong>
+Provide as much information about the problem that you’re reporting as possible, and be prepared for follow up questions.</p>
+<p><strong>The long answer (with action items!):</strong></p>
+<ul>
+<li>
+<p>Check to see if someone else has reported the bug.
+All known bugs should be captured in the issues list. If it’s not there, and it’s a bug, it belongs there!</p>
+</li>
+<li>
+<p>Gather as much information as you can about the bug. Pieces of information which will come in handy are:</p>
+<ul>
+<li>A detailed description of the behaviour you’re experiencing, and how it differs from what you’re expecting</li>
+<li>What browser / operating system you are using
+<em>(go to http://whatbrowser.org if you’re unsure)</em></li>
+<li>Screenshots or gifs of the behaviour you’re experiencing
+<em>(on Mac, you can use a handy screenshot tool by pressing CMD+SHIFT+4, and we use http://recordit.co/ for a really easy way to make gifs.)</em></li>
+<li>A link to where the issue occurred on production</li>
+<li>A log of the console while the bug is happening.
+<em>(Not sure how to open the console [or what it is]? Check out <a href="http://webmasters.stackexchange.com/a/77337">this handy guide</a> for opening the console in all major browsers.)</em>
+Is this related or similar to an already existing bug? If so, what makes this bug different?
+Specific steps you can perform to make the behaviour appear on loomio.org
+<em>(^^ this is the most important one. If you can provide this, you usually don’t need anything else.)</em></li>
+</ul>
+</li>
+<li>
+<p>Report the bug as an issue in the <a href="http://www.github.com/loomio/loomio/issues">issues list</a>, after ensuring it's not a bug which has been reported before.</p>
+</li>
+</ul>
+<p>You’re going to be quizzed on this part, so come prepared with as much information as you can muster! In the case of most simple (and many complex) bugs, it is the responsibility of the reporter to provide enough information for the devs to be able to work on the bug. We only know so much about what your individual experience is!</p>
+<h3 id="how-we-classify-bugs"><a class="header" href="#how-we-classify-bugs">How we classify bugs</a></h3>
+<p>There are many tags on the loomio repo to classify the type of issue you’re reporting. At a minimum, you should provide a severity level, and whether you think this is a bug or a feature request.</p>
+<p><img src="https://i.imgur.com/S36ftXX.png" alt="Table showing different severity levels" /></p>
+<p><strong>Core workflows</strong> are actions that every user will use on a daily basis, or functionality which is at the core of the Loomio value proposition. Examples would be starting a thread, inviting people to a group, or signing in to the app.</p>
+<p><strong>Peripheral workflows</strong> are actions that some subset of users will use (such as group coordinators), or ones which are common, but non-essential functions within the app. Examples would be liking a comment, viewing the list of members, or signing out of the app.</p>
+<p><strong>Minor workflows</strong> are ones which a very small subset of users use, or something which very few users would miss. Examples would be printing a thread, signing up with twitter, ctrl+clicking a link, or performing inline translation.</p>
+<h5 id="mitigating-factors"><a class="header" href="#mitigating-factors">Mitigating factors</a></h5>
+<p>The classificaions in the above table should be treated as guidelines; there are many reasons a bug may be more or less severe, so don’t be offended if your bug is reclassified during its lifetime. Some examples may include:</p>
+<p><strong>More severe:</strong></p>
+<ul>
+<li>It’s affecting a team member’s sprint work</li>
+<li>It’s been reported as annoying by paying or high-leverage customer(s)</li>
+<li>It’s blocking existing feature development</li>
+</ul>
+<p><strong>Less severe:</strong></p>
+<ul>
+<li>It only affects certain browsers, or occurs very rarely</li>
+<li>The functionality will be removed in a later iteration</li>
+<li>Fixing the bug is likely to introduce significant complexity into the system</li>
+</ul>
+<p>This is ok and to be expected. If you think your bug has been misclassified, say so! We’re happy to talk about it.</p>
+<h5 id="bug-vs-feature-request"><a class="header" href="#bug-vs-feature-request">Bug vs Feature Request:</a></h5>
+<p>A bug is a regression in behaviour or something that is missing from an existing design
+A feature is a request for additional functionality, above and beyond what the app already does.</p>
+<p><strong>What’s the difference?</strong>
+The big difference is that bugfixes don’t require design. A feature request, no matter how small, will require some level of consensus beyond the individual dev’s brain to agree that this is functionality we want to see in the app. The other big difference is that fixing bugs should be given priority over building features. Read <a href="http://www.joelonsoftware.com/articles/fog0000000043.html">point number 5 in this article</a> for why. (Also read that whole article, it’s great.)</p>
+<p>(Don’t fret this classification too much, but do pick one.)</p>
+<p>Thanks for reading, and keep those bug reports coming!</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="guides.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="community_group.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="guides.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="community_group.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>

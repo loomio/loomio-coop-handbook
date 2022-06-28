@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Working together - Loomio Cooperative Handbook</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="loomio.coop" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+
+
+                <a style="display: flex; align-items: center; text-decoration: none; color: #DCA034" href="/">
+                  <i class="fa fa-chevron-left" style="margin-right: 8px; " ></i>
+                  Loomio Help
+                  <!-- <img style="width: 50%; margin: 8px 0 " src="https://www.loomio.org/brand/logo_gold.svg"> -->
+                </a>
+                <hr style="border: 0.5px solid #ccc; margin: 1em 0;">
+                <!-- <strong>Loomio Cooperative Handbook</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="our_cooperative.html"><strong aria-hidden="true">2.</strong> Our Cooperative</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="history.html"><strong aria-hidden="true">2.1.</strong> History</a></li><li class="chapter-item expanded "><a href="purpose_and_vision.html"><strong aria-hidden="true">2.2.</strong> Purpose &amp; Vision</a></li><li class="chapter-item expanded "><a href="cooperative_principles.html"><strong aria-hidden="true">2.3.</strong> Cooperative Principles</a></li><li class="chapter-item expanded "><a href="constitution.html"><strong aria-hidden="true">2.4.</strong> Constitution</a></li><li class="chapter-item expanded "><a href="governance.html"><strong aria-hidden="true">2.5.</strong> Governance</a></li></ol></li><li class="chapter-item expanded "><a href="working_together.html" class="active"><strong aria-hidden="true">3.</strong> Working together</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="strategy.html"><strong aria-hidden="true">3.1.</strong> Strategy</a></li><li class="chapter-item expanded "><a href="planning.html"><strong aria-hidden="true">3.2.</strong> Planning</a></li><li class="chapter-item expanded "><a href="sprints.html"><strong aria-hidden="true">3.3.</strong> Sprints</a></li><li class="chapter-item expanded "><a href="coordination.html"><strong aria-hidden="true">3.4.</strong> Coordination</a></li><li class="chapter-item expanded "><a href="working_groups.html"><strong aria-hidden="true">3.5.</strong> Working Groups</a></li><li class="chapter-item expanded "><a href="product_prioritisation.html"><strong aria-hidden="true">3.6.</strong> Product Prioritisation</a></li><li class="chapter-item expanded "><a href="using_loomio.html"><strong aria-hidden="true">3.7.</strong> Loomio Using Loomio</a></li><li class="chapter-item expanded "><a href="communications.html"><strong aria-hidden="true">3.8.</strong> Communications tools</a></li><li class="chapter-item expanded "><a href="marketing_tools.html"><strong aria-hidden="true">3.9.</strong> Marketing tools</a></li><li class="chapter-item expanded "><a href="dev_tools.html"><strong aria-hidden="true">3.10.</strong> Dev tools</a></li></ol></li><li class="chapter-item expanded "><a href="looking_after_people.html"><strong aria-hidden="true">4.</strong> Looking after people</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="stewarding.html"><strong aria-hidden="true">4.1.</strong> Stewarding</a></li><li class="chapter-item expanded "><a href="well_working_group.html"><strong aria-hidden="true">4.2.</strong> Well Working Group</a></li><li class="chapter-item expanded "><a href="professional_development.html"><strong aria-hidden="true">4.3.</strong> Professional Development</a></li><li class="chapter-item expanded "><a href="conflict_resolution.html"><strong aria-hidden="true">4.4.</strong> Conflict Resolution Process</a></li><li class="chapter-item expanded "><a href="conflict_resolution_resources.html"><strong aria-hidden="true">4.5.</strong> Conflict Resolution Resources</a></li><li class="chapter-item expanded "><a href="retreats.html"><strong aria-hidden="true">4.6.</strong> Retreats</a></li><li class="chapter-item expanded "><a href="staff_wellbeing_budget.html"><strong aria-hidden="true">4.7.</strong> Staff Wellbeing Budget</a></li></ol></li><li class="chapter-item expanded "><a href="employment_and_membership.html"><strong aria-hidden="true">5.</strong> Employment &amp; Membership</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="employment.html"><strong aria-hidden="true">5.1.</strong> Employment</a></li><li class="chapter-item expanded "><a href="staff_onboarding.html"><strong aria-hidden="true">5.2.</strong> Staff Onboarding</a></li><li class="chapter-item expanded "><a href="membership.html"><strong aria-hidden="true">5.3.</strong> Membership</a></li><li class="chapter-item expanded "><a href="loomio_points.html"><strong aria-hidden="true">5.4.</strong> Loomio Points</a></li><li class="chapter-item expanded "><a href="health_and_safety.html"><strong aria-hidden="true">5.5.</strong> Health &amp; Safety</a></li><li class="chapter-item expanded "><a href="annual_leave.html"><strong aria-hidden="true">5.6.</strong> Annual Leave</a></li></ol></li><li class="chapter-item expanded "><a href="guides.html"><strong aria-hidden="true">6.</strong> Other Guides</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bug_reporting_guidelines.html"><strong aria-hidden="true">6.1.</strong> Bug Reporting Guidelines</a></li><li class="chapter-item expanded "><a href="community_group.html"><strong aria-hidden="true">6.2.</strong> Loomio Community Group</a></li><li class="chapter-item expanded "><a href="brand_guidelines.html"><strong aria-hidden="true">6.3.</strong> The Loomio Way (Brand Guidelines)</a></li><li class="chapter-item expanded "><a href="collaborative_funding.html"><strong aria-hidden="true">6.4.</strong> Collaborative Funding</a></li><li class="chapter-item expanded "><a href="inspiration.html"><strong aria-hidden="true">6.5.</strong> Inspiration</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio Cooperative Handbook</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="working-together"><a class="header" href="#working-together">Working together</a></h1>
+<h2 id="we-use-rhythms-to-balance-freedom-and-focus"><a class="header" href="#we-use-rhythms-to-balance-freedom-and-focus">We use rhythms to balance freedom and focus</a></h2>
+<ul>
+<li>our <a href="purpose_and_vision.html">purpose</a> is our forever reason for being</li>
+<li>we do <a href="strategy.html">strategy</a> to tell stories from 3 years in the future</li>
+<li>we do <a href="planning.html">planning</a> every 3 months so everyone is focussed on the same thing</li>
+<li>we run <a href="sprints.html">two-week sprints</a> to maintain agility, clarity, and accountability</li>
+<li>we self-organise into dynamic <a href="working_groups.html">working groups</a> to address areas of work</li>
+<li>we have a collaborative process to <a href="product_prioritisation.html">prioritise product development</a></li>
+</ul>
+<h2 id="the-evolution-of-our-organisational-structure"><a class="header" href="#the-evolution-of-our-organisational-structure">The evolution of our organisational structure</a></h2>
+<h3 id="the-swarm"><a class="header" href="#the-swarm">The swarm</a></h3>
+<p>In the earliest days of Loomio, we were organised as a &quot;swarm&quot; - we had open door meetings once a week, and anyone could rock up and help out. We ran a <a href="https://www.pledgeme.co.nz/projects/166-loomio">tiny crowdfunding campaign</a>, and founded an LLC so we could have a bank account.</p>
+<p>In 2012, the core team committed to the project, and we formed a worker-owned cooperative. There were still a lot of people contributing on a casual part time basis, but there was also a group of full time people who became co-owners. We raised a round of loans from friends and family, and convened a board.</p>
+<p>Internally, we were &quot;self-organised&quot; and it was somewhat chaotic, but it worked for extremely flexible adaptation and lots of learning quickly. We focused on peer-to-peer support systems like stewardship, and having regular retreats.</p>
+<h3 id="coordinated-programs"><a class="header" href="#coordinated-programs">Coordinated programs</a></h3>
+<p>In mid-2014, we completed a major <a href="https://www.loomio.org/crowdfunding_celebration">crowdfunding campaign</a>, which meant we suddenly had 1,600 new external stakeholders who were expecting us to deliver on our promises. This triggered us to develop a more explicit organisational structure.</p>
+<p>We broke the team up into work programs, and nominated coordinators. Every program had a mandate to deliver a specific outcome, a share of the budget as allocated by the coop members, and a coordinator to maintain alignment within and between programs.</p>
+<p>This system worked pretty well: we delivered on our crowdfunding promises and we learned a lot about how a democratic workplace can be super efficient.</p>
+<h3 id="embracing-agile"><a class="header" href="#embracing-agile">Embracing agile</a></h3>
+<p>Then we evolved again, and became a fully agile team. We had always drawn on elements of agile organising in our software development practices, but it was when we started incorporating all work across the co-op into agile sprints that it really clicked together.</p>
+<p>Every 3 months we stop and reassess the team makeup, the coordinators, and the budget to check: are we still making the absolute best use of this money that’s been entrusted to us? This made us super adaptive and efficient, but of course it was really disruptive too.</p>
+<p>In late 2015 we <a href="http://yesmagazine.org/new-economy/how-a-worker-owned-tech-startup-found-investors-and-kept-its-values-20160426">raised money from impact investors</a>, which finally brought us to a level of financial security where we could think more than 3 months ahead. This has enabled us to thinking long-term, resource a solid core team, and settle into a set of functional processes that address different perspectives and time-scales of our work.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="governance.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="strategy.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="governance.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="strategy.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>

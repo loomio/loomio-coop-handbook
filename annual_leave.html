@@ -1,0 +1,487 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Annual Leave - Loomio Cooperative Handbook</title>
+                <!--  -->
+
+        <!-- Custom HTML head -->
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+                        <link rel="shortcut icon" href="favicon.png">
+                <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+                <link rel="stylesheet" href="css/print.css" media="print">
+        
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+                <link rel="stylesheet" href="fonts/fonts.css">
+        
+        <!-- roboto -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+                <script defer data-domain="loomio.coop" src="https://measure.loomio.org/js/script.outbound-links.js"></script>
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+
+
+                <a style="display: flex; align-items: center; text-decoration: none; color: #DCA034" href="/">
+                  <i class="fa fa-chevron-left" style="margin-right: 8px; " ></i>
+                  Loomio Help
+                  <!-- <img style="width: 50%; margin: 8px 0 " src="https://www.loomio.org/brand/logo_gold.svg"> -->
+                </a>
+                <hr style="border: 0.5px solid #ccc; margin: 1em 0;">
+                <!-- <strong>Loomio Cooperative Handbook</strong> -->
+                <ol class="chapter"><li class="chapter-item expanded "><a href="index.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="our_cooperative.html"><strong aria-hidden="true">2.</strong> Our Cooperative</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="history.html"><strong aria-hidden="true">2.1.</strong> History</a></li><li class="chapter-item expanded "><a href="purpose_and_vision.html"><strong aria-hidden="true">2.2.</strong> Purpose &amp; Vision</a></li><li class="chapter-item expanded "><a href="cooperative_principles.html"><strong aria-hidden="true">2.3.</strong> Cooperative Principles</a></li><li class="chapter-item expanded "><a href="constitution.html"><strong aria-hidden="true">2.4.</strong> Constitution</a></li><li class="chapter-item expanded "><a href="governance.html"><strong aria-hidden="true">2.5.</strong> Governance</a></li></ol></li><li class="chapter-item expanded "><a href="working_together.html"><strong aria-hidden="true">3.</strong> Working together</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="strategy.html"><strong aria-hidden="true">3.1.</strong> Strategy</a></li><li class="chapter-item expanded "><a href="planning.html"><strong aria-hidden="true">3.2.</strong> Planning</a></li><li class="chapter-item expanded "><a href="sprints.html"><strong aria-hidden="true">3.3.</strong> Sprints</a></li><li class="chapter-item expanded "><a href="coordination.html"><strong aria-hidden="true">3.4.</strong> Coordination</a></li><li class="chapter-item expanded "><a href="working_groups.html"><strong aria-hidden="true">3.5.</strong> Working Groups</a></li><li class="chapter-item expanded "><a href="product_prioritisation.html"><strong aria-hidden="true">3.6.</strong> Product Prioritisation</a></li><li class="chapter-item expanded "><a href="using_loomio.html"><strong aria-hidden="true">3.7.</strong> Loomio Using Loomio</a></li><li class="chapter-item expanded "><a href="communications.html"><strong aria-hidden="true">3.8.</strong> Communications tools</a></li><li class="chapter-item expanded "><a href="marketing_tools.html"><strong aria-hidden="true">3.9.</strong> Marketing tools</a></li><li class="chapter-item expanded "><a href="dev_tools.html"><strong aria-hidden="true">3.10.</strong> Dev tools</a></li></ol></li><li class="chapter-item expanded "><a href="looking_after_people.html"><strong aria-hidden="true">4.</strong> Looking after people</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="stewarding.html"><strong aria-hidden="true">4.1.</strong> Stewarding</a></li><li class="chapter-item expanded "><a href="well_working_group.html"><strong aria-hidden="true">4.2.</strong> Well Working Group</a></li><li class="chapter-item expanded "><a href="professional_development.html"><strong aria-hidden="true">4.3.</strong> Professional Development</a></li><li class="chapter-item expanded "><a href="conflict_resolution.html"><strong aria-hidden="true">4.4.</strong> Conflict Resolution Process</a></li><li class="chapter-item expanded "><a href="conflict_resolution_resources.html"><strong aria-hidden="true">4.5.</strong> Conflict Resolution Resources</a></li><li class="chapter-item expanded "><a href="retreats.html"><strong aria-hidden="true">4.6.</strong> Retreats</a></li><li class="chapter-item expanded "><a href="staff_wellbeing_budget.html"><strong aria-hidden="true">4.7.</strong> Staff Wellbeing Budget</a></li></ol></li><li class="chapter-item expanded "><a href="employment_and_membership.html"><strong aria-hidden="true">5.</strong> Employment &amp; Membership</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="employment.html"><strong aria-hidden="true">5.1.</strong> Employment</a></li><li class="chapter-item expanded "><a href="staff_onboarding.html"><strong aria-hidden="true">5.2.</strong> Staff Onboarding</a></li><li class="chapter-item expanded "><a href="membership.html"><strong aria-hidden="true">5.3.</strong> Membership</a></li><li class="chapter-item expanded "><a href="loomio_points.html"><strong aria-hidden="true">5.4.</strong> Loomio Points</a></li><li class="chapter-item expanded "><a href="health_and_safety.html"><strong aria-hidden="true">5.5.</strong> Health &amp; Safety</a></li><li class="chapter-item expanded "><a href="annual_leave.html" class="active"><strong aria-hidden="true">5.6.</strong> Annual Leave</a></li></ol></li><li class="chapter-item expanded "><a href="guides.html"><strong aria-hidden="true">6.</strong> Other Guides</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="bug_reporting_guidelines.html"><strong aria-hidden="true">6.1.</strong> Bug Reporting Guidelines</a></li><li class="chapter-item expanded "><a href="community_group.html"><strong aria-hidden="true">6.2.</strong> Loomio Community Group</a></li><li class="chapter-item expanded "><a href="brand_guidelines.html"><strong aria-hidden="true">6.3.</strong> The Loomio Way (Brand Guidelines)</a></li><li class="chapter-item expanded "><a href="collaborative_funding.html"><strong aria-hidden="true">6.4.</strong> Collaborative Funding</a></li><li class="chapter-item expanded "><a href="inspiration.html"><strong aria-hidden="true">6.5.</strong> Inspiration</a></li></ol></li></ol>            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                                                <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                                            </div>
+
+                    <h1 class="menu-title">Loomio Cooperative Handbook</h1>
+
+                    <div class="right-buttons">
+                                                <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                                                                        
+                    </div>
+                </div>
+
+                                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="annual-leave-policy"><a class="header" href="#annual-leave-policy">Annual Leave Policy</a></h1>
+<p>This policy is built from <a href="http://www.business.govt.nz/staff-and-hr/managing-employees/holidays-and-leave">NZ legal requirements</a> and is intended for all Loomio staff, (employees and internal contractors). Where a person is working as an internal contractor on a regular basis for Loomio, all conditions apply according to the worker’s FTE rate unless otherwise specified.</p>
+<h2 id="process"><a class="header" href="#process">Process</a></h2>
+<p>For annual, sick or any other type of leave, please follow these steps.</p>
+<p><strong>Step 1)</strong> Apply for Leave using the <a href="http://goo.gl/forms/3T83RgOA2O">Annual Leave Application Form</a>. An email will be sent to one of the Coordinators.</p>
+<p><strong>Step 2)</strong> Enter your leave on the <a href="https://www.google.com/calendar/embed?src=enspiral.com_7ulpl0a1tuscostelln24mv820%40group.calendar.google.com&amp;ctz=Pacific/Auckland">Loomio Calendar</a></p>
+<p><strong>Step 3)</strong> Coordinator will acknowledge and approve your leave</p>
+<p><strong>Step 4)</strong> Enjoy your leave! If you need to shorten or extend it, please advise the Coordinator.</p>
+<p>Sick leave will likely be recorded retrospectively.</p>
+<h2 id="holidays-and-leave-at-a-glance"><a class="header" href="#holidays-and-leave-at-a-glance">Holidays and leave at a glance</a></h2>
+<p>All employees (not Contractors) working in New Zealand are legally covered by the Holidays Act (2003). The Act requires that:</p>
+<ul>
+<li>
+<p>as an employer, you keep accurate records of the time and days worked and any leave accrued and taken for all employees</p>
+</li>
+<li>
+<p>all employees can take <a href="http://www.business.govt.nz/staff-and-hr/managing-employees/holidays-and-leave#annual">annual leave</a> (depending how long they’ve worked for Loomio)</p>
+</li>
+<li>
+<p>all employees are given <a href="http://www.business.govt.nz/staff-and-hr/managing-employees/holidays-and-leave#sick">sick leave</a> and <a href="http://www.business.govt.nz/staff-and-hr/managing-employees/holidays-and-leave#bereavement">bereavement leave</a></p>
+</li>
+<li>
+<p>all employees get paid leave on <a href="http://www.business.govt.nz/staff-and-hr/managing-employees/holidays-and-leave#public-holidays">public holidays</a>, if they would normally work on that day</p>
+</li>
+<li>
+<p>employees can take paid and unpaid <a href="http://www.business.govt.nz/staff-and-hr/managing-employees/holidays-and-leave#parental">parental leave</a> (depending on their circumstances).</p>
+</li>
+</ul>
+<h1 id="annual-leave"><a class="header" href="#annual-leave">Annual leave</a></h1>
+<p>Time away from work is vital for the health of employees – so it’s vital for the health of Loomio. Time off not only reduces stress, it has been shown to improve productivity once employees return to work.</p>
+<p>Loomio provides:</p>
+<ul>
+<li>
+<p>four weeks of paid annual holidays (not including public holidays or sick leave), either in full each year on the anniversary of employee’s start date, or building up throughout the year</p>
+</li>
+<li>
+<p>taking at least two weeks at once </p>
+</li>
+<li>
+<p>Consideration of any request to pay out up to one week of annual holiday entitlement</p>
+</li>
+<li>
+<p>keeping <a href="http://www.business.govt.nz/staff-and-hr/managing-employees/personnel-files-and-record-keeping">good records</a> of all leave to avoid disputes</p>
+</li>
+<li>
+<p>at least 14 days’ notice before an annual closedown</p>
+</li>
+<li>
+<p>a limit of 1 week leave employees may carry over each year</p>
+</li>
+<li>
+<p>A requirement that employees who’ve built up too much leave take some or all of it — if Loomio and employee can’t agree when the leave will be taken, Loomio must give at least 14 days’ notice before requiring them to take leave</p>
+</li>
+<li>
+<p>That employees may exchange up to a week of annual leave for cash each year subject Loomio’s cash position and Coordinator approval</p>
+</li>
+<li>
+<p>The possibility to decline an employee’s request for leave if there is a good reason</p>
+</li>
+<li>
+<p>letting employees take paid leave in advance – in such case employee will agree in writing that if they leave the job before they’ve earned back the leave they’ve taken, Loomio can deduct the outstanding amount from their final pay.</p>
+</li>
+</ul>
+<h2 id="employees-who-work-irregular-hours-or-shifts"><a class="header" href="#employees-who-work-irregular-hours-or-shifts">Employees who work irregular hours or shifts</a></h2>
+<p>If an employee doesn’t have set hours, you can decide with them what four weeks' leave means and record this in their employment agreement (this should be continually updated).</p>
+<p>Workers with no set hours or on fixed-term agreements of less than a year can agree to be paid an extra 8% of their gross pay instead of accruing any annual leave. This must be written into their employment agreement.</p>
+<h2 id="leave-during-an-annual-closedown"><a class="header" href="#leave-during-an-annual-closedown">Leave during an annual closedown</a></h2>
+<p>If Loomio declares an annual closedown, e.g. the office is closed over Christmas, employees have to take time off even if they don't have any annual leave.</p>
+<p>Loomio must provide 14 days' notice of the closedown. Employees must:</p>
+<ul>
+<li>
+<p>take annual leave over the closedown, or</p>
+</li>
+<li>
+<p>take unpaid leave if they don't have any leave available.</p>
+</li>
+</ul>
+<p>If the closedown period includes any public holidays, Loomio will pay for them if they fall on days of usual work.</p>
+<h2 id="staff-who-have-worked-for-loomio-for-less-than-12-months"><a class="header" href="#staff-who-have-worked-for-loomio-for-less-than-12-months">Staff who have worked for Loomio for less than 12 months</a></h2>
+<p>If employees have not accrued leave or received leave entitlement yet they still have to take time off in a closedown.</p>
+<p>In such case Loomio may either:</p>
+<ul>
+<li>
+<p>pay 8% of their gross salary earned to date over the period of the closedown</p>
+</li>
+<li>
+<p>let them take paid annual leave in advance</p>
+</li>
+</ul>
+<h1 id="public-holidays"><a class="header" href="#public-holidays">Public holidays</a></h1>
+<p>As well as four weeks of annual leave, employees are entitled to 11 public holidays each year (if the public holidays fall on days they’d normally work). </p>
+<p>When a public holiday falls on a day the employee would usually work, no matter how long they’ve been working for Loomio they’re entitled to a paid day off.</p>
+<p>Loomio can only require an employee to work on a public holiday if it’s written into their employment agreement. If they agree to work, Loomio must:</p>
+<ul>
+<li>
+<p>pay them at least time and a half and</p>
+</li>
+<li>
+<p>give them another paid day off later (a day in lieu).</p>
+</li>
+</ul>
+<p>Notes: </p>
+<ul>
+<li>
+<p>Easter Sunday is not a public holiday.</p>
+</li>
+<li>
+<p>If Waitangi Day and ANZAC Day fall on a Saturday or Sunday, the public holiday is Monday</p>
+</li>
+<li>
+<p>If any of the public holidays over Christmas fall on a Saturday or Sunday, the next work day (or days) will be the public holidays for all staff who wouldn’t usually work weekends.</p>
+</li>
+</ul>
+<p><a href="http://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates">New Zealand’s public holiday dates</a></p>
+<h2 id="days-in-lieu-alternative-holidays"><a class="header" href="#days-in-lieu-alternative-holidays">Days in lieu (alternative holidays)</a></h2>
+<p>Employees who are entitled to a day in lieu get a full day off, no matter how many hours they worked on the public holiday.</p>
+<p>They don’t get a day in lieu if:</p>
+<ul>
+<li>
+<p>they wouldn't usually have worked that day</p>
+</li>
+<li>
+<p>they only work on public holidays</p>
+</li>
+<li>
+<p>they were on call but didn't have to do anything, and being on call didn't stop them doing what they wanted to do with their day.</p>
+</li>
+</ul>
+<h1 id="sick-leave"><a class="header" href="#sick-leave">Sick leave</a></h1>
+<p>If staff members are sick, they are encouraged to stay at home. Not only will it give you a chance to rest and recover, but it will help stop others in the team from getting sick. </p>
+<p>After an employee has been working for Loomio for six months, they're legally entitled to at least five days' paid sick leave a year.</p>
+<p>Loomio must:</p>
+<ul>
+<li>
+<p>allow unused sick leave to carry over into the next year to a maximum of 15 days each year</p>
+</li>
+<li>
+<p>allow employees to use sick leave to care for a spouse, partner, dependent child or any other dependent individual</p>
+</li>
+<li>
+<p>pay a sick employee what they’d get if they’d worked a normal day,</p>
+</li>
+</ul>
+<p>Loomio may also:</p>
+<ul>
+<li>let employees who’ve worked for less than six months take sick leave in advance</li>
+</ul>
+<h2 id="asking-for-doctors-certificates"><a class="header" href="#asking-for-doctors-certificates">Asking for doctor’s certificates</a></h2>
+<p>Loomio may ask for a doctor's certificate:</p>
+<ul>
+<li>after an employee has been away for three consecutive days </li>
+</ul>
+<h2 id="if-an-employee-is-injured"><a class="header" href="#if-an-employee-is-injured">If an employee is injured</a></h2>
+<p>If an employee is injured:</p>
+<ul>
+<li>
+<p>at work, they don’t need to take sick leave. Once the accident is registered and acknowledged by ACC Loomio must pay them at least 80% of their normal wages for the first week they’re off work</p>
+</li>
+<li>
+<p>somewhere other than work, they can choose to take sick leave for the first week they’re off work — they can also choose to take annual leave or leave without pay.</p>
+</li>
+</ul>
+<p>After the first week, ACC will pay them 80% of their usual salary while they’re off work. Employees can request to pay them for one day's sick leave each week if they want to and they have the sick leave available. Loomio has no other obligation to pay them while they’re on ACC. However if employee returns to work on part-time duties, Loomio may need to make a contribution towards their salary.</p>
+<h1 id="bereavement-leave"><a class="header" href="#bereavement-leave">Bereavement leave</a></h1>
+<p>It is always a difficult time after a loved one dies, which is why there are set entitlements for staff to take bereavement leave.</p>
+<p>However, Loomio may also let employees take more leave than they’re legally entitled to — either as annual leave or unpaid.</p>
+<h2 id="what-loomio-must-do"><a class="header" href="#what-loomio-must-do">What Loomio must do</a></h2>
+<p>After an employee has been working for for six months, they’re entitled to:</p>
+<ul>
+<li>
+<p>three days’ bereavement leave on the death of their:</p>
+<ul>
+<li>
+<p>child</p>
+</li>
+<li>
+<p>grandchild</p>
+</li>
+<li>
+<p>grandparent</p>
+</li>
+<li>
+<p>parent</p>
+</li>
+<li>
+<p>partner</p>
+</li>
+<li>
+<p>partner’s parent, or</p>
+</li>
+<li>
+<p>sibling.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>one day’s bereavement leave on the death of a person outside the immediate family — this leave is decided case-by-case at Loomio’s discretion.</p>
+</li>
+</ul>
+<p>They’re allowed to take their bereavement leave at any time and for any reason that relates to the death.</p>
+<h2 id="loomio-may-on-coordinator-approval"><a class="header" href="#loomio-may-on-coordinator-approval">Loomio may on Coordinator approval</a></h2>
+<ul>
+<li>
+<p>offer more bereavement leave in employees’ agreements</p>
+</li>
+<li>
+<p>offer bereavement leave to employees before they’ve been working for six months</p>
+</li>
+<li>
+<p>let employees take a longer period of leave — either using their annual leave entitlement or as unpaid leave.</p>
+</li>
+</ul>
+<h1 id="parental-leave"><a class="header" href="#parental-leave">Parental leave</a></h1>
+<p>If an employee or their partner is having a baby or adopting a child under six, they might be entitled to parental leave.</p>
+<p>Employees who’ve worked for Loomio for 12 months or more at the time of birth or adoption, for at least 10 hours a week or 40 hours a month (including at least one hour a week), are entitled to:</p>
+<ul>
+<li>
+<p>52 weeks of unpaid parental leave — Loomio must keep their job open for them for 52 weeks from the date they start their leave</p>
+</li>
+<li>
+<p>16 weeks of government-paid parental leave.</p>
+</li>
+</ul>
+<p>Employees who’ve worked for Loomio for six months or more, for at least 10 hours a week or 40 hours a month (including at least one hour a week), are entitled to:</p>
+<ul>
+<li>16 weeks of government-paid parental leave — Loomio must keep their job open for them for 14 weeks.</li>
+</ul>
+<p>Employees who’ve worked for Loomio for less than six months are not entitled to any parental leave.</p>
+<h2 id="how-it-works"><a class="header" href="#how-it-works">How it works</a></h2>
+<p>Parental leave can be taken by one parent or split between them, as long as they’re both eligible. Parental leave can start up to six weeks before the expected date of birth or adoption — or earlier if:</p>
+<ul>
+<li>
+<p>directed by a doctor</p>
+</li>
+<li>
+<p>it becomes too hard for a pregnant employee to do their job.</p>
+</li>
+</ul>
+<h3 id="special-leave-for-pregnant-employees"><a class="header" href="#special-leave-for-pregnant-employees">Special leave for pregnant employees</a></h3>
+<p>Pregnant employees can also take 10 days of unpaid special leave for things like doctor’s appointments and antenatal classes.</p>
+<h3 id="paternitypartners-leave"><a class="header" href="#paternitypartners-leave">Paternity/partner’s leave</a></h3>
+<p>Fathers or partners are entitled to:</p>
+<ul>
+<li>
+<p>one week of unpaid leave if they’ve worked for Loomio for six months, or</p>
+</li>
+<li>
+<p>two weeks of unpaid leave if they’ve worked for Loomio for 12 months or more.</p>
+</li>
+</ul>
+<p>They can take this leave between 21 days before the expected birth or adoption and 21 days after, unless Loomio agrees otherwise. This leave is in addition to any other parental leave they’re sharing with their partner.</p>
+<h3 id="returning-to-work"><a class="header" href="#returning-to-work">Returning to work</a></h3>
+<p>Employee needs to let Loomio know at least 21 days before the end of their leave whether or not they’re going to return to work.</p>
+<h2 id="what-loomio-must-do-1"><a class="header" href="#what-loomio-must-do-1">What Loomio must do</a></h2>
+<p>Loomio can’t decline parental leave requests, but can decline to hold a &quot;key position&quot; open if:</p>
+<ul>
+<li>
+<p>employee will be gone longer than four weeks</p>
+</li>
+<li>
+<p>the position is crucial to Loomio business</p>
+</li>
+<li>
+<p>it’s not possible to find a short-term replacement for employee.</p>
+</li>
+</ul>
+<p>When an employee applies for parental leave, Loomio must:</p>
+<ul>
+<li>
+<p>let them know what their parental leave entitlements are</p>
+</li>
+<li>
+<p>approve or decline their request within 21 days</p>
+</li>
+<li>
+<p>confirm the leave arrangements in writing.</p>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                                                    <a rel="prev" href="health_and_safety.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+                                                    <a rel="next" href="guides.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                                    <a rel="prev" href="health_and_safety.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+                                    <a rel="next" href="guides.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                            </nav>
+
+        </div>
+
+        
+        
+        
+                <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+        
+                <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+            </body>
+</html>
