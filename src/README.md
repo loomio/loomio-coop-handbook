@@ -11,7 +11,7 @@ You might like to catch up with the current activities of the authors: [Alanna I
 
 The software we build is [open source](http://github.com/loomio/loomio), and our organisation is open source too. This handbook is where we document how we run an efficient organisation without a hierarchy.
 
-We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.org](https://www.loomio.com?utm_campaign=handbook&utm_source=handbook).
+We build software for collaborative decision making, used by thousands of organisations and communities around the world. If you’re looking for a way to make group decisions without meeting, try it out at [loomio.com](https://www.loomio.com?utm_campaign=handbook&utm_source=handbook).
 
 ---
 
