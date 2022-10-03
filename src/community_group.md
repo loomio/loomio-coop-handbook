@@ -1,5 +1,5 @@
 # Loomio Community Group
-This policy, which was agreed in collaboration with users, governs the [Loomio Community Group](http://www.loomio.org/community) on Loomio.
+This policy, which was agreed in collaboration with users, governs the [Loomio Community Group](https://www.loomio.com/community) on Loomio.
 
 **Keep in mind, the Loomio Community group is:**
 
@@ -7,7 +7,7 @@ This policy, which was agreed in collaboration with users, governs the [Loomio C
 * **Large** - There are hundreds of people here, and posting to this group can reach all of them. 
 * **Diverse** - We have group members from all over the world, in a huge range of personal, professional, political, and interest areas. 
 * **Valued** - Many people care about Loomio very deeply and personally, and find the concepts around Loomio profoundly important. 
-* **Based on the [Loomio Purpose](http://www.loomio.org/purpose)** - the ultimate foundation for the Loomio Community. 
+* **Based on the [Loomio Purpose](https://www.loomio.com/purpose)** - the ultimate foundation for the Loomio Community. 
 
 **What this Group is For**
 Engaging with the wider community of users, contributors, and supporters is absolutely key to the core values and purpose of Loomio. This is a community-driven project.
