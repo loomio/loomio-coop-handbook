@@ -3,7 +3,7 @@
 ### An update for 2022
 This handbook was written circa 2016. We preseve it here because it's a useful history of the organization at the time. 
 
-In 2022, 10 years since Loomio launched, the team is smaller, but also more experienced. We're currently just 4 people in operational roles and 4 in advisory roles. We're still a worker-owned cooperative, and we're just as passionate about our work today as we were when this book was written - we've just changed how we work to suit our smaller team. We're proud of this handbook as it is, and hope you find something useful within.
+In 2022, 10 years since Loomio launched, the team is smaller, but also more experienced. We're still a worker-owned cooperative, and we're just as passionate about our work today as we were when this book was written - we've just changed how we work to suit our smaller team. We're proud of this handbook as it is, and hope you find something useful within.
 
 If you're interested in using Loomio, you're welcome to try a demo or start a trial at [loomio.com](https://www.loomio.com).
 
